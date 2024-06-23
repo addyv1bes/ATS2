@@ -1,0 +1,1955 @@
+************ : log created on : Saturday June 22 2024 @ 11:27:47
+00:00:00.000 : [sys] running on x86_64 / Windows 10 x64 (version 10.0.22631)
+00:00:00.000 : [sys] Command line:  D:\SteamLibrary\steamapps\common\American Truck Simulator\bin\win_x64\amtrucks.exe
+00:00:00.000 : [cpu] CPU0: AuthenticAMD [AMD Ryzen 5 5500                               ] with 6 cores (12 threads) at ~3600MHz.
+00:00:00.000 : [sys] using 4 worker thread(s)
+00:00:00.000 : [sys] and 3 worker threads for IO.
+00:00:00.000 : [sys] plus 3 real-time worker threads.
+00:00:00.000 : [sys] using QPC / HPET timer, frequency 10000000Hz
+00:00:00.000 : [mem] physical total: 16170M
+00:00:00.000 : [mem] physical avail: 6186M
+00:00:00.000 : [mem] virtual total: 134217727M
+00:00:00.000 : [mem] virtual avail: 134212701M
+00:00:00.000 : [mem] Trying to allocate memory pool (6291456K)
+00:00:00.000 : [mem] Allocated 128 MBs for temporary loading buffers
+00:00:00.017 : [xinput] Using XInput version 1.4.0
+00:00:00.078 : [hashfs] version.scs: Created and validated, 2 entries (107F324D33ADE55FB8EA611BEC3B049CAD495DABD52A1C427BF06531EBF58F60)
+00:00:00.079 : [hashfs] version.scs: Unmounted.
+00:00:00.079 : [ufs] Loaded pack set version 1.50.1.14 created at 1716460590
+00:00:00.101 : [hashfs] effect.scs: Created and validated, 22867 entries (30A2EE5626FE07F7CC3F5E9B83771B68B27D062D6137E38A9ADB60630E2AAC95)
+00:00:00.101 : [fs] device D:/SteamLibrary/steamapps/common/American Truck Simulator/effect.scs mounted.
+00:00:00.240 : [hashfs] base.scs: Created and validated, 104212 entries (EBA57A671FAC45EBF6E1E33F80D57A81CA560909C0F470CD5AF8F047B0B39841)
+00:00:00.240 : [fs] device D:/SteamLibrary/steamapps/common/American Truck Simulator/base.scs mounted.
+00:00:00.265 : [hashfs] base_map.scs: Created and validated, 1266 entries (A6C6B21D6D0680BFC048DC239DC14617E1A8A25DE8F578717C62E89178AE6509)
+00:00:00.265 : [fs] device D:/SteamLibrary/steamapps/common/American Truck Simulator/base_map.scs mounted.
+00:00:00.316 : [hashfs] base_vehicle.scs: Created and validated, 25521 entries (FBAAD2A310B6AA23D5E31C1B112158514D03F4A2AD31E7DCACDCAE44A4C2DB1D)
+00:00:00.316 : [fs] device D:/SteamLibrary/steamapps/common/American Truck Simulator/base_vehicle.scs mounted.
+00:00:00.354 : [hashfs] base_share.scs: Created and validated, 22980 entries (B162D24D36EACE3120875512916E385E43839641ADD1B7322455AFF63EA7A87C)
+00:00:00.355 : [fs] device D:/SteamLibrary/steamapps/common/American Truck Simulator/base_share.scs mounted.
+00:00:00.899 : [hashfs] def.scs: Created and validated, 18368 entries (997E6DB96ECE921EA68847E36E55F8436619C8FB8E981AF1BF60D780BE4B2CCD)
+00:00:00.900 : [fs] device D:/SteamLibrary/steamapps/common/American Truck Simulator/def.scs mounted.
+00:00:00.900 : [hashfs] core.scs: Created and validated, 9 entries (54BCA649ABA035E27EAE66EDDB42DE7000093913620215FAE1F4AA04CDFA4888)
+00:00:00.900 : [fs] device D:/SteamLibrary/steamapps/common/American Truck Simulator/core.scs mounted.
+00:00:01.156 : [hashfs] locale.scs: Created and validated, 265 entries (4FA64F2CBAD370EF38AA56034844873D32E01BA141C31F4C423A88A47D824065)
+00:00:01.156 : [fs] device D:/SteamLibrary/steamapps/common/American Truck Simulator/locale.scs mounted.
+00:00:01.156 : [hashfs] base_cfg.scs: Created and validated, 1 entries (8DCF28F66D61A01BAC2E1F2C44B17DE610BBB14591D512AA2C9BD5EED7B9BEF2)
+00:00:01.156 : [fs] device D:/SteamLibrary/steamapps/common/American Truck Simulator/base_cfg.scs mounted.
+00:00:01.156 : [ufs] Home directory: 'C:/Users/corvu/OneDrive/Documents/American Truck Simulator'.
+00:00:01.157 : [fs] device C:/Users/corvu/OneDrive/Documents/American Truck Simulator mounted.
+00:00:01.157 : [fs] device C:/Users/corvu/AppData/Local/Temp/.scs mounted.
+00:00:01.181 : [zipfs] data1.mp: Created, 39 entries
+00:00:01.181 : [fs] device C:\Users\corvu\AppData\Roaming\TruckersMP\installation/data/ats/mods/data1.mp mounted.
+00:00:01.187 : [zipfs] data2.mp: Created, 466 entries
+00:00:01.188 : [fs] device C:\Users\corvu\AppData\Roaming\TruckersMP\installation/data/shared/mods/data2.mp mounted.
+00:00:01.188 : [hashfs] data_bus.mp: Created, 2 entries
+00:00:01.188 : [fs] device C:\Users\corvu\AppData\Roaming\TruckersMP\installation/data/ats/mods/data_bus.mp mounted.
+00:00:01.233 : [hashfs] sh_skoda_car.mp: Created, 975 entries
+00:00:01.233 : [fs] device C:\Users\corvu\AppData\Roaming\TruckersMP\installation/data/shared/mods/sh_skoda_car.mp mounted.
+00:00:01.234 : [hashfs] skoda_car.mp: Created, 62 entries
+00:00:01.234 : [fs] device C:\Users\corvu\AppData\Roaming\TruckersMP\installation/data/ats/mods/skoda_car.mp mounted.
+00:00:01.244 : [hashfs] sh_accessory_pack.mp: Created, 463 entries
+00:00:01.244 : [fs] device C:\Users\corvu\AppData\Roaming\TruckersMP\installation/data/shared/mods/sh_accessory_pack.mp mounted.
+00:00:01.246 : [hashfs] accessory_pack.mp: Created, 1089 entries
+00:00:01.246 : [fs] device C:\Users\corvu\AppData\Roaming\TruckersMP\installation/data/ats/mods/accessory_pack.mp mounted.
+00:00:01.252 : [hashfs] cargo_truckersmp.mp: Created, 583 entries
+00:00:01.252 : [fs] device C:\Users\corvu\AppData\Roaming\TruckersMP\installation/data/ats/mods/cargo_truckersmp.mp mounted.
+00:00:01.253 : [zipfs] dos_leds.mp: Created, 67 entries
+00:00:01.253 : [fs] device C:\Users\corvu\AppData\Roaming\TruckersMP\installation/data/shared/mods/dos_leds.mp mounted.
+00:00:01.275 : [zipfs] sh_event.mp: Created, 1021 entries
+00:00:01.275 : [fs] device C:\Users\corvu\AppData\Roaming\TruckersMP\installation/data/shared/mods/sh_event.mp mounted.
+00:00:01.289 : [hashfs] ai_asset.mp: Created, 376 entries
+00:00:01.289 : [fs] device C:\Users\corvu\AppData\Roaming\TruckersMP\installation/data/ats/mods/ai_asset.mp mounted.
+00:00:01.290 : [hashfs] ai_patron.mp: Created, 78 entries
+00:00:01.290 : [fs] device C:\Users\corvu\AppData\Roaming\TruckersMP\installation/data/ats/mods/ai_patron.mp mounted.
+00:00:01.290 : [hashfs] ai_public.mp: Created, 70 entries
+00:00:01.290 : [fs] device C:\Users\corvu\AppData\Roaming\TruckersMP\installation/data/ats/mods/ai_public.mp mounted.
+00:00:01.290 : [hashfs] aipol.mp: Created, 144 entries
+00:00:01.290 : [fs] device C:\Users\corvu\AppData\Roaming\TruckersMP\installation/data/ats/mods/aipol.mp mounted.
+00:00:01.292 : [hashfs] patreon_skin.mp: Created, 35 entries
+00:00:01.293 : [fs] device C:\Users\corvu\AppData\Roaming\TruckersMP\installation/data/ats/mods/patreon_skin.mp mounted.
+00:00:01.299 : [hashfs] dlc_arizona.scs: Created and validated, 870 entries (00EBBACDA75F71FEA54DE0B00E23E88C7F2252D7A3EB17E96ECC8CDCE4BBE0FB)
+00:00:01.349 : [hashfs] dlc_christmas.scs: Created and validated, 1149 entries (FB92593F2AA26382DE45109EF2B6FD96305EF663BA6050AC0485D09BF9A6941C)
+00:00:01.358 : [hashfs] dlc_co.scs: Created and validated, 2185 entries (C12BA4823CEEFB0CE1C0FD2E33BF59CB67D8069F212E66278B579B0960F1FB9B)
+00:00:01.363 : [hashfs] dlc_dragon.scs: Created and validated, 573 entries (24A02114E7D8C81D262C130F06692292E8F6F4E77BF951DBE02BA62B73CE1FA6)
+00:00:01.378 : [hashfs] dlc_farm_machinery.scs: Created and validated, 2056 entries (B2356219658E0D2D036DDA3B62E953C5A06217782AC608BB6F1D8AB97AFB573B)
+00:00:01.388 : [hashfs] dlc_forest_harvesting.scs: Created and validated, 1221 entries (A78ED932521AAC5D92A82E323D2C7DEF522E6CEB9D7793B104523D73C6C025C7)
+00:00:01.520 : [hashfs] dlc_freightliner_cascadia2019.scs: Created and validated, 2407 entries (9CF56C74702FF55E363BAF1643D9A992123DA1FD47D2741B5BE26D3285D4E94B)
+00:00:01.547 : [hashfs] dlc_goodyear.scs: Created and validated, 1277 entries (4443470012B3AEA15179524326D34128ACBCC3C8C3A3C9C43B98E28B3F91B5AF)
+00:00:01.552 : [hashfs] dlc_halloween.scs: Created and validated, 712 entries (669777AD4C0E35550722E187538A8981C49A06ADB53B8F10A0A0CD5BC3128B8B)
+00:00:01.588 : [hashfs] dlc_heavy_cargo.scs: Created and validated, 1139 entries (80EAFEE3BDE191CDD080688CCED598964F76A5973CAFEFB6AAFD60E79D75961C)
+00:00:01.594 : [hashfs] dlc_id.scs: Created and validated, 1363 entries (C0538C4A1AA447C39025B8559B0A5FB979741E5BE1DE786FD433A9677DBB00F4)
+00:00:01.661 : [hashfs] dlc_international_9900i.scs: Created and validated, 1477 entries (F7C18FB8252BF6F353EC03D45032D8319E8D722CE59AFA283FF3AE9246523B7D)
+00:00:01.762 : [hashfs] dlc_international_lonestar.scs: Created and validated, 1667 entries (63DFD876813AC41AF39F85B62F35142FD6EBA0B0BE52B0CBC9F6B1472E3B400B)
+00:00:02.071 : [hashfs] dlc_international_lt.scs: Created and validated, 2453 entries (20C0940AA2918978270C10810E19F4CD8EFE2CF872B0281296AB60E25F061DF3)
+00:00:02.129 : [hashfs] dlc_jcb.scs: Created and validated, 1913 entries (7AE69A53F7ADD039AD42DB41721E44CA10BDB51042BC4EAB22963500E98FB370)
+00:00:02.219 : [hashfs] dlc_kenworth_t680.scs: Created and validated, 1368 entries (E250D1BFC723869B02CB435A40FD19E1A281134DDE9B8A4CEF0C9307BA97949E)
+00:00:02.309 : [hashfs] dlc_kenworth_t680_2022.scs: Created and validated, 1121 entries (D52C87B1BF9A7726A495F44604F3F437ECBF66D51541F2C473BDDFB11AD003BC)
+00:00:02.383 : [hashfs] dlc_kenworth_w900.scs: Created and validated, 3409 entries (636BAA144760A1F1FE023A70B27E29A49C8B734665A3AF89BF8EBCB28B896825)
+00:00:02.437 : [hashfs] dlc_ks.scs: Created and validated, 4434 entries (61B7E2EEE68C5175563E6E5CC6CBE25733818D2E20E31BB2CC55B7CC1A3C9C51)
+00:00:02.473 : [hashfs] dlc_lodeking.scs: Created and validated, 6146 entries (30C6095E748FA38ADFEFDFA0E7DF3A1F6B8D0A3724EDF014F5BFE52966D19601)
+00:00:02.546 : [hashfs] dlc_mack_anthem.scs: Created and validated, 2170 entries (94D14A901475E9FCCA8F837DF1FC99645D2EB874AFF32431160D7686645B49CB)
+00:00:02.580 : [hashfs] dlc_michelin.scs: Created and validated, 1320 entries (B44D69F6D4E7FC73ADB69EE5431F1FAF4E163DF0A0CB0CF005BD5FA09EC00B11)
+00:00:02.634 : [hashfs] dlc_mt.scs: Created and validated, 5079 entries (B923F6322E04746D7083D109418A6BA068CDDE695859874ED7D3F903685A56A4)
+00:00:02.683 : [hashfs] dlc_neon.scs: Created and validated, 1209 entries (444C9D02140A56586AD876BF5E1A6B71E864AA9BA6F2F9EEE02CC816EF36EBB3)
+00:00:02.687 : [hashfs] dlc_nevada.scs: Created and validated, 847 entries (44A0BC45DC528AE19DF5110DFD93D954B24C2F119CF1D5C84B9ED331B8EFD8E8)
+00:00:02.694 : [hashfs] dlc_nm.scs: Created and validated, 1380 entries (44B5324D6729B6D84FBAD4A6609446AF7B8C74D1EC4C146F9D6B9D819119B325)
+00:00:02.708 : [hashfs] dlc_ok.scs: Created and validated, 5329 entries (147F40E4D17694562B7FD51C08344D601E44558DA8851323B1B97A936B76EFD9)
+00:00:02.752 : [hashfs] dlc_or.scs: Created and validated, 1411 entries (35461EDFC5A3195B7EA805EB7BDD65F83FB91FC38EB6A6D50BA90C552093E0C2)
+00:00:02.760 : [hashfs] dlc_oversize.scs: Created and validated, 894 entries (6218E5A3470BFB96D552118A3BD1B6E9CF9CE4C86C4C00B47D3B6EB5903DAE01)
+00:00:02.827 : [hashfs] dlc_peterbilt_389.scs: Created and validated, 1413 entries (C5DEAE0DF7F81C26D886515E9C9C3F8C4D8603CAF55135B1351BD2896CE2091D)
+00:00:02.920 : [hashfs] dlc_peterbilt_579.scs: Created and validated, 1343 entries (C8C3787194467946EFE39B773F0341A45A3B54A10324536218DAFF6191CDE8FA)
+00:00:02.957 : [hashfs] dlc_pink_ribbon.scs: Created and validated, 660 entries (FE028CB10B2CCB260F8161DD59AD2BCB5320BF8DB80A58BB494056CB6FEE4620)
+00:00:02.975 : [hashfs] dlc_rims.scs: Created and validated, 981 entries (420FA9B4CCF03789D003B5CCB9D2721FACC12D7F9B12B64DCCAB5059CBFF41F3)
+00:00:03.014 : [hashfs] dlc_sci_st_wheels.scs: Created and validated, 1333 entries (D04309EFA5AC3273FE6FDD127CB0E7EE534CDE6603F669F2E7734A66FB864BE6)
+00:00:03.060 : [hashfs] dlc_space.scs: Created and validated, 1466 entries (4400F78E51DE2167FFD28F318EF480B84CF1F63C8E715FB7E084C292B3973C5B)
+00:00:03.115 : [hashfs] dlc_sports.scs: Created and validated, 1169 entries (F59B2EAC19E08E104653946FADCCAC1AD6A4CB7E8D9AA3892FCF7A737959119B)
+00:00:03.145 : [hashfs] dlc_steampunk.scs: Created and validated, 1012 entries (9DE024E5800E0DEB500F7ACE971D0CDF5D2E75D9BC5E811BFCEE8165204B4533)
+00:00:03.163 : [hashfs] dlc_stripes.scs: Created and validated, 2665 entries (DF8019391AC09C6BFD86234A40D0822941369EBAE07EE5BAF64C9D2CFEE01A57)
+00:00:03.237 : [hashfs] dlc_toys.scs: Created and validated, 3828 entries (044F79FF41EE57D96EB9FBDDD1E75C90CCDC45329D410DC05C909B5D044F5F10)
+00:00:03.272 : [hashfs] dlc_tx.scs: Created and validated, 9438 entries (B15AA1A26B48BA4676418358E838AD057CE0273A56F0E8EA11E0B5C08521ED82)
+00:00:03.277 : [hashfs] dlc_ut.scs: Created and validated, 1270 entries (EFA51DC98EE03776E4EFC3EF107A21863B665DD420B9AEB959CD6C06AB7124A7)
+00:00:03.326 : [hashfs] dlc_valentine.scs: Created and validated, 1055 entries (F09D9628657C4408383B27C2B836F63D5A06FDAE4D73E59FB1CA0EBB8A5E32F6)
+00:00:03.371 : [hashfs] dlc_volvo_construction.scs: Created and validated, 778 entries (A5B025DFBA33E92F57C9D244E30762193FA0756F9DA442D069DF533619A38859)
+00:00:03.442 : [hashfs] dlc_volvo_vnl.scs: Created and validated, 1468 entries (3869A75AEBD84A7361F73F4AA28BE7DE68F05E95E03BA8FB315A84E09BC03BCF)
+00:00:03.557 : [hashfs] dlc_volvo_vnl2018.scs: Created and validated, 2579 entries (5D30FC72DF2F8D5E7160FEC5F61DD79C8D16B07F17741C020845FB31502A69DC)
+00:00:03.593 : [hashfs] dlc_w900_tuning.scs: Created and validated, 4164 entries (F72B381FD7C01EB4FE5F01AB789CCB5BC4CE6656D8637F623F5121C07C03C11B)
+00:00:03.641 : [hashfs] dlc_wa.scs: Created and validated, 1865 entries (CCB20309145832FDAB86CF7B9E21B54CEA6D770E71EA1177865173F199675353)
+00:00:03.692 : [hashfs] dlc_western.scs: Created and validated, 961 entries (2FA544BA77ED4221240ED6237BD071E1C136FD06913A9431DC5DBEACEAF86BB1)
+00:00:03.786 : [hashfs] dlc_westernstar_49x.scs: Created and validated, 2759 entries (FE14032EFFE89108B06A19CF1B377A2408800A1AA77B48BC1076E33EFFFB0B65)
+00:00:03.901 : [hashfs] dlc_westernstar_5700xe.scs: Created and validated, 1750 entries (0924701F8F1B1C17F99478351314B414CF2BBBDD44D5AC6685B364C774D80F4E)
+00:00:03.994 : [hashfs] dlc_westernstar_57x.scs: Created and validated, 1927 entries (4CD8798820C70F3ED3DD36BC2B73D7AD43A9BF279BF062ADCE94186E9B252351)
+00:00:04.003 : [hashfs] dlc_wy.scs: Created and validated, 2729 entries (94FCAB79710580D9ED44C7EE973782EC61DDEA04C341CA5EB0D26A1C33080926)
+00:00:04.107 : exec /home/config.cfg
+00:00:04.107 : [sys] Executing /home/config.cfg ...
+00:00:04.116 : uset r_hdr_display_gray_offset "0.0"
+00:00:04.116 : uset r_hdr_display_white "-1.0"
+00:00:04.116 : uset r_hdr_display_black "-1.0"
+00:00:04.116 : uset r_sdr_display_gray_offset "0.0"
+00:00:04.116 : uset r_sdr_display_white "1"
+00:00:04.116 : uset r_sdr_display_black "0"
+00:00:04.116 : uset r_far_shadow_disable "0"
+00:00:04.116 : uset r_show_sun_cascades "0"
+00:00:04.116 : uset r_tonemap_debug "0"
+00:00:04.116 : uset r_drr_strength "8.0"
+00:00:04.116 : uset r_use_depth_bounds "1"
+00:00:04.116 : uset r_hide_helpers "0"
+00:00:04.116 : uset s_sound_debug "0"
+00:00:04.116 : uset s_init_intro_music_mute "0"
+00:00:04.116 : uset s_init_intro_music_volume "0.5"
+00:00:04.116 : uset s_init_ui_music_mute "0"
+00:00:04.116 : uset s_init_ui_music_volume "0.5"
+00:00:04.116 : uset s_init_master_mute "0"
+00:00:04.116 : uset s_init_master_volume "0.75"
+00:00:04.116 : uset s_output_driver ""
+00:00:04.116 : uset s_live_update "0"
+00:00:04.116 : uset s_suspend_sound "1"
+00:00:04.116 : uset g_mm_help_shown "1"
+00:00:04.116 : uset g_frame_image_fmt "jpg"
+00:00:04.116 : uset g_frames_path ""
+00:00:04.116 : uset g_max_convoy_size "8"
+00:00:04.116 : uset g_last_seen_patch_notes_hash "2915FB208AB55F03DFB2355EC9BB9F2BB60A4E53"
+00:00:04.116 : uset g_anti_slip "1"
+00:00:04.116 : uset g_abs "1"
+00:00:04.116 : uset g_bumps "1.0"
+00:00:04.116 : uset g_editor_zoom_speed "1.0"
+00:00:04.116 : uset g_map_note_user_id "0"
+00:00:04.116 : uset g_color_feedback "1"
+00:00:04.116 : uset g_disable_hud_activation "0"
+00:00:04.116 : uset g_interior_camera_zero_pitch "0"
+00:00:04.116 : uset r_multimon_exterior_in_aux "0"
+00:00:04.116 : uset r_multimon_interior_in_main "1"
+00:00:04.116 : uset r_multimon_rotation_aux "0"
+00:00:04.116 : uset r_multimon_rotation_right "0"
+00:00:04.116 : uset r_multimon_rotation_left "0"
+00:00:04.117 : uset r_multimon_rotation_center "0"
+00:00:04.117 : uset r_multimon_vert_offset_right "0"
+00:00:04.117 : uset r_multimon_vert_offset_left "0"
+00:00:04.117 : uset r_multimon_border_fov_right "0"
+00:00:04.117 : uset r_multimon_border_fov_left "0"
+00:00:04.117 : uset r_multimon_fov_vertical "0"
+00:00:04.117 : uset r_multimon_fov_horizontal "50"
+00:00:04.117 : uset r_multimon_mode "0"
+00:00:04.117 : uset r_buffer_page_size "10"
+00:00:04.117 : uset r_deferred_debug "0"
+00:00:04.117 : uset r_mirror_scale_y "1"
+00:00:04.117 : uset r_mirror_scale_x "1"
+00:00:04.117 : uset r_scale_y "2"
+00:00:04.117 : uset r_scale_x "1.5"
+00:00:04.117 : uset r_normal_maps "1"
+00:00:04.117 : uset r_sunshafts "1"
+00:00:04.117 : uset r_color_saturation "1.0"
+00:00:04.117 : uset r_color_yellow_blue "0.0"
+00:00:04.117 : uset r_color_magenta_green "0.0"
+00:00:04.117 : uset r_color_cyan_red "0.0"
+00:00:04.117 : uset r_color_correction "1"
+00:00:04.117 : uset r_light_flares "1"
+00:00:04.117 : uset r_cloud_shadows "1"
+00:00:04.117 : uset r_dof_filter_size "0.5"
+00:00:04.117 : uset r_dof_transition "400.0"
+00:00:04.117 : uset r_dof_start "200.0"
+00:00:04.117 : uset r_dof "1"
+00:00:04.117 : uset r_ssao "3"
+00:00:04.117 : uset r_taa_luma_sharpen "1.0"
+00:00:04.117 : uset r_taa_tuning "0"
+00:00:04.117 : uset r_aa "6"
+00:00:04.117 : uset r_fake_shadows "2"
+00:00:04.117 : uset r_sun_shadow_texture_size "4096"
+00:00:04.117 : uset r_sun_shadow_quality "1"
+00:00:04.117 : uset r_mirror_group "3"
+00:00:04.117 : uset r_mirror_view_distance "120"
+00:00:04.117 : uset r_deferred_mirrors "1"
+00:00:04.117 : uset r_nowmi "0"
+00:00:04.117 : uset r_startup_progress "0"
+00:00:04.117 : uset r_setup_done "1"
+00:00:04.117 : uset r_gamma "1"
+00:00:04.117 : uset r_manual_stereo_buffer_scale "1.0"
+00:00:04.117 : uset r_manual_stereo_ui_fov_game "100"
+00:00:04.117 : uset r_manual_stereo_ui_fov "80"
+00:00:04.117 : uset r_manual_stereo_ui_dist_game "0.5"
+00:00:04.117 : uset r_manual_stereo_ui_dist "0.8"
+00:00:04.117 : uset r_manual_stereo_in_menu "1"
+00:00:04.117 : uset r_minimal_unfinished_frames "0"
+00:00:04.118 : uset r_no_frame_tracking "0"
+00:00:04.118 : uset r_fullscreen "1"
+00:00:04.118 : uset r_mode_refresh "100"
+00:00:04.118 : uset r_mode_height "1080"
+00:00:04.118 : uset r_mode_width "1920"
+00:00:04.118 : uset r_path ""
+00:00:04.118 : uset r_device "dx11"
+00:00:04.118 : uset i_cursor_semantic_force_spd_mlt "0.35"
+00:00:04.118 : uset i_cursor_force_spd_mlt "0.75"
+00:00:04.118 : uset i_virtual_cursor_speed "500.0"
+00:00:04.118 : uset g_stream_exts ".ogg;.mp3"
+00:00:04.118 : uset g_album_image "0"
+00:00:04.118 : uset g_thrustmaster "1"
+00:00:04.132 : uset g_tobii "1"
+00:00:04.132 : uset g_trackir "1"
+00:00:04.132 : uset g_lod_factor_pedestrian "1.0"
+00:00:04.132 : uset g_pedestrian "1"
+00:00:04.132 : uset g_light_span_factor "1"
+00:00:04.132 : uset g_light_distance_factor "1"
+00:00:04.132 : uset g_vehicle_flare_lights "1"
+00:00:04.132 : uset g_auto_traffic_headlights "1"
+00:00:04.132 : uset g_lod_factor_parked "1.0"
+00:00:04.132 : uset g_lod_factor_traffic "1.0"
+00:00:04.132 : uset g_traffic "1.0"
+00:00:04.132 : uset g_kdop_preview "0"
+00:00:04.132 : uset g_screenshot_on_bug_quality "100"
+00:00:04.132 : uset g_screenshot_on_bug "0"
+00:00:04.132 : uset g_shoulder_block_coloring "0"
+00:00:04.132 : uset g_debug_map_limits "0"
+00:00:04.132 : uset g_city_name_move "0"
+00:00:04.132 : uset g_assert_dump "0"
+00:00:04.132 : uset g_developer "1"
+00:00:04.132 : uset g_semantical_pause_inactivity "120"
+00:00:04.132 : uset g_pause_on_disconnect "1"
+00:00:04.132 : uset g_semantical_ff_inactivity "300"
+00:00:04.132 : uset g_steam_rich_presence "1"
+00:00:04.132 : uset g_steam_browser "1"
+00:00:04.132 : uset g_steam_screenshots "2"
+00:00:04.132 : uset g_artist_id "0"
+00:00:04.132 : uset g_save_format "0"
+00:00:04.132 : uset g_trailer_cables_mode "4"
+00:00:04.133 : uset g_intelligent_transmission "0"
+00:00:04.133 : uset g_spec_trans_refill_tank "1"
+00:00:04.133 : uset g_flyspeed "100.0"
+00:00:04.133 : uset g_online_loading_screens "1"
+00:00:04.133 : uset g_news "1"
+00:00:04.133 : uset g_colbox "0"
+00:00:04.133 : uset g_radio_mode "1"
+00:00:04.133 : uset g_ignore_low_fps "0"
+00:00:04.133 : uset g_truck_light_specular "1"
+00:00:04.133 : uset g_gfx_all_scales "0"
+00:00:04.133 : uset g_gfx_advanced "1"
+00:00:04.133 : uset g_gfx_quality "3"
+00:00:04.133 : uset g_hq_3d_scale "0.0"
+00:00:04.133 : uset g_hq_3d_screenshot "0"
+00:00:04.133 : uset g_menu_aa_limit "8"
+00:00:04.133 : uset g_additional_water_fov "20.0f"
+00:00:04.133 : uset g_water_reflect_actor "0"
+00:00:04.133 : uset g_rain_sensor "0"
+00:00:04.133 : uset g_rain_reflect_hookups "0"
+00:00:04.133 : uset g_rain_reflect_actor "0"
+00:00:04.133 : uset g_rain_reflect_traffic "0"
+00:00:04.133 : uset g_rain_reflect_cache "0"
+00:00:04.133 : uset g_rain_reflection "0"
+00:00:04.133 : uset g_reflection_scale "-1"
+00:00:04.133 : uset g_reflection "1"
+00:00:04.133 : uset g_grass_density "0"
+00:00:04.133 : uset g_veg_detail "0"
+00:00:04.133 : uset g_save_indicator "1"
+00:00:04.133 : uset g_game_version "1.50.1.14"
+00:00:04.133 : uset g_force_online_lscrs "0"
+00:00:04.133 : uset g_hw_info "1"
+00:00:04.133 : uset g_glass_debugging_level "0"
+00:00:04.133 : uset g_line_sort "0"
+00:00:04.133 : uset g_cargo_sort "8"
+00:00:04.133 : uset g_bloom_standard_deviation "0.5"
+00:00:04.133 : uset g_bloom_override "0"
+00:00:04.133 : uset g_bloom "1.0"
+00:00:04.133 : uset g_global_force_load_selector "0"
+00:00:04.133 : uset g_desktop_fadeout "60"
+00:00:04.133 : uset g_item_check_speed "-1"
+00:00:04.133 : uset g_debug_allocators "-1"
+00:00:04.133 : uset g_suspension_auto_reset "1"
+00:00:04.133 : uset g_upshift_coef "0.3"
+00:00:04.133 : uset g_downshift_coef "0.8"
+00:00:04.133 : uset g_minicon "0"
+00:00:04.133 : uset g_console_state "0"
+00:00:04.133 : uset g_console "1"
+00:00:04.133 : uset g_fps "0"
+00:00:04.133 : uset ui_tooltip_delay "0.4"
+00:00:04.133 : uset r_imgui_scale "1.0"
+00:00:04.133 : uset r_output "-1"
+00:00:04.133 : uset r_adapter "-1"
+00:00:04.133 : uset r_vsync "1"
+00:00:04.134 : uset r_color_space "auto"
+00:00:04.134 : uset r_color_mode "0"
+00:00:04.134 : uset r_anisotropy_factor "1"
+00:00:04.134 : uset r_texture_detail "1"
+00:00:04.134 : uset cf_beacon_light "1"
+00:00:04.134 : uset cf_asus_aura "1"
+00:00:04.134 : uset cf_razer_chroma "1"
+00:00:04.134 : uset v_bug_break "0"
+00:00:04.134 : uset t_limit_fps_inactive "30"
+00:00:04.134 : uset t_limit_fps "0"
+00:00:04.134 : uset t_locked_fps "0"
+00:00:04.134 : uset t_averaging_window_duration "100"
+00:00:04.134 : uset t_averaging_window_length "20"
+00:00:04.155 : [lang] Language autodetection: 409
+00:00:04.228 : [app_lcl] Localization module '/locale/en_us/local_module.truckersmp.sii' has been applied.
+00:00:04.228 : Selected language: en_us
+00:00:04.228 : American Truck Simulator init ver.1.50.1.14s (rev. e19577b60f2b)
+00:00:04.229 : [gfx] Selected rendering device: dx11
+00:00:04.237 : [nvapi] NVAPI initialized
+00:00:04.239 : [gfx] AGS not detected. (6)
+00:00:04.327 : [net]  LOG INFO: Started
+00:00:04.342 : Setting UI reference mode to: 1440x900...
+00:00:04.343 : [dxgi] Detected following adapters:
+00:00:04.345 : [dxgi] 0 - NVIDIA GeForce GTX 1650 (32.0.15.5599) [3937 MB]
+00:00:04.346 : [dxgi] Using adapter: NVIDIA GeForce GTX 1650 (32.0.15.5599) [3937 MB]
+00:00:04.348 : [gfx] Using the DXGI display backend
+00:00:04.451 : [dx11] Using SM5X rendering path
+00:00:04.452 : [dxgi] Selected swapchain color mode:
+00:00:04.452 : [disp] srgb (sdr) - sRGB Gamma 2.2 - B8G8R8A8_UNORM_SRGB +native
+00:00:04.457 : [dx11] Backbuffer acquired
+00:00:04.513 : [disp] Adapter 0:  on DXGI backend
+00:00:04.513 : [disp] Output 0 : \\.\DISPLAY1 - CRTC @ (0, 0, 1920, 1080)
+00:00:04.513 : [disp] Detected color modes:
+00:00:04.513 : [disp] srgb (sdr) - sRGB Gamma 2.2 - B8G8R8A8_UNORM_SRGB +native
+00:00:04.513 : [disp] rec709 (sdr) - Limited Rec709 Gamma 2.4 - B8G8R8A8_UNORM +native
+00:00:04.513 : [disp] Display MinLum: 0.500000, MaxLum 270.000000, MaxAvgLum: 270.000000
+00:00:04.758 : [r_effect] Rescan took 0.2s
+00:00:07.707 : [sound] Available drivers: #8
+00:00:07.707 : [sound] Driver 0 = new headphones (High Definition Audio Device) (192000 Hz) ({47938e03-91c4-48b2-aa1e-d39639863f73})
+00:00:07.707 : [sound] Driver 1 = Digital Audio (S/PDIF) (High Definition Audio Device) (192000 Hz) ({0c76b0a7-cd1e-47ae-8177-296db9553f44})
+00:00:07.707 : [sound] Driver 2 = CABLE Input (VB-Audio Virtual Cable) (48000 Hz) ({40fbe356-d0e9-4f56-b21a-d61b41639336})
+00:00:07.707 : [sound] Driver 3 = Speakers (Steam Streaming Microphone) (48000 Hz) ({54856931-9f59-4795-afd4-4da245d2b0a0})
+00:00:07.707 : [sound] Driver 4 = Speakers (Steam Streaming Speakers) (48000 Hz) ({54dd87c6-9d8d-4deb-8dc3-95b91f30c693})
+00:00:07.707 : [sound] Driver 5 = Speakers (2- VB-Audio Virtual Cable) (48000 Hz) ({578c3164-46fb-4092-861e-0d3ed879dcc4})
+00:00:07.707 : [sound] Driver 6 = Sceptre K25 (NVIDIA High Definition Audio) (48000 Hz) ({62fb8183-30a0-485c-958b-b616e87462c6})
+00:00:07.707 : [sound] Driver 7 = Headphones (Oculus Virtual Audio Device) (48000 Hz) ({7f4bacc9-f328-4db0-9508-a928afe1ecae})
+00:00:07.920 : [sound] Selecting default audio driver (0).
+00:00:08.125 : Game is running on Steamdeck: no, g_steam_steamdeck_mode 0
+00:00:08.140 : [di8] Initializing device '@@keyboard@@' as 'keyboard'
+00:00:08.141 : [di8] Initializing device '@@i_mouse@@' as 'mouse'
+00:00:08.281 : <WARNING> [di8] Device detection did take 139ms, disabling interactive detections
+00:00:08.330 : [color_feedback] Beacon Light disabled, some of DLL functions not found.
+00:00:09.420 : Banlist loading...
+00:00:09.420 : === BAN LIST ===
+00:00:09.420 : ================
+00:00:09.424 : dispatch
+00:00:09.425 : server_cfg
+00:00:09.426 : exit
+00:00:09.523 : <ERROR> [fs] Failed to open file '/unit/hookup/vehicle_beacon.sii' in the read_only mode.
+00:00:09.523 : <ERROR> [fs] Failed to open file '/unit/hookup/vehicle_beacon.sii' in the read_only mode.
+00:00:09.523 : <ERROR> [fs] Failed to open file '/unit/hookup/vehicle_beacon.sii' in the read_only mode.
+00:00:09.523 : <ERROR> Failed to read the file '<MISSING><UFS>/unit/hookup/vehicle_beacon.sii'.
+00:00:09.723 : [bullet] Starting physics server: Bullet
+00:00:10.161 : [win] new windowed size: 116 1
+00:00:10.161 : [dx11] Window resize notification received: 116 1
+00:00:10.163 : [win] new windowed size: 136 44
+00:00:10.163 : [dx11] Window resize notification received: 136 44
+00:00:10.165 : [win] new windowed size: 1920 1080
+00:00:10.165 : [dx11] Window resize notification received: 1920 1080
+00:00:10.890 : [dx11] Backbuffer released
+00:00:10.893 : [dx11] Backbuffer acquired
+00:00:27.623 : mm_flush_repeatedly
+00:00:27.645 : [fs] device D:/SteamLibrary/steamapps/common/American Truck Simulator/dlc_arizona.scs mounted.
+00:00:27.645 : [fs] device D:/SteamLibrary/steamapps/common/American Truck Simulator/dlc_christmas.scs mounted.
+00:00:27.645 : [fs] device D:/SteamLibrary/steamapps/common/American Truck Simulator/dlc_co.scs mounted.
+00:00:27.645 : [fs] device D:/SteamLibrary/steamapps/common/American Truck Simulator/dlc_dragon.scs mounted.
+00:00:27.645 : [fs] device D:/SteamLibrary/steamapps/common/American Truck Simulator/dlc_farm_machinery.scs mounted.
+00:00:27.645 : [fs] device D:/SteamLibrary/steamapps/common/American Truck Simulator/dlc_forest_harvesting.scs mounted.
+00:00:27.645 : [fs] device D:/SteamLibrary/steamapps/common/American Truck Simulator/dlc_freightliner_cascadia2019.scs mounted.
+00:00:27.645 : [fs] device D:/SteamLibrary/steamapps/common/American Truck Simulator/dlc_goodyear.scs mounted.
+00:00:27.645 : [fs] device D:/SteamLibrary/steamapps/common/American Truck Simulator/dlc_halloween.scs mounted.
+00:00:27.645 : [fs] device D:/SteamLibrary/steamapps/common/American Truck Simulator/dlc_heavy_cargo.scs mounted.
+00:00:27.645 : [fs] device D:/SteamLibrary/steamapps/common/American Truck Simulator/dlc_id.scs mounted.
+00:00:27.645 : [fs] device D:/SteamLibrary/steamapps/common/American Truck Simulator/dlc_international_9900i.scs mounted.
+00:00:27.645 : [fs] device D:/SteamLibrary/steamapps/common/American Truck Simulator/dlc_international_lonestar.scs mounted.
+00:00:27.645 : [fs] device D:/SteamLibrary/steamapps/common/American Truck Simulator/dlc_international_lt.scs mounted.
+00:00:27.645 : [fs] device D:/SteamLibrary/steamapps/common/American Truck Simulator/dlc_jcb.scs mounted.
+00:00:27.645 : [fs] device D:/SteamLibrary/steamapps/common/American Truck Simulator/dlc_kenworth_t680.scs mounted.
+00:00:27.646 : [fs] device D:/SteamLibrary/steamapps/common/American Truck Simulator/dlc_kenworth_t680_2022.scs mounted.
+00:00:27.646 : [fs] device D:/SteamLibrary/steamapps/common/American Truck Simulator/dlc_kenworth_w900.scs mounted.
+00:00:27.646 : [fs] device D:/SteamLibrary/steamapps/common/American Truck Simulator/dlc_ks.scs mounted.
+00:00:27.646 : [fs] device D:/SteamLibrary/steamapps/common/American Truck Simulator/dlc_lodeking.scs mounted.
+00:00:27.646 : [fs] device D:/SteamLibrary/steamapps/common/American Truck Simulator/dlc_mack_anthem.scs mounted.
+00:00:27.646 : [fs] device D:/SteamLibrary/steamapps/common/American Truck Simulator/dlc_michelin.scs mounted.
+00:00:27.646 : [fs] device D:/SteamLibrary/steamapps/common/American Truck Simulator/dlc_mt.scs mounted.
+00:00:27.646 : [fs] device D:/SteamLibrary/steamapps/common/American Truck Simulator/dlc_neon.scs mounted.
+00:00:27.646 : [fs] device D:/SteamLibrary/steamapps/common/American Truck Simulator/dlc_nevada.scs mounted.
+00:00:27.646 : [fs] device D:/SteamLibrary/steamapps/common/American Truck Simulator/dlc_nm.scs mounted.
+00:00:27.646 : [fs] device D:/SteamLibrary/steamapps/common/American Truck Simulator/dlc_ok.scs mounted.
+00:00:27.646 : [fs] device D:/SteamLibrary/steamapps/common/American Truck Simulator/dlc_or.scs mounted.
+00:00:27.646 : [fs] device D:/SteamLibrary/steamapps/common/American Truck Simulator/dlc_oversize.scs mounted.
+00:00:27.646 : [fs] device D:/SteamLibrary/steamapps/common/American Truck Simulator/dlc_peterbilt_389.scs mounted.
+00:00:27.646 : [fs] device D:/SteamLibrary/steamapps/common/American Truck Simulator/dlc_peterbilt_579.scs mounted.
+00:00:27.646 : [fs] device D:/SteamLibrary/steamapps/common/American Truck Simulator/dlc_pink_ribbon.scs mounted.
+00:00:27.646 : [fs] device D:/SteamLibrary/steamapps/common/American Truck Simulator/dlc_rims.scs mounted.
+00:00:27.646 : [fs] device D:/SteamLibrary/steamapps/common/American Truck Simulator/dlc_sci_st_wheels.scs mounted.
+00:00:27.647 : [fs] device D:/SteamLibrary/steamapps/common/American Truck Simulator/dlc_space.scs mounted.
+00:00:27.647 : [fs] device D:/SteamLibrary/steamapps/common/American Truck Simulator/dlc_sports.scs mounted.
+00:00:27.647 : [fs] device D:/SteamLibrary/steamapps/common/American Truck Simulator/dlc_steampunk.scs mounted.
+00:00:27.647 : [fs] device D:/SteamLibrary/steamapps/common/American Truck Simulator/dlc_stripes.scs mounted.
+00:00:27.647 : [fs] device D:/SteamLibrary/steamapps/common/American Truck Simulator/dlc_toys.scs mounted.
+00:00:27.647 : [fs] device D:/SteamLibrary/steamapps/common/American Truck Simulator/dlc_tx.scs mounted.
+00:00:27.647 : [fs] device D:/SteamLibrary/steamapps/common/American Truck Simulator/dlc_ut.scs mounted.
+00:00:27.647 : [fs] device D:/SteamLibrary/steamapps/common/American Truck Simulator/dlc_valentine.scs mounted.
+00:00:27.647 : [fs] device D:/SteamLibrary/steamapps/common/American Truck Simulator/dlc_volvo_construction.scs mounted.
+00:00:27.647 : [fs] device D:/SteamLibrary/steamapps/common/American Truck Simulator/dlc_volvo_vnl.scs mounted.
+00:00:27.647 : [fs] device D:/SteamLibrary/steamapps/common/American Truck Simulator/dlc_volvo_vnl2018.scs mounted.
+00:00:27.647 : [fs] device D:/SteamLibrary/steamapps/common/American Truck Simulator/dlc_w900_tuning.scs mounted.
+00:00:27.647 : [fs] device D:/SteamLibrary/steamapps/common/American Truck Simulator/dlc_wa.scs mounted.
+00:00:27.647 : [fs] device D:/SteamLibrary/steamapps/common/American Truck Simulator/dlc_western.scs mounted.
+00:00:27.647 : [fs] device D:/SteamLibrary/steamapps/common/American Truck Simulator/dlc_westernstar_49x.scs mounted.
+00:00:27.647 : [fs] device D:/SteamLibrary/steamapps/common/American Truck Simulator/dlc_westernstar_5700xe.scs mounted.
+00:00:27.647 : [fs] device D:/SteamLibrary/steamapps/common/American Truck Simulator/dlc_westernstar_57x.scs mounted.
+00:00:27.648 : [fs] device D:/SteamLibrary/steamapps/common/American Truck Simulator/dlc_wy.scs mounted.
+00:00:27.717 : uset s_cbeffects_mute "0"
+00:00:27.717 : uset s_voiceover_mute "0"
+00:00:27.717 : uset s_intro_music_mute "0"
+00:00:27.717 : uset s_ui_music_mute "0"
+00:00:27.717 : uset s_ui_mute "0"
+00:00:27.717 : uset s_navigation_mute "0"
+00:00:27.717 : uset s_music_mute "0"
+00:00:27.717 : uset s_radio_mute "0"
+00:00:27.717 : uset s_interior_mute "0"
+00:00:27.717 : uset s_ambient_mute "0"
+00:00:27.717 : uset s_world_mute "0"
+00:00:27.717 : uset s_traffic_mute "0"
+00:00:27.717 : uset s_trailer_mute "0"
+00:00:27.717 : uset s_truck_noise_mute "0"
+00:00:27.717 : uset s_truck_effects_mute "0"
+00:00:27.717 : uset s_truck_turbo_mute "0"
+00:00:27.717 : uset s_truck_exhaust_mute "0"
+00:00:27.717 : uset s_truck_engine_mute "0"
+00:00:27.717 : uset s_master_mute "0"
+00:00:27.717 : uset s_cbeffects_volume "0.5"
+00:00:27.717 : uset s_voiceover_volume "0.5"
+00:00:27.717 : uset s_intro_music_volume "0.5"
+00:00:27.717 : uset s_ui_music_volume "0.5"
+00:00:27.717 : uset s_ui_volume "0.5"
+00:00:27.717 : uset s_navigation_volume "0.5"
+00:00:27.717 : uset s_music_volume "0.5"
+00:00:27.717 : uset s_radio_volume "0.5"
+00:00:27.717 : uset s_interior_volume "0.5"
+00:00:27.717 : uset s_ambient_volume "0.5"
+00:00:27.717 : uset s_world_volume "0.5"
+00:00:27.717 : uset s_traffic_volume "0.5"
+00:00:27.717 : uset s_trailer_volume "0.5"
+00:00:27.717 : uset s_truck_noise_volume "0.5"
+00:00:27.718 : uset s_truck_effects_volume "0.5"
+00:00:27.718 : uset s_truck_turbo_volume "0.5"
+00:00:27.718 : uset s_truck_exhaust_volume "0.5"
+00:00:27.718 : uset s_truck_engine_volume "0.5"
+00:00:27.718 : uset s_master_volume "0.75"
+00:00:27.718 : uset i_oculus_eye_protrusion "0.09"
+00:00:27.718 : uset i_oculus_eye_height "0.15"
+00:00:27.718 : uset i_hmd_max_prediction "0.1"
+00:00:27.718 : uset i_hmd_min_prediction "0.0"
+00:00:27.718 : uset r_interior "1"
+00:00:27.718 : uset r_steering_wheel "1"
+00:00:27.718 : uset g_eye_preset_5 ""
+00:00:27.718 : uset g_eye_preset_4 ""
+00:00:27.718 : uset g_eye_preset_3 ""
+00:00:27.718 : uset g_eye_preset_2 ""
+00:00:27.718 : uset g_eye_preset_1 ""
+00:00:27.718 : uset g_eye_enable "0"
+00:00:27.718 : uset g_cam_window_block "0.0"
+00:00:27.718 : uset g_toy_physics "1"
+00:00:27.718 : uset g_cam_steering_reverse "1.0"
+00:00:27.718 : uset g_cam_steering_value "1.0"
+00:00:27.718 : uset g_cam_steering "0"
+00:00:27.718 : uset g_pedal_clutch_range "1.0"
+00:00:27.718 : uset g_brake_intensity "1.0"
+00:00:27.718 : uset g_steer_anim_range "900"
+00:00:27.718 : uset g_steer_autocenter "1"
+00:00:27.718 : uset g_clutch_brake "0.0"
+00:00:27.718 : uset g_hshifter_synchronized "1"
+00:00:27.718 : uset g_hshifter_split "3"
+00:00:27.718 : uset g_hshifter_layout_shifting "1"
+00:00:27.718 : uset g_hshifter_layout "splitter"
+00:00:27.718 : uset g_trans "3"
+00:00:27.718 : uset g_baked_vehicle "1"
+00:00:27.718 : uset g_force_economy_reset "0"
+00:00:27.718 : uset g_input_configured "1"
+00:00:27.719 : uset s_reverb_world "1"
+00:00:27.719 : uset s_reverb_cabin "1"
+00:00:27.719 : uset s_noise_aero "1"
+00:00:27.719 : uset s_noise_windows "1"
+00:00:27.719 : uset s_rumble_enabled "1"
+00:00:27.719 : uset s_reverse_enabled "1"
+00:00:27.719 : uset s_cb_radio_beep_type "roger01"
+00:00:27.719 : uset s_cb_radio_beep_own "1"
+00:00:27.719 : uset s_cb_radio_beep_enabled "1"
+00:00:27.719 : uset s_cb_radio_noise_enabled "1"
+00:00:27.719 : uset g_mp_name_tags "1"
+00:00:27.719 : uset g_chat_fade_out_timer "5"
+00:00:27.719 : uset g_chat_partial_fade_out "0"
+00:00:27.719 : uset g_chat_on_navigation "1"
+00:00:27.719 : uset g_chat_activate "1"
+00:00:27.719 : uset g_chat_close_automatic "0"
+00:00:27.719 : uset g_disable_beacons "0"
+00:00:27.719 : uset g_show_game_blockers "1"
+00:00:27.719 : uset g_show_game_elements "1"
+00:00:27.719 : uset g_hmd_no_3d_background "0"
+00:00:27.719 : uset g_hmd_no_special_menu "0"
+00:00:27.719 : uset g_hmd_reduced_cabin_movement "1"
+00:00:27.719 : uset g_hmd_no_artifical_movement "0"
+00:00:27.719 : uset g_eye_pause_gaze "3000"
+00:00:27.719 : uset g_eye_pause "0"
+00:00:27.719 : uset g_cam_blinker "0"
+00:00:27.719 : uset g_camera_horizon_lock "0.5"
+00:00:27.719 : uset g_cam_physics_value "1.0"
+00:00:27.719 : uset g_cam_physics "1"
+00:00:27.719 : uset g_lane_assistant "0"
+00:00:27.719 : uset g_emergency_brake_mode "1"
+00:00:27.719 : uset g_emergency_brake "0"
+00:00:27.719 : uset g_acc "20"
+00:00:27.719 : uset g_automatic_high_beams "0"
+00:00:27.719 : uset g_automatic_headlights "0"
+00:00:27.719 : uset g_blinker_auto_off "1"
+00:00:27.719 : uset g_cruise_control_smart "5.0"
+00:00:27.719 : uset g_cruise_control_grid "5.0"
+00:00:27.719 : uset g_adaptive_shift "0"
+00:00:27.719 : uset g_fuel_simulation "1"
+00:00:27.719 : uset g_hardcore_simulation "0"
+00:00:27.719 : uset g_reg_setting "reg_setting.usa"
+00:00:27.719 : uset g_brake_light_all "0"
+00:00:27.719 : uset g_use_speed_limiter "0"
+00:00:27.719 : uset g_hud_speed_warning "0"
+00:00:27.719 : uset g_hud_speed_limit "1"
+00:00:27.719 : uset g_axle_drop_auto "0"
+00:00:27.719 : uset g_engine_start_auto "0"
+00:00:27.719 : uset g_motor_brake_auto "0"
+00:00:27.719 : uset g_retarder_auto "0"
+00:00:27.719 : uset g_cabin_suspension_stiffness "1.0"
+00:00:27.719 : uset g_suspension_stiffness "1.0"
+00:00:27.719 : uset g_trailer_stability "0.5"
+00:00:27.719 : uset g_driveshaft_torque "0.0"
+00:00:27.719 : uset g_truck_stability "0.5"
+00:00:27.719 : uset g_mpg "0"
+00:00:27.720 : uset g_gallon "1"
+00:00:27.720 : uset g_psi "1"
+00:00:27.720 : uset g_fahrenheit "1"
+00:00:27.720 : uset g_pounds "lb_only"
+00:00:27.720 : uset g_mph "1"
+00:00:27.720 : uset g_road_events "0"
+00:00:27.720 : uset g_detours "0"
+00:00:27.720 : uset g_online_billboards "1"
+00:00:27.720 : uset g_name_localization_secondary "0"
+00:00:27.720 : uset g_name_localization "1"
+00:00:27.720 : uset g_lang_set "1"
+00:00:27.720 : uset g_lang "en_us"
+00:00:27.720 : uset g_cutscenes "0"
+00:00:27.720 : uset g_phys_mirrors "0"
+00:00:27.720 : uset g_world_map_zoom "4"
+00:00:27.720 : uset g_cargo_load_require_park_brake "0"
+00:00:27.720 : uset g_cargo_load_require_engine_off "1"
+00:00:27.720 : uset g_desktop_tour "0"
+00:00:27.720 : uset g_event_desktop_bcg_change "0"
+00:00:27.720 : uset g_event_desktop_bcg_restore "config"
+00:00:27.720 : uset g_last_event_desktop_bcg_change "0"
+00:00:27.720 : uset g_show_always_wotr_event "0"
+00:00:27.720 : uset g_last_wotr_event_start "0"
+00:00:27.720 : uset g_multiplayer_backup_index "-1"
+00:00:27.720 : uset g_force_load_selector "0"
+00:00:27.720 : uset g_autoload_ignore_autosave "0"
+00:00:27.720 : uset g_start_in_truck "0"
+00:00:27.720 : uset g_park_brake_init "0"
+00:00:27.720 : uset g_trailer_advanced_coupling "1"
+00:00:27.720 : uset g_parking_difficulty "0"
+00:00:27.720 : uset g_simple_parking_doubles "1"
+00:00:27.720 : uset g_speed_warning "1"
+00:00:27.720 : uset g_voice_navigation_pack "english_skye_uk"
+00:00:27.720 : uset g_voice_navigation "1"
+00:00:27.720 : uset g_job_distance "0.2"
+00:00:27.720 : uset g_job_distance_limit "-1.0"
+00:00:27.720 : uset g_income_factor "1.0"
+00:00:27.720 : uset g_currency "0"
+00:00:27.720 : uset g_bad_weather_factor "0.5"
+00:00:27.720 : uset g_truck_analysis_fold "0"
+00:00:27.720 : uset g_desktop_rnd "0"
+00:00:27.720 : uset g_desktop_bcg "config.tunnel"
+00:00:27.720 : uset g_save_idx "11"
+00:00:27.720 : uset g_ui_map_align "1"
+00:00:27.720 : uset g_gps_routing_mode "0"
+00:00:27.720 : uset g_gps_navigation "3"
+00:00:27.720 : uset g_heavy_cargo_popup "1"
+00:00:27.720 : uset g_mirrors "1"
+00:00:27.720 : uset g_adviser_eta "1"
+00:00:27.720 : uset g_adviser_running_message "1"
+00:00:27.720 : uset g_adviser_auto_parking "1"
+00:00:27.720 : uset g_adviser_keep_hidden "1"
+00:00:27.721 : uset g_adviser "0"
+00:00:27.721 : uset g_desktop_tutorial "0"
+00:00:27.721 : uset g_tutorial "0"
+00:00:27.721 : uset g_fatigue "0"
+00:00:27.721 : uset g_time_zones "2"
+00:00:27.721 : uset g_police "0"
+00:00:27.721 : uset g_subtitles "0"
+00:00:27.721 : uset g_clock_24 "0"
+00:00:27.721 : uset s_cbeffects_mute "0"
+00:00:27.721 : uset s_voiceover_mute "0"
+00:00:27.721 : uset s_intro_music_mute "0"
+00:00:27.721 : uset s_ui_music_mute "0"
+00:00:27.721 : uset s_ui_mute "0"
+00:00:27.721 : uset s_navigation_mute "0"
+00:00:27.721 : uset s_music_mute "0"
+00:00:27.721 : uset s_radio_mute "0"
+00:00:27.721 : uset s_interior_mute "0"
+00:00:27.721 : uset s_ambient_mute "0"
+00:00:27.721 : uset s_world_mute "0"
+00:00:27.721 : uset s_traffic_mute "0"
+00:00:27.721 : uset s_trailer_mute "0"
+00:00:27.721 : uset s_truck_noise_mute "0"
+00:00:27.721 : uset s_truck_effects_mute "0"
+00:00:27.721 : uset s_truck_turbo_mute "0"
+00:00:27.721 : uset s_truck_exhaust_mute "0"
+00:00:27.721 : uset s_truck_engine_mute "0"
+00:00:27.721 : uset s_master_mute "0"
+00:00:27.721 : uset s_cbeffects_volume "0.5"
+00:00:27.722 : uset s_voiceover_volume "0.5"
+00:00:27.722 : uset s_intro_music_volume "0.5"
+00:00:27.722 : uset s_ui_music_volume "0.5"
+00:00:27.722 : uset s_ui_volume "0.5"
+00:00:27.722 : uset s_navigation_volume "0.5"
+00:00:27.722 : uset s_music_volume "0.5"
+00:00:27.722 : uset s_radio_volume "0.5"
+00:00:27.722 : uset s_interior_volume "0.5"
+00:00:27.722 : uset s_ambient_volume "0.5"
+00:00:27.722 : uset s_world_volume "0.5"
+00:00:27.722 : uset s_traffic_volume "0.5"
+00:00:27.722 : uset s_trailer_volume "0.5"
+00:00:27.722 : uset s_truck_noise_volume "0.5"
+00:00:27.722 : uset s_truck_effects_volume "0.5"
+00:00:27.722 : uset s_truck_turbo_volume "0.5"
+00:00:27.722 : uset s_truck_exhaust_volume "0.5"
+00:00:27.722 : uset s_truck_engine_volume "0.5"
+00:00:27.722 : uset s_master_volume "0.75"
+00:00:27.722 : uset i_oculus_eye_protrusion "0.09"
+00:00:27.722 : uset i_oculus_eye_height "0.15"
+00:00:27.722 : uset i_hmd_max_prediction "0.1"
+00:00:27.722 : uset i_hmd_min_prediction "0.0"
+00:00:27.722 : uset r_interior "1"
+00:00:27.722 : uset r_steering_wheel "1"
+00:00:27.722 : uset g_eye_preset_5 ""
+00:00:27.722 : uset g_eye_preset_4 ""
+00:00:27.722 : uset g_eye_preset_3 ""
+00:00:27.722 : uset g_eye_preset_2 ""
+00:00:27.722 : uset g_eye_preset_1 ""
+00:00:27.722 : uset g_eye_enable "0"
+00:00:27.722 : uset g_cam_window_block "0.0"
+00:00:27.722 : uset g_toy_physics "1"
+00:00:27.722 : uset g_cam_steering_reverse "1.0"
+00:00:27.722 : uset g_cam_steering_value "1.0"
+00:00:27.722 : uset g_cam_steering "0"
+00:00:27.722 : uset g_pedal_clutch_range "1.0"
+00:00:27.722 : uset g_brake_intensity "1.0"
+00:00:27.722 : uset g_steer_anim_range "900"
+00:00:27.722 : uset g_steer_autocenter "1"
+00:00:27.722 : uset g_clutch_brake "0.0"
+00:00:27.722 : uset g_hshifter_synchronized "1"
+00:00:27.722 : uset g_hshifter_split "3"
+00:00:27.722 : uset g_hshifter_layout_shifting "1"
+00:00:27.722 : uset g_hshifter_layout "splitter"
+00:00:27.722 : uset g_trans "3"
+00:00:27.722 : uset g_baked_vehicle "1"
+00:00:27.722 : uset g_force_economy_reset "0"
+00:00:27.722 : uset g_input_configured "1"
+00:00:27.723 : uset s_reverb_world "1"
+00:00:27.723 : uset s_reverb_cabin "1"
+00:00:27.723 : uset s_noise_aero "1"
+00:00:27.723 : uset s_noise_windows "1"
+00:00:27.723 : uset s_rumble_enabled "1"
+00:00:27.723 : uset s_reverse_enabled "1"
+00:00:27.723 : uset s_cb_radio_beep_type "roger01"
+00:00:27.723 : uset s_cb_radio_beep_own "1"
+00:00:27.723 : uset s_cb_radio_beep_enabled "1"
+00:00:27.723 : uset s_cb_radio_noise_enabled "1"
+00:00:27.723 : uset g_mp_name_tags "1"
+00:00:27.723 : uset g_chat_fade_out_timer "5"
+00:00:27.723 : uset g_chat_partial_fade_out "0"
+00:00:27.723 : uset g_chat_on_navigation "1"
+00:00:27.723 : uset g_chat_activate "1"
+00:00:27.723 : uset g_chat_close_automatic "0"
+00:00:27.723 : uset g_disable_beacons "0"
+00:00:27.723 : uset g_show_game_blockers "1"
+00:00:27.723 : uset g_show_game_elements "1"
+00:00:27.723 : uset g_hmd_no_3d_background "0"
+00:00:27.723 : uset g_hmd_no_special_menu "0"
+00:00:27.723 : uset g_hmd_reduced_cabin_movement "1"
+00:00:27.723 : uset g_hmd_no_artifical_movement "0"
+00:00:27.723 : uset g_eye_pause_gaze "3000"
+00:00:27.723 : uset g_eye_pause "0"
+00:00:27.723 : uset g_cam_blinker "0"
+00:00:27.723 : uset g_camera_horizon_lock "0.5"
+00:00:27.723 : uset g_cam_physics_value "1.0"
+00:00:27.723 : uset g_cam_physics "1"
+00:00:27.723 : uset g_lane_assistant "0"
+00:00:27.723 : uset g_emergency_brake_mode "1"
+00:00:27.723 : uset g_emergency_brake "0"
+00:00:27.723 : uset g_acc "20"
+00:00:27.723 : uset g_automatic_high_beams "0"
+00:00:27.723 : uset g_automatic_headlights "0"
+00:00:27.723 : uset g_blinker_auto_off "1"
+00:00:27.723 : uset g_cruise_control_smart "5.0"
+00:00:27.723 : uset g_cruise_control_grid "5.0"
+00:00:27.723 : uset g_adaptive_shift "0"
+00:00:27.723 : uset g_fuel_simulation "1"
+00:00:27.723 : uset g_hardcore_simulation "0"
+00:00:27.723 : uset g_reg_setting "reg_setting.usa"
+00:00:27.723 : uset g_brake_light_all "0"
+00:00:27.723 : uset g_use_speed_limiter "0"
+00:00:27.723 : uset g_hud_speed_warning "0"
+00:00:27.723 : uset g_hud_speed_limit "1"
+00:00:27.723 : uset g_axle_drop_auto "0"
+00:00:27.723 : uset g_engine_start_auto "0"
+00:00:27.723 : uset g_motor_brake_auto "0"
+00:00:27.723 : uset g_retarder_auto "0"
+00:00:27.723 : uset g_cabin_suspension_stiffness "1.0"
+00:00:27.723 : uset g_suspension_stiffness "1.0"
+00:00:27.723 : uset g_trailer_stability "0.5"
+00:00:27.723 : uset g_driveshaft_torque "0.0"
+00:00:27.723 : uset g_truck_stability "0.5"
+00:00:27.724 : uset g_mpg "0"
+00:00:27.724 : uset g_gallon "1"
+00:00:27.724 : uset g_psi "1"
+00:00:27.724 : uset g_fahrenheit "1"
+00:00:27.724 : uset g_pounds "lb_only"
+00:00:27.724 : uset g_mph "1"
+00:00:27.724 : uset g_road_events "0"
+00:00:27.724 : uset g_detours "0"
+00:00:27.724 : uset g_online_billboards "1"
+00:00:27.724 : uset g_name_localization_secondary "0"
+00:00:27.724 : uset g_name_localization "1"
+00:00:27.724 : uset g_lang_set "1"
+00:00:27.724 : uset g_lang "en_us"
+00:00:27.724 : uset g_cutscenes "0"
+00:00:27.724 : uset g_phys_mirrors "0"
+00:00:27.724 : uset g_world_map_zoom "4"
+00:00:27.724 : uset g_cargo_load_require_park_brake "0"
+00:00:27.724 : uset g_cargo_load_require_engine_off "1"
+00:00:27.724 : uset g_desktop_tour "0"
+00:00:27.724 : uset g_event_desktop_bcg_change "0"
+00:00:27.724 : uset g_event_desktop_bcg_restore "config"
+00:00:27.724 : uset g_last_event_desktop_bcg_change "0"
+00:00:27.724 : uset g_show_always_wotr_event "0"
+00:00:27.724 : uset g_last_wotr_event_start "0"
+00:00:27.724 : uset g_multiplayer_backup_index "-1"
+00:00:27.724 : uset g_force_load_selector "0"
+00:00:27.724 : uset g_autoload_ignore_autosave "0"
+00:00:27.724 : uset g_start_in_truck "0"
+00:00:27.724 : uset g_park_brake_init "0"
+00:00:27.724 : uset g_trailer_advanced_coupling "1"
+00:00:27.724 : uset g_parking_difficulty "0"
+00:00:27.724 : uset g_simple_parking_doubles "1"
+00:00:27.724 : uset g_speed_warning "1"
+00:00:27.724 : uset g_voice_navigation_pack "english_skye_uk"
+00:00:27.724 : uset g_voice_navigation "1"
+00:00:27.724 : uset g_job_distance "0.2"
+00:00:27.724 : uset g_job_distance_limit "-1.0"
+00:00:27.724 : uset g_income_factor "1.0"
+00:00:27.724 : uset g_currency "0"
+00:00:27.724 : uset g_bad_weather_factor "0.5"
+00:00:27.724 : uset g_truck_analysis_fold "0"
+00:00:27.724 : uset g_desktop_rnd "0"
+00:00:27.724 : uset g_desktop_bcg "config.tunnel"
+00:00:27.724 : uset g_save_idx "11"
+00:00:27.724 : uset g_ui_map_align "1"
+00:00:27.724 : uset g_gps_routing_mode "0"
+00:00:27.724 : uset g_gps_navigation "3"
+00:00:27.724 : uset g_heavy_cargo_popup "1"
+00:00:27.724 : uset g_mirrors "1"
+00:00:27.724 : uset g_adviser_eta "1"
+00:00:27.725 : uset g_adviser_running_message "1"
+00:00:27.725 : uset g_adviser_auto_parking "1"
+00:00:27.725 : uset g_adviser_keep_hidden "1"
+00:00:27.725 : uset g_adviser "0"
+00:00:27.725 : uset g_desktop_tutorial "0"
+00:00:27.725 : uset g_tutorial "0"
+00:00:27.725 : uset g_fatigue "0"
+00:00:27.725 : uset g_time_zones "2"
+00:00:27.725 : uset g_police "0"
+00:00:27.725 : uset g_subtitles "0"
+00:00:27.725 : uset g_clock_24 "0"
+00:00:27.807 : [app_lcl] Localization module '/locale/en_us/local_module.truckersmp.sii' has been applied.
+00:00:27.807 : New profile selected: ':steam/Alex'
+00:00:28.522 : loading 'telemetry' 'C:/ProgramData/TrackSim/telemetry.dll'
+00:00:28.524 : loading 'TruckyTelemetry' 'D:/SteamLibrary/steamapps/common/American Truck Simulator/bin/win_x64/plugins/TruckyTelemetry.dll'
+00:00:38.839 : [TrackSim] Job Logging Solution by Omnibyte Technologies Limited & CharlesWithC.
+00:00:38.846 : [TrackSim] Steam authentication successful.
+00:00:38.849 : [TRUCKY] Game: American Truck Simulator 1.50.1.14s
+00:00:38.849 : [TRUCKY] Initializing plugin
+00:00:38.850 : [TRUCKY] SteamID: 76561198390545661
+00:00:38.850 : [TRUCKY] Is Multiplayer: 1
+00:00:38.850 : [TRUCKY] Has Trucksbook: 0
+00:00:38.850 : [TRUCKY] Registering channels
+00:00:38.850 : [TRUCKY] Registering gameplay events callback
+00:00:38.850 : [TRUCKY] [Websocket Server] - Intializing Wss Server
+00:00:38.850 : [TRUCKY] Sending Generic Event: telemetry_initialized
+00:00:38.850 : [TRUCKY] Channels registered
+00:00:38.850 : [TRUCKY] [Websocket Server] - Wss Server ready to accept connections
+00:00:39.409 : [app_lcl] Localization module '/locale/en_us/local_module.truckersmp.sii' has been applied.
+00:00:39.845 : game
+00:00:40.407 : <ERROR> [fs] Failed to open file '/unit/hookup/vehicle_beacon.sii' in the read_only mode.
+00:00:40.407 : <ERROR> [fs] Failed to open file '/unit/hookup/vehicle_beacon.sii' in the read_only mode.
+00:00:40.407 : <ERROR> [fs] Failed to open file '/unit/hookup/vehicle_beacon.sii' in the read_only mode.
+00:00:40.407 : <ERROR> Failed to read the file '<MISSING><UFS>/unit/hookup/vehicle_beacon.sii'.
+00:00:40.456 : [bullet] Starting physics server: Bullet
+00:00:40.585 : Trailer loading started...
+00:00:40.602 : Loaded trailers: 148
+00:00:40.617 : Loaded traffic trailers of type 'truck_semi': 33
+00:00:40.620 : Loaded traffic trailers of type 'truck_long': 5
+00:00:40.621 : Loaded traffic trailers of type 'train_cargo': 21
+00:00:40.624 : Loaded traffic trailers of type 'car': 12
+00:00:40.625 : Loaded traffic trailers of type 'bus': 0
+00:00:40.634 : Loaded traffic trailers of type 'truck': 96
+00:00:40.636 : Loaded traffic trailers of type 'tram': 15
+00:00:40.638 : Loaded traffic trailers of type 'train': 17
+00:00:40.642 : Loaded traffic trailers of type 'special': 15
+00:00:40.650 : Loaded traffic vehicles of type 'car': 37
+00:00:40.656 : Loaded traffic vehicles of type 'car_custom': 36
+00:00:40.662 : Loaded traffic vehicles of type 'truck': 31
+00:00:40.667 : Loaded traffic vehicles of type 'truck_light': 27
+00:00:40.672 : Loaded traffic vehicles of type 'truck_medium': 7
+00:00:40.673 : Loaded traffic vehicles of type 'truck_heavy': 5
+00:00:40.676 : Loaded traffic vehicles of type 'truck_long': 10
+00:00:40.683 : Loaded traffic vehicles of type 'truck_custom': 34
+00:00:40.685 : Loaded traffic vehicles of type 'bus': 5
+00:00:40.687 : Loaded traffic vehicles of type 'bus_custom': 6
+00:00:40.689 : Loaded traffic vehicles of type 'tram': 7
+00:00:40.690 : Loaded traffic vehicles of type 'train': 5
+00:00:40.692 : Loaded traffic vehicles of type 'train_wire': 1
+00:00:40.693 : Loaded traffic vehicles of type 'train_custom': 1
+00:00:40.701 : Loaded traffic vehicles of type 'police': 40
+00:00:40.704 : Loaded traffic vehicles of type 'fire': 14
+00:00:40.708 : Loaded traffic vehicles of type 'medical': 16
+00:00:40.712 : Loaded traffic vehicles of type 'escort_front': 24
+00:00:40.713 : Loaded traffic vehicles of type 'escort_back': 2
+00:00:40.714 : Loaded traffic vehicles of type 'special': 3
+00:00:40.720 : Loaded addon hookups: 110
+00:00:40.721 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.data' (of type 'vehicle_accessory').
+00:00:40.721 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.chass' (of type 'vehicle_accessory').
+00:00:40.721 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.light' (of type 'vehicle_accessory').
+00:00:40.721 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.cab' (of type 'vehicle_accessory').
+00:00:40.721 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.int' (of type 'vehicle_accessory').
+00:00:40.721 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.eng' (of type 'vehicle_accessory').
+00:00:40.721 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.trans' (of type 'vehicle_accessory').
+00:00:40.721 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.mirror' (of type 'vehicle_addon_accessory').
+00:00:40.721 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.ftire' (of type 'vehicle_wheel_accessory').
+00:00:40.721 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.rtire' (of type 'vehicle_wheel_accessory').
+00:00:40.721 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.paint' (of type 'vehicle_paint_job_accessory').
+00:00:40.722 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.fdisc' (of type 'vehicle_wheel_accessory').
+00:00:40.722 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.fhub' (of type 'vehicle_wheel_accessory').
+00:00:40.722 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.fnuts' (of type 'vehicle_wheel_accessory').
+00:00:40.722 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.rdisc' (of type 'vehicle_wheel_accessory').
+00:00:40.722 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.rhub' (of type 'vehicle_wheel_accessory').
+00:00:40.722 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.rnuts' (of type 'vehicle_wheel_accessory').
+00:00:40.722 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.f_mirror' (of type 'vehicle_addon_accessory').
+00:00:40.722 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.steering_w' (of type 'vehicle_addon_accessory').
+00:00:40.724 : <WARNING> [interior_data] More items defined in dashboard_color array then allowed, first 8 will be used, rest will be ignored!
+00:00:40.748 : <WARNING> [interior_data] More items defined in dashboard_color array then allowed, first 8 will be used, rest will be ignored!
+00:00:40.759 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.data' (of type 'vehicle_accessory').
+00:00:40.759 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.chass' (of type 'vehicle_accessory').
+00:00:40.759 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.light' (of type 'vehicle_accessory').
+00:00:40.759 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.cab' (of type 'vehicle_accessory').
+00:00:40.759 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.int' (of type 'vehicle_accessory').
+00:00:40.759 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.eng' (of type 'vehicle_accessory').
+00:00:40.759 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.trans' (of type 'vehicle_accessory').
+00:00:40.759 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.mirror' (of type 'vehicle_addon_accessory').
+00:00:40.759 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.ftire' (of type 'vehicle_wheel_accessory').
+00:00:40.759 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.rtire' (of type 'vehicle_wheel_accessory').
+00:00:40.759 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.paint' (of type 'vehicle_paint_job_accessory').
+00:00:40.759 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.fdisc' (of type 'vehicle_wheel_accessory').
+00:00:40.759 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.fhub' (of type 'vehicle_wheel_accessory').
+00:00:40.759 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.fnuts' (of type 'vehicle_wheel_accessory').
+00:00:40.759 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.rdisc' (of type 'vehicle_wheel_accessory').
+00:00:40.759 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.rhub' (of type 'vehicle_wheel_accessory').
+00:00:40.759 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.rnuts' (of type 'vehicle_wheel_accessory').
+00:00:40.759 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.f_mirror' (of type 'vehicle_addon_accessory').
+00:00:40.759 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.steering_w' (of type 'vehicle_addon_accessory').
+00:00:40.830 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.data' (of type 'vehicle_accessory').
+00:00:40.830 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.chass' (of type 'vehicle_accessory').
+00:00:40.830 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.light' (of type 'vehicle_accessory').
+00:00:40.830 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.cab' (of type 'vehicle_accessory').
+00:00:40.830 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.int' (of type 'vehicle_accessory').
+00:00:40.830 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.eng' (of type 'vehicle_accessory').
+00:00:40.830 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.trans' (of type 'vehicle_accessory').
+00:00:40.830 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.mirror' (of type 'vehicle_addon_accessory').
+00:00:40.830 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.ftire' (of type 'vehicle_wheel_accessory').
+00:00:40.830 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.rtire' (of type 'vehicle_wheel_accessory').
+00:00:40.830 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.paint' (of type 'vehicle_paint_job_accessory').
+00:00:40.830 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.fdisc' (of type 'vehicle_wheel_accessory').
+00:00:40.830 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.fhub' (of type 'vehicle_wheel_accessory').
+00:00:40.830 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.fnuts' (of type 'vehicle_wheel_accessory').
+00:00:40.830 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.rdisc' (of type 'vehicle_wheel_accessory').
+00:00:40.830 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.rhub' (of type 'vehicle_wheel_accessory').
+00:00:40.830 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.rnuts' (of type 'vehicle_wheel_accessory').
+00:00:40.830 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.f_mirror' (of type 'vehicle_addon_accessory').
+00:00:40.830 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.steering_w' (of type 'vehicle_addon_accessory').
+00:00:40.923 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.data' (of type 'vehicle_accessory').
+00:00:40.923 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.chass' (of type 'vehicle_accessory').
+00:00:40.923 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.light' (of type 'vehicle_accessory').
+00:00:40.923 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.cab' (of type 'vehicle_accessory').
+00:00:40.923 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.int' (of type 'vehicle_accessory').
+00:00:40.923 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.eng' (of type 'vehicle_accessory').
+00:00:40.923 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.trans' (of type 'vehicle_accessory').
+00:00:40.923 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.mirror' (of type 'vehicle_addon_accessory').
+00:00:40.923 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.ftire' (of type 'vehicle_wheel_accessory').
+00:00:40.923 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.rtire' (of type 'vehicle_wheel_accessory').
+00:00:40.923 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.paint' (of type 'vehicle_paint_job_accessory').
+00:00:40.923 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.fdisc' (of type 'vehicle_wheel_accessory').
+00:00:40.923 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.fhub' (of type 'vehicle_wheel_accessory').
+00:00:40.923 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.fnuts' (of type 'vehicle_wheel_accessory').
+00:00:40.924 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.rdisc' (of type 'vehicle_wheel_accessory').
+00:00:40.924 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.rhub' (of type 'vehicle_wheel_accessory').
+00:00:40.924 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.rnuts' (of type 'vehicle_wheel_accessory').
+00:00:40.924 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.f_mirror' (of type 'vehicle_addon_accessory').
+00:00:40.924 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.steering_w' (of type 'vehicle_addon_accessory').
+00:00:40.969 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.data' (of type 'vehicle_accessory').
+00:00:40.970 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.chass' (of type 'vehicle_accessory').
+00:00:40.970 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.light' (of type 'vehicle_accessory').
+00:00:40.970 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.cab' (of type 'vehicle_accessory').
+00:00:40.970 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.int' (of type 'vehicle_accessory').
+00:00:40.970 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.eng' (of type 'vehicle_accessory').
+00:00:40.970 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.trans' (of type 'vehicle_accessory').
+00:00:40.970 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.mirror' (of type 'vehicle_addon_accessory').
+00:00:40.970 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.ftire' (of type 'vehicle_wheel_accessory').
+00:00:40.970 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.rtire' (of type 'vehicle_wheel_accessory').
+00:00:40.970 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.paint' (of type 'vehicle_paint_job_accessory').
+00:00:40.970 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.fdisc' (of type 'vehicle_wheel_accessory').
+00:00:40.970 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.fhub' (of type 'vehicle_wheel_accessory').
+00:00:40.970 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.fnuts' (of type 'vehicle_wheel_accessory').
+00:00:40.970 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.rdisc' (of type 'vehicle_wheel_accessory').
+00:00:40.970 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.rhub' (of type 'vehicle_wheel_accessory').
+00:00:40.970 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.rnuts' (of type 'vehicle_wheel_accessory').
+00:00:40.970 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.f_mirror' (of type 'vehicle_addon_accessory').
+00:00:40.970 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.steering_w' (of type 'vehicle_addon_accessory').
+00:00:40.970 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.data' (of type 'vehicle_accessory').
+00:00:40.970 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.chass' (of type 'vehicle_accessory').
+00:00:40.970 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.light' (of type 'vehicle_accessory').
+00:00:40.970 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.cab' (of type 'vehicle_accessory').
+00:00:40.970 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.int' (of type 'vehicle_accessory').
+00:00:40.970 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.eng' (of type 'vehicle_accessory').
+00:00:40.970 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.trans' (of type 'vehicle_accessory').
+00:00:40.970 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.mirror' (of type 'vehicle_addon_accessory').
+00:00:40.970 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.ftire' (of type 'vehicle_wheel_accessory').
+00:00:40.970 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.rtire' (of type 'vehicle_wheel_accessory').
+00:00:40.970 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.paint' (of type 'vehicle_paint_job_accessory').
+00:00:40.970 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.fdisc' (of type 'vehicle_wheel_accessory').
+00:00:40.970 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.fhub' (of type 'vehicle_wheel_accessory').
+00:00:40.970 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.fnuts' (of type 'vehicle_wheel_accessory').
+00:00:40.970 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.rdisc' (of type 'vehicle_wheel_accessory').
+00:00:40.970 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.rhub' (of type 'vehicle_wheel_accessory').
+00:00:40.970 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.rnuts' (of type 'vehicle_wheel_accessory').
+00:00:40.971 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.f_mirror' (of type 'vehicle_addon_accessory').
+00:00:40.971 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.steering_w' (of type 'vehicle_addon_accessory').
+00:00:41.018 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.data' (of type 'vehicle_accessory').
+00:00:41.018 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.chass' (of type 'vehicle_accessory').
+00:00:41.018 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.light' (of type 'vehicle_accessory').
+00:00:41.018 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.cab' (of type 'vehicle_accessory').
+00:00:41.018 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.int' (of type 'vehicle_accessory').
+00:00:41.018 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.eng' (of type 'vehicle_accessory').
+00:00:41.018 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.trans' (of type 'vehicle_accessory').
+00:00:41.018 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.mirror' (of type 'vehicle_addon_accessory').
+00:00:41.018 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.ftire' (of type 'vehicle_wheel_accessory').
+00:00:41.018 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.rtire' (of type 'vehicle_wheel_accessory').
+00:00:41.018 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.paint' (of type 'vehicle_paint_job_accessory').
+00:00:41.018 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.fdisc' (of type 'vehicle_wheel_accessory').
+00:00:41.018 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.fhub' (of type 'vehicle_wheel_accessory').
+00:00:41.018 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.fnuts' (of type 'vehicle_wheel_accessory').
+00:00:41.018 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.rdisc' (of type 'vehicle_wheel_accessory').
+00:00:41.018 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.rhub' (of type 'vehicle_wheel_accessory').
+00:00:41.018 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.rnuts' (of type 'vehicle_wheel_accessory').
+00:00:41.018 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.f_mirror' (of type 'vehicle_addon_accessory').
+00:00:41.018 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.steering_w' (of type 'vehicle_addon_accessory').
+00:00:41.055 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.data' (of type 'vehicle_accessory').
+00:00:41.055 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.chass' (of type 'vehicle_accessory').
+00:00:41.055 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.light' (of type 'vehicle_accessory').
+00:00:41.055 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.cab' (of type 'vehicle_accessory').
+00:00:41.055 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.int' (of type 'vehicle_accessory').
+00:00:41.055 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.eng' (of type 'vehicle_accessory').
+00:00:41.055 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.trans' (of type 'vehicle_accessory').
+00:00:41.055 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.mirror' (of type 'vehicle_addon_accessory').
+00:00:41.055 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.ftire' (of type 'vehicle_wheel_accessory').
+00:00:41.055 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.rtire' (of type 'vehicle_wheel_accessory').
+00:00:41.055 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.paint' (of type 'vehicle_paint_job_accessory').
+00:00:41.055 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.fdisc' (of type 'vehicle_wheel_accessory').
+00:00:41.055 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.fhub' (of type 'vehicle_wheel_accessory').
+00:00:41.055 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.fnuts' (of type 'vehicle_wheel_accessory').
+00:00:41.055 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.rdisc' (of type 'vehicle_wheel_accessory').
+00:00:41.055 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.rhub' (of type 'vehicle_wheel_accessory').
+00:00:41.055 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.rnuts' (of type 'vehicle_wheel_accessory').
+00:00:41.055 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.f_mirror' (of type 'vehicle_addon_accessory').
+00:00:41.055 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.steering_w' (of type 'vehicle_addon_accessory').
+00:00:41.217 : Loading resource server data ....
+00:00:41.217 : Loading vegetation data ....
+00:00:41.854 : Loading traffic rule data ....
+00:00:41.856 : Loading traffic semaphore data ....
+00:00:41.901 : Loading gate model data ....
+00:00:41.927 : Loading road data ....
+00:00:41.940 : Loading terrain data ....
+00:00:42.144 : Loading railing data ....
+00:00:42.347 : Loading building data ....
+00:00:42.391 : Loading model data ....
+00:00:42.452 : <ERROR> Inconsistently named unit 'model.tmpevgate.tmpgtmid' found. The expected name is 'model.tmpgtmid'. This might cause problems.
+00:00:42.452 : <ERROR> Inconsistently named unit 'model.tmpevgate.tmpgtope' found. The expected name is 'model.tmpgtope'. This might cause problems.
+00:00:42.453 : <ERROR> Inconsistently named unit 'model.tmpevgate.tmpgtclo' found. The expected name is 'model.tmpgtclo'. This might cause problems.
+00:00:42.455 : Loading animated models ....
+00:00:42.533 : Loading prefab data ....
+00:00:42.921 : Loading sign data ....
+00:00:42.938 : <WARNING> Ignoring obsolete attribute 'distance_type' of unit 'sign.tmp_fz1' (of type 'sign_model').
+00:00:42.938 : <WARNING> Ignoring obsolete attribute 'distance_type' of unit 'sign.tmp_fz2' (of type 'sign_model').
+00:00:42.938 : <WARNING> Ignoring obsolete attribute 'distance_type' of unit 'sign.tmp_fz3' (of type 'sign_model').
+00:00:42.938 : <WARNING> Ignoring obsolete attribute 'distance_type' of unit 'sign.tmp_fz4' (of type 'sign_model').
+00:00:42.938 : <WARNING> Ignoring obsolete attribute 'distance_type' of unit 'sign.tmp_fz5' (of type 'sign_model').
+00:00:42.938 : <WARNING> Ignoring obsolete attribute 'distance_type' of unit 'sign.tmp_fz6' (of type 'sign_model').
+00:00:42.939 : <WARNING> Ignoring obsolete attribute 'distance_type' of unit 'sign.tmp_fz7' (of type 'sign_model').
+00:00:42.939 : <WARNING> Ignoring obsolete attribute 'distance_type' of unit 'sign.tmp_fz8' (of type 'sign_model').
+00:00:42.939 : <WARNING> Ignoring obsolete attribute 'distance_type' of unit 'sign.tmp_fz9' (of type 'sign_model').
+00:00:42.939 : <WARNING> Ignoring obsolete attribute 'distance_type' of unit 'sign.tmp_fz10' (of type 'sign_model').
+00:00:42.939 : <WARNING> Ignoring obsolete attribute 'distance_type' of unit 'sign.tmp_fz11' (of type 'sign_model').
+00:00:42.939 : <WARNING> Ignoring obsolete attribute 'distance_type' of unit 'sign.tmp_fz12' (of type 'sign_model').
+00:00:42.939 : <WARNING> Ignoring obsolete attribute 'distance_type' of unit 'sign.tmp_fz13' (of type 'sign_model').
+00:00:42.939 : <WARNING> Ignoring obsolete attribute 'distance_type' of unit 'sign.tmp_fz14' (of type 'sign_model').
+00:00:42.939 : <WARNING> Ignoring obsolete attribute 'distance_type' of unit 'sign.tmp_fz15' (of type 'sign_model').
+00:00:42.939 : <WARNING> Ignoring obsolete attribute 'distance_type' of unit 'sign.tmp_fz16' (of type 'sign_model').
+00:00:42.939 : <WARNING> Ignoring obsolete attribute 'distance_type' of unit 'sign.tmp_fz17' (of type 'sign_model').
+00:00:42.939 : <WARNING> Ignoring obsolete attribute 'distance_type' of unit 'sign.tmp_fz18' (of type 'sign_model').
+00:00:42.952 : Loading sign template data ....
+00:00:43.311 : Loading city data ....
+00:00:43.357 : Loading country data ....
+00:00:43.372 : Linking cities with countries ....
+00:00:43.372 : Loading sound item reverbs ....
+00:00:43.374 : Loading sound item data ....
+00:00:43.376 : Loading sound ambient ....
+00:00:43.378 : Loading live stream data ....
+00:00:43.390 : Loading movers data ....
+00:00:43.729 : [TRUCKY] [Websocket Server] - Client Connected
+00:00:47.010 : <WARNING> Ignoring obsolete attribute 'category' of unit 'mover.tmpflag' (of type 'mover_model').
+00:00:47.011 : <WARNING> [model] Model animation '/model/mover/truckersmp/flag.pma' has incorrect file version 4 - expected version 5. Converting...
+00:00:48.452 : Loading ferry data ....
+00:00:48.471 : Loading hinges data ....
+00:00:48.472 : Loading trigger action data ....
+00:00:48.473 : Loading cutscene data ....
+00:00:48.561 : Loading routes data ....
+00:00:48.563 : Loading overrides ....
+00:00:48.565 : Loading cargo data ....
+00:00:48.678 : <WARNING> Cargo 'cars_rv2' is not compatible with any trailer and will be ignored. (name: @@cn_recreational_vehicle@@)
+00:00:48.679 : <WARNING> Cargo 'cars_utv' is not compatible with any trailer and will be ignored. (name: @@cn_utility_terrain_vehicle@@)
+00:00:48.689 : Loading company cargo data ....
+00:00:50.317 : Loading unlock data ....
+00:00:51.316 : Loading oversize offer data ....
+00:00:51.321 : Loading data contexts  ....
+00:00:51.578 : Map '/map/usa.mbd' loading started ....
+00:00:52.077 : <WARNING> Unable to find 'city.texarkana_ar' for 'City' 0x52A9AD7781960001
+00:00:52.077 : <WARNING> Unable to find 'city.texarkana_ar' for 'City' 0x530EAFF042110000
+00:00:52.077 : <WARNING> Unable to find 'city.texarkana_ar' for 'City' 0x530EB08EDA910000
+00:00:52.078 : <WARNING> Unable to find 'city.shreveport' for 'City' 0x52F9CD5BB8110000
+00:00:52.786 : <WARNING> Unable to find 'city.lincoln' for 'City' 0x52A3E0825BB90254
+00:00:52.808 : <WARNING> Unable to find 'city.mccook' for 'City' 0x52422A6C2B010DCE
+00:00:52.816 : <WARNING> Unable to find 'city.mccook' for 'City' 0x52422A6D6D8119FF
+00:00:52.817 : <WARNING> Unable to find 'city.mccook' for 'City' 0x5242AB56A7010000
+00:00:52.843 : <WARNING> Unable to find 'city.sidney_ne' for 'City' 0x524215A8A00143D9
+00:00:52.843 : <WARNING> Unable to find 'city.sidney_ne' for 'City' 0x524215A8A6810684
+00:00:52.845 : <WARNING> Unable to find 'city.sidney_ne' for 'City' 0x524215A9E1810FCD
+00:00:52.846 : <WARNING> Unable to find 'city.sidney_ne' for 'City' 0x524215AA8B8143C8
+00:00:52.846 : <WARNING> Unable to find 'city.sidney_ne' for 'City' 0x524215AAA2810F56
+00:00:52.846 : <WARNING> Unable to find 'city.sidney_ne' for 'City' 0x524215AAC7013ABB
+00:00:52.847 : <WARNING> Unable to find 'city.sidney_ne' for 'City' 0x524215AB77810CF0
+00:00:52.847 : <WARNING> Unable to find 'city.sidney_ne' for 'City' 0x524215ABCB810BD0
+00:00:52.847 : <WARNING> Unable to find 'city.sidney_ne' for 'City' 0x5250868A4C010000
+00:00:52.847 : <WARNING> Unable to find 'city.sidney_ne' for 'City' 0x52510D8E31810000
+00:00:52.847 : <WARNING> Unable to find 'city.sidney_ne' for 'City' 0x525DD164BE980001
+00:00:52.864 : <WARNING> Unable to find 'city.scottsbluff' for 'City' 0x5241FE69DE81066B
+00:00:52.865 : <WARNING> Unable to find 'city.scottsbluff' for 'City' 0x5241FE6A55010672
+00:00:52.865 : <WARNING> Unable to find 'city.scottsbluff' for 'City' 0x5241FE6AE5810A00
+00:00:52.866 : <WARNING> Unable to find 'city.scottsbluff' for 'City' 0x5241FE6B2D810F89
+00:00:52.866 : <WARNING> Unable to find 'city.scottsbluff' for 'City' 0x5241FE6BA0810AE7
+00:00:53.102 : <ERROR> Oversize trajectory order rule without active route checkpoint. uid: 0x51F2A1F81A1B0017
+00:00:53.102 : <ERROR> Oversize trajectory order rule without active route checkpoint. uid: 0x51F2A1FB871B001E
+00:00:53.108 : <ERROR> Oversize trajectory order rule without active route checkpoint. uid: 0x526CC2864E1B0000
+00:00:53.729 : Map base sectors successfully loaded.
+00:00:53.729 : Map loaded
+00:00:53.848 : Loading save '/steam/profiles/416C6578/save/autosave/game.sii'
+00:00:54.063 : Route data generation started.
+00:00:54.687 : Route data generation finished.
+00:00:54.693 : <ERROR> Company item without company assignment! (11023.9;-2.44531;36378.9)
+00:00:54.693 : <ERROR> Company item without company assignment! (10547.2;-0.199219;36550.4)
+00:00:54.693 : <ERROR> Company item without company assignment! (11420.9;-6.47266;34447.8)
+00:00:54.693 : <ERROR> More companies without company assignment (set g_developer to 2 to reveal all).
+00:00:54.746 : Road network navigation caching started.
+00:00:55.384 : Cached navigation loaded
+00:00:56.037 : Garage update started.
+00:00:56.228 : Garage update finished.
+00:00:57.766 : Sector force started.
+00:00:58.493 : Sector force finished.
+00:01:01.039 : [actor] Initialized at [-115693.9;8.0;-10460.2]
+00:01:05.089 : [app_lcl] Localization module '/locale/en_us/local_module.truckersmp.sii' has been applied.
+00:01:05.801 : [TRUCKY] Sending Generic Event: truck_changed
+00:01:05.801 : [TRUCKY] Trailers reset
+00:01:05.801 : [TRUCKY] Sending Generic Event: trailers_changed
+00:01:10.814 : <WARNING> [model] Model geometry '/model/cb_radio/cb_radio.pmg' has incorrect file version 506d6714 - expected version 506d6715. Converting...
+00:01:10.885 : <WARNING> [model] Model animation '/model/cb_radio/volume.pma' has incorrect file version 3 - expected version 5. Converting...
+00:01:10.885 : <WARNING> [model] Model geometry '/vehicle/truck/peterbilt_389/interior/model_h.pmg' has incorrect file version 506d6714 - expected version 506d6715. Converting...
+00:01:11.236 : Forcing sector data!
+00:01:11.236 : Sector force started.
+00:01:12.317 : Sector force finished.
+00:01:38.395 : <WARNING> [model] Model geometry '/vehicle/truck/upgrade/leds/siren.pmg' has incorrect file version 506d6713 - expected version 506d6715. Converting...
+00:01:38.395 : <WARNING> [model] Model geometry '/vehicle/truck/upgrade/leds/bullbar.pmg' has incorrect file version 506d6713 - expected version 506d6715. Converting...
+00:01:40.660 : <ERROR> [semaphore_profile] Unable to find profile 'ca_sf1' for semaphore 2 (/prefab/cross_san_francisco_tram/ca_cross_san_francisco_tram_2.ppd)
+00:01:40.660 : <ERROR> [semaphore_profile] Unable to find profile 'ca_sf1' for semaphore 1 (/prefab/cross_san_francisco_tram/ca_cross_san_francisco_tram_2.ppd)
+00:01:40.660 : <ERROR> [semaphore_profile] Unable to find profile 'ca_sf1' for semaphore 0 (/prefab/cross_san_francisco_tram/ca_cross_san_francisco_tram_2.ppd)
+00:02:24.174 : g_start_in_truck
+00:02:24.174 : "g_start_in_truck" is:"0" default:"0"
+00:02:35.521 : g_start_in_truck 1
+00:02:38.570 : game
+00:02:40.136 : <ERROR> [fs] Failed to open file '/unit/hookup/vehicle_beacon.sii' in the read_only mode.
+00:02:40.136 : <ERROR> [fs] Failed to open file '/unit/hookup/vehicle_beacon.sii' in the read_only mode.
+00:02:40.137 : <ERROR> [fs] Failed to open file '/unit/hookup/vehicle_beacon.sii' in the read_only mode.
+00:02:40.137 : <ERROR> Failed to read the file '<MISSING><UFS>/unit/hookup/vehicle_beacon.sii'.
+00:02:40.205 : [bullet] Starting physics server: Bullet
+00:02:40.811 : Trailer loading started...
+00:02:40.825 : Loaded trailers: 148
+00:02:40.849 : Loaded traffic trailers of type 'truck_semi': 33
+00:02:40.852 : Loaded traffic trailers of type 'truck_long': 5
+00:02:40.853 : Loaded traffic trailers of type 'train_cargo': 21
+00:02:40.855 : Loaded traffic trailers of type 'car': 12
+00:02:40.856 : Loaded traffic trailers of type 'bus': 0
+00:02:40.865 : Loaded traffic trailers of type 'truck': 96
+00:02:40.867 : Loaded traffic trailers of type 'tram': 15
+00:02:40.869 : Loaded traffic trailers of type 'train': 17
+00:02:40.872 : Loaded traffic trailers of type 'special': 15
+00:02:40.880 : Loaded traffic vehicles of type 'car': 37
+00:02:40.885 : Loaded traffic vehicles of type 'car_custom': 36
+00:02:40.890 : Loaded traffic vehicles of type 'truck': 31
+00:02:40.895 : Loaded traffic vehicles of type 'truck_light': 27
+00:02:40.900 : Loaded traffic vehicles of type 'truck_medium': 7
+00:02:40.902 : Loaded traffic vehicles of type 'truck_heavy': 5
+00:02:40.905 : Loaded traffic vehicles of type 'truck_long': 10
+00:02:40.911 : Loaded traffic vehicles of type 'truck_custom': 34
+00:02:40.913 : Loaded traffic vehicles of type 'bus': 5
+00:02:40.915 : Loaded traffic vehicles of type 'bus_custom': 6
+00:02:40.917 : Loaded traffic vehicles of type 'tram': 7
+00:02:40.918 : Loaded traffic vehicles of type 'train': 5
+00:02:40.920 : Loaded traffic vehicles of type 'train_wire': 1
+00:02:40.921 : Loaded traffic vehicles of type 'train_custom': 1
+00:02:40.930 : Loaded traffic vehicles of type 'police': 40
+00:02:40.933 : Loaded traffic vehicles of type 'fire': 14
+00:02:40.937 : Loaded traffic vehicles of type 'medical': 16
+00:02:40.941 : Loaded traffic vehicles of type 'escort_front': 24
+00:02:40.942 : Loaded traffic vehicles of type 'escort_back': 2
+00:02:40.944 : Loaded traffic vehicles of type 'special': 3
+00:02:40.948 : Loaded addon hookups: 110
+00:02:40.950 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.data' (of type 'vehicle_accessory').
+00:02:40.950 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.chass' (of type 'vehicle_accessory').
+00:02:40.950 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.light' (of type 'vehicle_accessory').
+00:02:40.950 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.cab' (of type 'vehicle_accessory').
+00:02:40.950 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.int' (of type 'vehicle_accessory').
+00:02:40.950 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.eng' (of type 'vehicle_accessory').
+00:02:40.950 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.trans' (of type 'vehicle_accessory').
+00:02:40.950 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.mirror' (of type 'vehicle_addon_accessory').
+00:02:40.950 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.ftire' (of type 'vehicle_wheel_accessory').
+00:02:40.950 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.rtire' (of type 'vehicle_wheel_accessory').
+00:02:40.950 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.paint' (of type 'vehicle_paint_job_accessory').
+00:02:40.950 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.fdisc' (of type 'vehicle_wheel_accessory').
+00:02:40.950 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.fhub' (of type 'vehicle_wheel_accessory').
+00:02:40.950 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.fnuts' (of type 'vehicle_wheel_accessory').
+00:02:40.950 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.rdisc' (of type 'vehicle_wheel_accessory').
+00:02:40.950 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.rhub' (of type 'vehicle_wheel_accessory').
+00:02:40.950 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.rnuts' (of type 'vehicle_wheel_accessory').
+00:02:40.950 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.f_mirror' (of type 'vehicle_addon_accessory').
+00:02:40.950 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.steering_w' (of type 'vehicle_addon_accessory').
+00:02:40.952 : <WARNING> [interior_data] More items defined in dashboard_color array then allowed, first 8 will be used, rest will be ignored!
+00:02:40.962 : <WARNING> [interior_data] More items defined in dashboard_color array then allowed, first 8 will be used, rest will be ignored!
+00:02:40.973 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.data' (of type 'vehicle_accessory').
+00:02:40.973 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.chass' (of type 'vehicle_accessory').
+00:02:40.973 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.light' (of type 'vehicle_accessory').
+00:02:40.973 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.cab' (of type 'vehicle_accessory').
+00:02:40.973 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.int' (of type 'vehicle_accessory').
+00:02:40.973 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.eng' (of type 'vehicle_accessory').
+00:02:40.973 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.trans' (of type 'vehicle_accessory').
+00:02:40.973 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.mirror' (of type 'vehicle_addon_accessory').
+00:02:40.973 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.ftire' (of type 'vehicle_wheel_accessory').
+00:02:40.973 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.rtire' (of type 'vehicle_wheel_accessory').
+00:02:40.973 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.paint' (of type 'vehicle_paint_job_accessory').
+00:02:40.974 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.fdisc' (of type 'vehicle_wheel_accessory').
+00:02:40.974 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.fhub' (of type 'vehicle_wheel_accessory').
+00:02:40.974 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.fnuts' (of type 'vehicle_wheel_accessory').
+00:02:40.974 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.rdisc' (of type 'vehicle_wheel_accessory').
+00:02:40.974 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.rhub' (of type 'vehicle_wheel_accessory').
+00:02:40.974 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.rnuts' (of type 'vehicle_wheel_accessory').
+00:02:40.974 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.f_mirror' (of type 'vehicle_addon_accessory').
+00:02:40.974 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.steering_w' (of type 'vehicle_addon_accessory').
+00:02:40.991 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.data' (of type 'vehicle_accessory').
+00:02:40.992 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.chass' (of type 'vehicle_accessory').
+00:02:40.992 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.light' (of type 'vehicle_accessory').
+00:02:40.992 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.cab' (of type 'vehicle_accessory').
+00:02:40.992 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.int' (of type 'vehicle_accessory').
+00:02:40.992 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.eng' (of type 'vehicle_accessory').
+00:02:40.992 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.trans' (of type 'vehicle_accessory').
+00:02:40.992 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.mirror' (of type 'vehicle_addon_accessory').
+00:02:40.992 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.ftire' (of type 'vehicle_wheel_accessory').
+00:02:40.992 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.rtire' (of type 'vehicle_wheel_accessory').
+00:02:40.992 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.paint' (of type 'vehicle_paint_job_accessory').
+00:02:40.992 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.fdisc' (of type 'vehicle_wheel_accessory').
+00:02:40.992 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.fhub' (of type 'vehicle_wheel_accessory').
+00:02:40.992 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.fnuts' (of type 'vehicle_wheel_accessory').
+00:02:40.992 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.rdisc' (of type 'vehicle_wheel_accessory').
+00:02:40.992 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.rhub' (of type 'vehicle_wheel_accessory').
+00:02:40.992 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.rnuts' (of type 'vehicle_wheel_accessory').
+00:02:40.992 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.f_mirror' (of type 'vehicle_addon_accessory').
+00:02:40.992 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.steering_w' (of type 'vehicle_addon_accessory').
+00:02:41.025 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.data' (of type 'vehicle_accessory').
+00:02:41.025 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.chass' (of type 'vehicle_accessory').
+00:02:41.025 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.light' (of type 'vehicle_accessory').
+00:02:41.025 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.cab' (of type 'vehicle_accessory').
+00:02:41.025 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.int' (of type 'vehicle_accessory').
+00:02:41.025 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.eng' (of type 'vehicle_accessory').
+00:02:41.025 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.trans' (of type 'vehicle_accessory').
+00:02:41.025 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.mirror' (of type 'vehicle_addon_accessory').
+00:02:41.025 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.ftire' (of type 'vehicle_wheel_accessory').
+00:02:41.025 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.rtire' (of type 'vehicle_wheel_accessory').
+00:02:41.025 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.paint' (of type 'vehicle_paint_job_accessory').
+00:02:41.025 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.fdisc' (of type 'vehicle_wheel_accessory').
+00:02:41.025 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.fhub' (of type 'vehicle_wheel_accessory').
+00:02:41.025 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.fnuts' (of type 'vehicle_wheel_accessory').
+00:02:41.025 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.rdisc' (of type 'vehicle_wheel_accessory').
+00:02:41.025 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.rhub' (of type 'vehicle_wheel_accessory').
+00:02:41.025 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.rnuts' (of type 'vehicle_wheel_accessory').
+00:02:41.025 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.f_mirror' (of type 'vehicle_addon_accessory').
+00:02:41.025 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.steering_w' (of type 'vehicle_addon_accessory').
+00:02:41.040 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.data' (of type 'vehicle_accessory').
+00:02:41.040 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.chass' (of type 'vehicle_accessory').
+00:02:41.040 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.light' (of type 'vehicle_accessory').
+00:02:41.040 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.cab' (of type 'vehicle_accessory').
+00:02:41.040 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.int' (of type 'vehicle_accessory').
+00:02:41.040 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.eng' (of type 'vehicle_accessory').
+00:02:41.040 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.trans' (of type 'vehicle_accessory').
+00:02:41.040 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.mirror' (of type 'vehicle_addon_accessory').
+00:02:41.040 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.ftire' (of type 'vehicle_wheel_accessory').
+00:02:41.040 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.rtire' (of type 'vehicle_wheel_accessory').
+00:02:41.040 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.paint' (of type 'vehicle_paint_job_accessory').
+00:02:41.040 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.fdisc' (of type 'vehicle_wheel_accessory').
+00:02:41.040 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.fhub' (of type 'vehicle_wheel_accessory').
+00:02:41.040 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.fnuts' (of type 'vehicle_wheel_accessory').
+00:02:41.040 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.rdisc' (of type 'vehicle_wheel_accessory').
+00:02:41.040 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.rhub' (of type 'vehicle_wheel_accessory').
+00:02:41.040 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.rnuts' (of type 'vehicle_wheel_accessory').
+00:02:41.040 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.f_mirror' (of type 'vehicle_addon_accessory').
+00:02:41.040 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.steering_w' (of type 'vehicle_addon_accessory').
+00:02:41.040 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.data' (of type 'vehicle_accessory').
+00:02:41.041 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.chass' (of type 'vehicle_accessory').
+00:02:41.041 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.light' (of type 'vehicle_accessory').
+00:02:41.041 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.cab' (of type 'vehicle_accessory').
+00:02:41.041 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.int' (of type 'vehicle_accessory').
+00:02:41.041 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.eng' (of type 'vehicle_accessory').
+00:02:41.041 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.trans' (of type 'vehicle_accessory').
+00:02:41.041 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.mirror' (of type 'vehicle_addon_accessory').
+00:02:41.041 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.ftire' (of type 'vehicle_wheel_accessory').
+00:02:41.041 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.rtire' (of type 'vehicle_wheel_accessory').
+00:02:41.041 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.paint' (of type 'vehicle_paint_job_accessory').
+00:02:41.041 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.fdisc' (of type 'vehicle_wheel_accessory').
+00:02:41.041 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.fhub' (of type 'vehicle_wheel_accessory').
+00:02:41.041 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.fnuts' (of type 'vehicle_wheel_accessory').
+00:02:41.041 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.rdisc' (of type 'vehicle_wheel_accessory').
+00:02:41.041 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.rhub' (of type 'vehicle_wheel_accessory').
+00:02:41.041 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.rnuts' (of type 'vehicle_wheel_accessory').
+00:02:41.041 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.f_mirror' (of type 'vehicle_addon_accessory').
+00:02:41.041 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.steering_w' (of type 'vehicle_addon_accessory').
+00:02:41.079 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.data' (of type 'vehicle_accessory').
+00:02:41.079 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.chass' (of type 'vehicle_accessory').
+00:02:41.079 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.light' (of type 'vehicle_accessory').
+00:02:41.079 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.cab' (of type 'vehicle_accessory').
+00:02:41.079 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.int' (of type 'vehicle_accessory').
+00:02:41.079 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.eng' (of type 'vehicle_accessory').
+00:02:41.079 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.trans' (of type 'vehicle_accessory').
+00:02:41.079 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.mirror' (of type 'vehicle_addon_accessory').
+00:02:41.079 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.ftire' (of type 'vehicle_wheel_accessory').
+00:02:41.079 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.rtire' (of type 'vehicle_wheel_accessory').
+00:02:41.079 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.paint' (of type 'vehicle_paint_job_accessory').
+00:02:41.079 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.fdisc' (of type 'vehicle_wheel_accessory').
+00:02:41.079 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.fhub' (of type 'vehicle_wheel_accessory').
+00:02:41.079 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.fnuts' (of type 'vehicle_wheel_accessory').
+00:02:41.079 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.rdisc' (of type 'vehicle_wheel_accessory').
+00:02:41.079 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.rhub' (of type 'vehicle_wheel_accessory').
+00:02:41.079 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.rnuts' (of type 'vehicle_wheel_accessory').
+00:02:41.079 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.f_mirror' (of type 'vehicle_addon_accessory').
+00:02:41.079 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.steering_w' (of type 'vehicle_addon_accessory').
+00:02:41.090 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.data' (of type 'vehicle_accessory').
+00:02:41.090 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.chass' (of type 'vehicle_accessory').
+00:02:41.090 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.light' (of type 'vehicle_accessory').
+00:02:41.090 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.cab' (of type 'vehicle_accessory').
+00:02:41.090 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.int' (of type 'vehicle_accessory').
+00:02:41.090 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.eng' (of type 'vehicle_accessory').
+00:02:41.090 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.trans' (of type 'vehicle_accessory').
+00:02:41.090 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.mirror' (of type 'vehicle_addon_accessory').
+00:02:41.090 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.ftire' (of type 'vehicle_wheel_accessory').
+00:02:41.090 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.rtire' (of type 'vehicle_wheel_accessory').
+00:02:41.090 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.paint' (of type 'vehicle_paint_job_accessory').
+00:02:41.090 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.fdisc' (of type 'vehicle_wheel_accessory').
+00:02:41.090 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.fhub' (of type 'vehicle_wheel_accessory').
+00:02:41.090 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.fnuts' (of type 'vehicle_wheel_accessory').
+00:02:41.090 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.rdisc' (of type 'vehicle_wheel_accessory').
+00:02:41.090 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.rhub' (of type 'vehicle_wheel_accessory').
+00:02:41.090 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.rnuts' (of type 'vehicle_wheel_accessory').
+00:02:41.090 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.f_mirror' (of type 'vehicle_addon_accessory').
+00:02:41.090 : <WARNING> Ignoring obsolete attribute 'wear' of unit '.steering_w' (of type 'vehicle_addon_accessory').
+00:02:41.173 : Loading resource server data ....
+00:02:41.173 : Loading vegetation data ....
+00:02:41.950 : Loading traffic rule data ....
+00:02:41.953 : Loading traffic semaphore data ....
+00:02:41.966 : Loading gate model data ....
+00:02:42.016 : Loading road data ....
+00:02:42.028 : Loading terrain data ....
+00:02:42.036 : Loading railing data ....
+00:02:42.039 : Loading building data ....
+00:02:42.065 : Loading model data ....
+00:02:42.126 : <ERROR> Inconsistently named unit 'model.tmpevgate.tmpgtmid' found. The expected name is 'model.tmpgtmid'. This might cause problems.
+00:02:42.127 : <ERROR> Inconsistently named unit 'model.tmpevgate.tmpgtope' found. The expected name is 'model.tmpgtope'. This might cause problems.
+00:02:42.127 : <ERROR> Inconsistently named unit 'model.tmpevgate.tmpgtclo' found. The expected name is 'model.tmpgtclo'. This might cause problems.
+00:02:42.129 : Loading animated models ....
+00:02:42.210 : Loading prefab data ....
+00:02:42.686 : Loading sign data ....
+00:02:42.703 : <WARNING> Ignoring obsolete attribute 'distance_type' of unit 'sign.tmp_fz1' (of type 'sign_model').
+00:02:42.703 : <WARNING> Ignoring obsolete attribute 'distance_type' of unit 'sign.tmp_fz2' (of type 'sign_model').
+00:02:42.703 : <WARNING> Ignoring obsolete attribute 'distance_type' of unit 'sign.tmp_fz3' (of type 'sign_model').
+00:02:42.703 : <WARNING> Ignoring obsolete attribute 'distance_type' of unit 'sign.tmp_fz4' (of type 'sign_model').
+00:02:42.703 : <WARNING> Ignoring obsolete attribute 'distance_type' of unit 'sign.tmp_fz5' (of type 'sign_model').
+00:02:42.703 : <WARNING> Ignoring obsolete attribute 'distance_type' of unit 'sign.tmp_fz6' (of type 'sign_model').
+00:02:42.703 : <WARNING> Ignoring obsolete attribute 'distance_type' of unit 'sign.tmp_fz7' (of type 'sign_model').
+00:02:42.703 : <WARNING> Ignoring obsolete attribute 'distance_type' of unit 'sign.tmp_fz8' (of type 'sign_model').
+00:02:42.703 : <WARNING> Ignoring obsolete attribute 'distance_type' of unit 'sign.tmp_fz9' (of type 'sign_model').
+00:02:42.703 : <WARNING> Ignoring obsolete attribute 'distance_type' of unit 'sign.tmp_fz10' (of type 'sign_model').
+00:02:42.703 : <WARNING> Ignoring obsolete attribute 'distance_type' of unit 'sign.tmp_fz11' (of type 'sign_model').
+00:02:42.703 : <WARNING> Ignoring obsolete attribute 'distance_type' of unit 'sign.tmp_fz12' (of type 'sign_model').
+00:02:42.703 : <WARNING> Ignoring obsolete attribute 'distance_type' of unit 'sign.tmp_fz13' (of type 'sign_model').
+00:02:42.703 : <WARNING> Ignoring obsolete attribute 'distance_type' of unit 'sign.tmp_fz14' (of type 'sign_model').
+00:02:42.703 : <WARNING> Ignoring obsolete attribute 'distance_type' of unit 'sign.tmp_fz15' (of type 'sign_model').
+00:02:42.703 : <WARNING> Ignoring obsolete attribute 'distance_type' of unit 'sign.tmp_fz16' (of type 'sign_model').
+00:02:42.703 : <WARNING> Ignoring obsolete attribute 'distance_type' of unit 'sign.tmp_fz17' (of type 'sign_model').
+00:02:42.703 : <WARNING> Ignoring obsolete attribute 'distance_type' of unit 'sign.tmp_fz18' (of type 'sign_model').
+00:02:42.717 : Loading sign template data ....
+00:02:43.162 : Loading city data ....
+00:02:43.176 : Loading country data ....
+00:02:43.198 : Linking cities with countries ....
+00:02:43.199 : Loading sound item reverbs ....
+00:02:43.200 : Loading sound item data ....
+00:02:43.202 : Loading sound ambient ....
+00:02:43.203 : Loading live stream data ....
+00:02:43.204 : Loading movers data ....
+00:02:46.609 : <WARNING> Ignoring obsolete attribute 'category' of unit 'mover.tmpflag' (of type 'mover_model').
+00:02:46.609 : <WARNING> [model] Model animation '/model/mover/truckersmp/flag.pma' has incorrect file version 4 - expected version 5. Converting...
+00:02:47.520 : Loading ferry data ....
+00:02:47.523 : Loading hinges data ....
+00:02:47.523 : Loading trigger action data ....
+00:02:47.524 : Loading cutscene data ....
+00:02:47.542 : Loading routes data ....
+00:02:47.544 : Loading overrides ....
+00:02:47.546 : Loading cargo data ....
+00:02:47.565 : <WARNING> Cargo 'cars_rv2' is not compatible with any trailer and will be ignored. (name: @@cn_recreational_vehicle@@)
+00:02:47.566 : <WARNING> Cargo 'cars_utv' is not compatible with any trailer and will be ignored. (name: @@cn_utility_terrain_vehicle@@)
+00:02:47.574 : Loading company cargo data ....
+00:02:48.482 : Loading unlock data ....
+00:02:49.388 : Loading oversize offer data ....
+00:02:49.393 : Loading data contexts  ....
+00:02:49.619 : Map '/map/usa.mbd' loading started ....
+00:02:49.966 : <WARNING> Unable to find 'city.texarkana_ar' for 'City' 0x52A9AD7781960001
+00:02:49.966 : <WARNING> Unable to find 'city.texarkana_ar' for 'City' 0x530EAFF042110000
+00:02:49.966 : <WARNING> Unable to find 'city.texarkana_ar' for 'City' 0x530EB08EDA910000
+00:02:49.967 : <WARNING> Unable to find 'city.shreveport' for 'City' 0x52F9CD5BB8110000
+00:02:50.722 : <WARNING> Unable to find 'city.lincoln' for 'City' 0x52A3E0825BB90254
+00:02:50.745 : <WARNING> Unable to find 'city.mccook' for 'City' 0x52422A6C2B010DCE
+00:02:50.755 : <WARNING> Unable to find 'city.mccook' for 'City' 0x52422A6D6D8119FF
+00:02:50.756 : <WARNING> Unable to find 'city.mccook' for 'City' 0x5242AB56A7010000
+00:02:50.784 : <WARNING> Unable to find 'city.sidney_ne' for 'City' 0x524215A8A00143D9
+00:02:50.784 : <WARNING> Unable to find 'city.sidney_ne' for 'City' 0x524215A8A6810684
+00:02:50.786 : <WARNING> Unable to find 'city.sidney_ne' for 'City' 0x524215A9E1810FCD
+00:02:50.787 : <WARNING> Unable to find 'city.sidney_ne' for 'City' 0x524215AA8B8143C8
+00:02:50.787 : <WARNING> Unable to find 'city.sidney_ne' for 'City' 0x524215AAA2810F56
+00:02:50.788 : <WARNING> Unable to find 'city.sidney_ne' for 'City' 0x524215AAC7013ABB
+00:02:50.789 : <WARNING> Unable to find 'city.sidney_ne' for 'City' 0x524215AB77810CF0
+00:02:50.789 : <WARNING> Unable to find 'city.sidney_ne' for 'City' 0x524215ABCB810BD0
+00:02:50.789 : <WARNING> Unable to find 'city.sidney_ne' for 'City' 0x5250868A4C010000
+00:02:50.789 : <WARNING> Unable to find 'city.sidney_ne' for 'City' 0x52510D8E31810000
+00:02:50.789 : <WARNING> Unable to find 'city.sidney_ne' for 'City' 0x525DD164BE980001
+00:02:50.815 : <WARNING> Unable to find 'city.scottsbluff' for 'City' 0x5241FE69DE81066B
+00:02:50.816 : <WARNING> Unable to find 'city.scottsbluff' for 'City' 0x5241FE6A55010672
+00:02:50.817 : <WARNING> Unable to find 'city.scottsbluff' for 'City' 0x5241FE6AE5810A00
+00:02:50.817 : <WARNING> Unable to find 'city.scottsbluff' for 'City' 0x5241FE6B2D810F89
+00:02:50.818 : <WARNING> Unable to find 'city.scottsbluff' for 'City' 0x5241FE6BA0810AE7
+00:02:51.086 : <ERROR> Oversize trajectory order rule without active route checkpoint. uid: 0x51F2A1F81A1B0017
+00:02:51.086 : <ERROR> Oversize trajectory order rule without active route checkpoint. uid: 0x51F2A1FB871B001E
+00:02:51.093 : <ERROR> Oversize trajectory order rule without active route checkpoint. uid: 0x526CC2864E1B0000
+00:02:51.756 : Map base sectors successfully loaded.
+00:02:51.756 : Map loaded
+00:02:51.819 : Loading save '/steam/profiles/416C6578/save/autosave/game.sii'
+00:02:51.976 : Route data generation started.
+00:02:52.644 : Route data generation finished.
+00:02:52.716 : Road network navigation caching started.
+00:02:53.420 : Cached navigation loaded
+00:02:54.134 : Garage update started.
+00:02:54.329 : Garage update finished.
+00:02:55.002 : Sector force started.
+00:02:55.723 : Sector force finished.
+00:02:56.431 : [actor] Initialized at [-115693.9;8.0;-10460.2]
+00:02:58.610 : [app_lcl] Localization module '/locale/en_us/local_module.truckersmp.sii' has been applied.
+00:02:58.663 : [TRUCKY] Sending Generic Event: truck_changed
+00:02:58.663 : [TRUCKY] Trailers reset
+00:02:58.663 : [TRUCKY] Sending Generic Event: trailers_changed
+00:02:58.867 : <WARNING> [model] Model geometry '/vehicle/truck/peterbilt_389/interior/model_h.pmg' has incorrect file version 506d6714 - expected version 506d6715. Converting...
+00:02:59.238 : Forcing sector data!
+00:02:59.238 : Sector force started.
+00:03:00.312 : Sector force finished.
+00:03:18.624 : <WARNING> [model] Model geometry '/vehicle/truck/upgrade/leds/bullbar.pmg' has incorrect file version 506d6713 - expected version 506d6715. Converting...
+00:03:18.624 : <WARNING> [model] Model geometry '/vehicle/truck/upgrade/leds/siren.pmg' has incorrect file version 506d6713 - expected version 506d6715. Converting...
+00:03:19.474 : <ERROR> Effect eut2.dif.spec does not support aux[1] input.
+00:03:19.474 : <WARNING> [material] unable to decode input_id from aux attribute (in /vehicle/truck/upgrade/leds/police_lights.mat)
+00:03:19.474 : <ERROR> Effect eut2.shadowonly does not support aux[1] input.
+00:03:19.474 : <WARNING> [material] unable to decode input_id from aux attribute (in /vehicle/truck/upgrade/leds/car_11_car.mat)
+00:03:24.609 : <ERROR> Effect eut2.dif.spec does not support aux[1] input.
+00:03:24.609 : <WARNING> [material] unable to decode input_id from aux attribute (in /vehicle/truck/upgrade/leds/police_lights.mat)
+00:03:24.609 : <ERROR> Effect eut2.shadowonly does not support aux[1] input.
+00:03:24.609 : <WARNING> [material] unable to decode input_id from aux attribute (in /vehicle/truck/upgrade/leds/car_11_car.mat)
+00:03:25.953 : <ERROR> [resource_task] Can not open '/font/license_plate/bc.font'
+00:03:25.953 : <ERROR> [resource_task] Can not open '/material/ui/lp/bc/truck_front.mat'
+00:03:25.953 : <ERROR> [resource_task] Can not open '/material/ui/lp/bc/icon.mat'
+00:03:25.953 : <ERROR> [resource_task] Can not open '/material/ui/lp/bc/truck_rear.mat'
+00:03:28.506 : <WARNING> [pml] Font stack is not empty, did you forgot to put </font>?
+00:03:28.506 : <WARNING> [pml] Source: '<nowrap><align hstyle=center vstyle=center><color value=FF430100><font face=/font/license_plate/texas.font><margin left=0><align hstyle=center vstyle=center><font xscale=1 yscale=1 ><color value=FF4DB5F2>GE-048</align></margin></font></align></nowrap>'
+00:03:28.506 : <WARNING> [pml] Font stack is not empty, did you forgot to put </font>?
+00:03:28.506 : <WARNING> [pml] Source: '<nowrap><align hstyle=center vstyle=center><color value=FF430100><font face=/font/license_plate/texas.font><margin left=0><align hstyle=center vstyle=center><font xscale=1 yscale=1 ><color value=FF4DB5F2>GE-048</align></margin></font></align></nowrap>'
+00:03:28.744 : <WARNING> [pml] Font stack is not empty, did you forgot to put </font>?
+00:03:28.744 : <WARNING> [pml] Source: '<nowrap><align hstyle=center vstyle=center><color value=FF430100><font face=/font/license_plate/texas.font><margin left=0><align hstyle=center vstyle=center><font xscale=1 yscale=1 ><color value=FF4DB5F2>GE-048</align></margin></font></align></nowrap>'
+00:03:28.744 : <WARNING> [pml] Font stack is not empty, did you forgot to put </font>?
+00:03:28.744 : <WARNING> [pml] Source: '<nowrap><align hstyle=center vstyle=center><color value=FF430100><font face=/font/license_plate/texas.font><margin left=0><align hstyle=center vstyle=center><font xscale=1 yscale=1 ><color value=FF4DB5F2>GE-048</align></margin></font></align></nowrap>'
+00:03:28.768 : <WARNING> [pml] Font stack is not empty, did you forgot to put </font>?
+00:03:28.768 : <WARNING> [pml] Source: '<nowrap><align hstyle=center vstyle=center><color value=FF430100><font face=/font/license_plate/texas.font><margin left=0><align hstyle=center vstyle=center><font xscale=1 yscale=1 ><color value=FF4DB5F2>GE-048</align></margin></font></align></nowrap>'
+00:03:28.768 : <WARNING> [pml] Font stack is not empty, did you forgot to put </font>?
+00:03:28.768 : <WARNING> [pml] Source: '<nowrap><align hstyle=center vstyle=center><color value=FF430100><font face=/font/license_plate/texas.font><margin left=0><align hstyle=center vstyle=center><font xscale=1 yscale=1 ><color value=FF4DB5F2>GE-048</align></margin></font></align></nowrap>'
+00:03:28.794 : <WARNING> [pml] Font stack is not empty, did you forgot to put </font>?
+00:03:28.794 : <WARNING> [pml] Source: '<nowrap><align hstyle=center vstyle=center><color value=FF430100><font face=/font/license_plate/texas.font><margin left=0><align hstyle=center vstyle=center><font xscale=1 yscale=1 ><color value=FF4DB5F2>GE-048</align></margin></font></align></nowrap>'
+00:03:28.794 : <WARNING> [pml] Font stack is not empty, did you forgot to put </font>?
+00:03:28.794 : <WARNING> [pml] Source: '<nowrap><align hstyle=center vstyle=center><color value=FF430100><font face=/font/license_plate/texas.font><margin left=0><align hstyle=center vstyle=center><font xscale=1 yscale=1 ><color value=FF4DB5F2>GE-048</align></margin></font></align></nowrap>'
+00:03:28.814 : <WARNING> [pml] Font stack is not empty, did you forgot to put </font>?
+00:03:28.814 : <WARNING> [pml] Source: '<nowrap><align hstyle=center vstyle=center><color value=FF430100><font face=/font/license_plate/texas.font><margin left=0><align hstyle=center vstyle=center><font xscale=1 yscale=1 ><color value=FF4DB5F2>GE-048</align></margin></font></align></nowrap>'
+00:03:28.814 : <WARNING> [pml] Font stack is not empty, did you forgot to put </font>?
+00:03:28.814 : <WARNING> [pml] Source: '<nowrap><align hstyle=center vstyle=center><color value=FF430100><font face=/font/license_plate/texas.font><margin left=0><align hstyle=center vstyle=center><font xscale=1 yscale=1 ><color value=FF4DB5F2>GE-048</align></margin></font></align></nowrap>'
+00:03:28.837 : <WARNING> [pml] Font stack is not empty, did you forgot to put </font>?
+00:03:28.837 : <WARNING> [pml] Source: '<nowrap><align hstyle=center vstyle=center><color value=FF430100><font face=/font/license_plate/texas.font><margin left=0><align hstyle=center vstyle=center><font xscale=1 yscale=1 ><color value=FF4DB5F2>GE-048</align></margin></font></align></nowrap>'
+00:03:28.837 : <WARNING> [pml] Font stack is not empty, did you forgot to put </font>?
+00:03:28.837 : <WARNING> [pml] Source: '<nowrap><align hstyle=center vstyle=center><color value=FF430100><font face=/font/license_plate/texas.font><margin left=0><align hstyle=center vstyle=center><font xscale=1 yscale=1 ><color value=FF4DB5F2>GE-048</align></margin></font></align></nowrap>'
+00:03:28.856 : <WARNING> [pml] Font stack is not empty, did you forgot to put </font>?
+00:03:28.856 : <WARNING> [pml] Source: '<nowrap><align hstyle=center vstyle=center><color value=FF430100><font face=/font/license_plate/texas.font><margin left=0><align hstyle=center vstyle=center><font xscale=1 yscale=1 ><color value=FF4DB5F2>GE-048</align></margin></font></align></nowrap>'
+00:03:28.856 : <WARNING> [pml] Font stack is not empty, did you forgot to put </font>?
+00:03:28.856 : <WARNING> [pml] Source: '<nowrap><align hstyle=center vstyle=center><color value=FF430100><font face=/font/license_plate/texas.font><margin left=0><align hstyle=center vstyle=center><font xscale=1 yscale=1 ><color value=FF4DB5F2>GE-048</align></margin></font></align></nowrap>'
+00:03:28.877 : <WARNING> [pml] Font stack is not empty, did you forgot to put </font>?
+00:03:28.877 : <WARNING> [pml] Source: '<nowrap><align hstyle=center vstyle=center><color value=FF430100><font face=/font/license_plate/texas.font><margin left=0><align hstyle=center vstyle=center><font xscale=1 yscale=1 ><color value=FF4DB5F2>GE-048</align></margin></font></align></nowrap>'
+00:03:28.877 : <WARNING> [pml] Font stack is not empty, did you forgot to put </font>?
+00:03:28.877 : <WARNING> [pml] Source: '<nowrap><align hstyle=center vstyle=center><color value=FF430100><font face=/font/license_plate/texas.font><margin left=0><align hstyle=center vstyle=center><font xscale=1 yscale=1 ><color value=FF4DB5F2>GE-048</align></margin></font></align></nowrap>'
+00:03:28.906 : <WARNING> [pml] Font stack is not empty, did you forgot to put </font>?
+00:03:28.906 : <WARNING> [pml] Source: '<nowrap><align hstyle=center vstyle=center><color value=FF430100><font face=/font/license_plate/texas.font><margin left=0><align hstyle=center vstyle=center><font xscale=1 yscale=1 ><color value=FF4DB5F2>GE-048</align></margin></font></align></nowrap>'
+00:03:28.906 : <WARNING> [pml] Font stack is not empty, did you forgot to put </font>?
+00:03:28.906 : <WARNING> [pml] Source: '<nowrap><align hstyle=center vstyle=center><color value=FF430100><font face=/font/license_plate/texas.font><margin left=0><align hstyle=center vstyle=center><font xscale=1 yscale=1 ><color value=FF4DB5F2>GE-048</align></margin></font></align></nowrap>'
+00:03:28.925 : <WARNING> [pml] Font stack is not empty, did you forgot to put </font>?
+00:03:28.925 : <WARNING> [pml] Source: '<nowrap><align hstyle=center vstyle=center><color value=FF430100><font face=/font/license_plate/texas.font><margin left=0><align hstyle=center vstyle=center><font xscale=1 yscale=1 ><color value=FF4DB5F2>GE-048</align></margin></font></align></nowrap>'
+00:03:28.925 : <WARNING> [pml] Font stack is not empty, did you forgot to put </font>?
+00:03:28.925 : <WARNING> [pml] Source: '<nowrap><align hstyle=center vstyle=center><color value=FF430100><font face=/font/license_plate/texas.font><margin left=0><align hstyle=center vstyle=center><font xscale=1 yscale=1 ><color value=FF4DB5F2>GE-048</align></margin></font></align></nowrap>'
+00:03:28.941 : <WARNING> [pml] Font stack is not empty, did you forgot to put </font>?
+00:03:28.942 : <WARNING> [pml] Source: '<nowrap><align hstyle=center vstyle=center><color value=FF430100><font face=/font/license_plate/texas.font><margin left=0><align hstyle=center vstyle=center><font xscale=1 yscale=1 ><color value=FF4DB5F2>GE-048</align></margin></font></align></nowrap>'
+00:03:28.942 : <WARNING> [pml] Font stack is not empty, did you forgot to put </font>?
+00:03:28.942 : <WARNING> [pml] Source: '<nowrap><align hstyle=center vstyle=center><color value=FF430100><font face=/font/license_plate/texas.font><margin left=0><align hstyle=center vstyle=center><font xscale=1 yscale=1 ><color value=FF4DB5F2>GE-048</align></margin></font></align></nowrap>'
+00:03:28.957 : <WARNING> [pml] Font stack is not empty, did you forgot to put </font>?
+00:03:28.957 : <WARNING> [pml] Source: '<nowrap><align hstyle=center vstyle=center><color value=FF430100><font face=/font/license_plate/texas.font><margin left=0><align hstyle=center vstyle=center><font xscale=1 yscale=1 ><color value=FF4DB5F2>GE-048</align></margin></font></align></nowrap>'
+00:03:28.958 : <WARNING> [pml] Font stack is not empty, did you forgot to put </font>?
+00:03:28.958 : <WARNING> [pml] Source: '<nowrap><align hstyle=center vstyle=center><color value=FF430100><font face=/font/license_plate/texas.font><margin left=0><align hstyle=center vstyle=center><font xscale=1 yscale=1 ><color value=FF4DB5F2>GE-048</align></margin></font></align></nowrap>'
+00:03:28.977 : <WARNING> [pml] Font stack is not empty, did you forgot to put </font>?
+00:03:28.977 : <WARNING> [pml] Source: '<nowrap><align hstyle=center vstyle=center><color value=FF430100><font face=/font/license_plate/texas.font><margin left=0><align hstyle=center vstyle=center><font xscale=1 yscale=1 ><color value=FF4DB5F2>GE-048</align></margin></font></align></nowrap>'
+00:03:28.977 : <WARNING> [pml] Font stack is not empty, did you forgot to put </font>?
+00:03:28.977 : <WARNING> [pml] Source: '<nowrap><align hstyle=center vstyle=center><color value=FF430100><font face=/font/license_plate/texas.font><margin left=0><align hstyle=center vstyle=center><font xscale=1 yscale=1 ><color value=FF4DB5F2>GE-048</align></margin></font></align></nowrap>'
+00:03:28.996 : <WARNING> [pml] Font stack is not empty, did you forgot to put </font>?
+00:03:28.996 : <WARNING> [pml] Source: '<nowrap><align hstyle=center vstyle=center><color value=FF430100><font face=/font/license_plate/texas.font><margin left=0><align hstyle=center vstyle=center><font xscale=1 yscale=1 ><color value=FF4DB5F2>GE-048</align></margin></font></align></nowrap>'
+00:03:28.996 : <WARNING> [pml] Font stack is not empty, did you forgot to put </font>?
+00:03:28.996 : <WARNING> [pml] Source: '<nowrap><align hstyle=center vstyle=center><color value=FF430100><font face=/font/license_plate/texas.font><margin left=0><align hstyle=center vstyle=center><font xscale=1 yscale=1 ><color value=FF4DB5F2>GE-048</align></margin></font></align></nowrap>'
+00:03:29.017 : <WARNING> [pml] Font stack is not empty, did you forgot to put </font>?
+00:03:29.017 : <WARNING> [pml] Source: '<nowrap><align hstyle=center vstyle=center><color value=FF430100><font face=/font/license_plate/texas.font><margin left=0><align hstyle=center vstyle=center><font xscale=1 yscale=1 ><color value=FF4DB5F2>GE-048</align></margin></font></align></nowrap>'
+00:03:29.017 : <WARNING> [pml] Font stack is not empty, did you forgot to put </font>?
+00:03:29.017 : <WARNING> [pml] Source: '<nowrap><align hstyle=center vstyle=center><color value=FF430100><font face=/font/license_plate/texas.font><margin left=0><align hstyle=center vstyle=center><font xscale=1 yscale=1 ><color value=FF4DB5F2>GE-048</align></margin></font></align></nowrap>'
+00:03:29.035 : <WARNING> [pml] Font stack is not empty, did you forgot to put </font>?
+00:03:29.035 : <WARNING> [pml] Source: '<nowrap><align hstyle=center vstyle=center><color value=FF430100><font face=/font/license_plate/texas.font><margin left=0><align hstyle=center vstyle=center><font xscale=1 yscale=1 ><color value=FF4DB5F2>GE-048</align></margin></font></align></nowrap>'
+00:03:29.035 : <WARNING> [pml] Font stack is not empty, did you forgot to put </font>?
+00:03:29.035 : <WARNING> [pml] Source: '<nowrap><align hstyle=center vstyle=center><color value=FF430100><font face=/font/license_plate/texas.font><margin left=0><align hstyle=center vstyle=center><font xscale=1 yscale=1 ><color value=FF4DB5F2>GE-048</align></margin></font></align></nowrap>'
+00:03:29.051 : <WARNING> [pml] Font stack is not empty, did you forgot to put </font>?
+00:03:29.051 : <WARNING> [pml] Source: '<nowrap><align hstyle=center vstyle=center><color value=FF430100><font face=/font/license_plate/texas.font><margin left=0><align hstyle=center vstyle=center><font xscale=1 yscale=1 ><color value=FF4DB5F2>GE-048</align></margin></font></align></nowrap>'
+00:03:29.051 : <WARNING> [pml] Font stack is not empty, did you forgot to put </font>?
+00:03:29.051 : <WARNING> [pml] Source: '<nowrap><align hstyle=center vstyle=center><color value=FF430100><font face=/font/license_plate/texas.font><margin left=0><align hstyle=center vstyle=center><font xscale=1 yscale=1 ><color value=FF4DB5F2>GE-048</align></margin></font></align></nowrap>'
+00:03:29.068 : <WARNING> [pml] Font stack is not empty, did you forgot to put </font>?
+00:03:29.068 : <WARNING> [pml] Source: '<nowrap><align hstyle=center vstyle=center><color value=FF430100><font face=/font/license_plate/texas.font><margin left=0><align hstyle=center vstyle=center><font xscale=1 yscale=1 ><color value=FF4DB5F2>GE-048</align></margin></font></align></nowrap>'
+00:03:29.068 : <WARNING> [pml] Font stack is not empty, did you forgot to put </font>?
+00:03:29.068 : <WARNING> [pml] Source: '<nowrap><align hstyle=center vstyle=center><color value=FF430100><font face=/font/license_plate/texas.font><margin left=0><align hstyle=center vstyle=center><font xscale=1 yscale=1 ><color value=FF4DB5F2>GE-048</align></margin></font></align></nowrap>'
+00:03:29.090 : <WARNING> [pml] Font stack is not empty, did you forgot to put </font>?
+00:03:29.090 : <WARNING> [pml] Source: '<nowrap><align hstyle=center vstyle=center><color value=FF430100><font face=/font/license_plate/texas.font><margin left=0><align hstyle=center vstyle=center><font xscale=1 yscale=1 ><color value=FF4DB5F2>GE-048</align></margin></font></align></nowrap>'
+00:03:29.090 : <WARNING> [pml] Font stack is not empty, did you forgot to put </font>?
+00:03:29.090 : <WARNING> [pml] Source: '<nowrap><align hstyle=center vstyle=center><color value=FF430100><font face=/font/license_plate/texas.font><margin left=0><align hstyle=center vstyle=center><font xscale=1 yscale=1 ><color value=FF4DB5F2>GE-048</align></margin></font></align></nowrap>'
+00:03:29.111 : <WARNING> [pml] Font stack is not empty, did you forgot to put </font>?
+00:03:29.111 : <WARNING> [pml] Source: '<nowrap><align hstyle=center vstyle=center><color value=FF430100><font face=/font/license_plate/texas.font><margin left=0><align hstyle=center vstyle=center><font xscale=1 yscale=1 ><color value=FF4DB5F2>GE-048</align></margin></font></align></nowrap>'
+00:03:29.111 : <WARNING> [pml] Font stack is not empty, did you forgot to put </font>?
+00:03:29.111 : <WARNING> [pml] Source: '<nowrap><align hstyle=center vstyle=center><color value=FF430100><font face=/font/license_plate/texas.font><margin left=0><align hstyle=center vstyle=center><font xscale=1 yscale=1 ><color value=FF4DB5F2>GE-048</align></margin></font></align></nowrap>'
+00:03:29.132 : <WARNING> [pml] Font stack is not empty, did you forgot to put </font>?
+00:03:29.132 : <WARNING> [pml] Source: '<nowrap><align hstyle=center vstyle=center><color value=FF430100><font face=/font/license_plate/texas.font><margin left=0><align hstyle=center vstyle=center><font xscale=1 yscale=1 ><color value=FF4DB5F2>GE-048</align></margin></font></align></nowrap>'
+00:03:29.132 : <WARNING> [pml] Font stack is not empty, did you forgot to put </font>?
+00:03:29.132 : <WARNING> [pml] Source: '<nowrap><align hstyle=center vstyle=center><color value=FF430100><font face=/font/license_plate/texas.font><margin left=0><align hstyle=center vstyle=center><font xscale=1 yscale=1 ><color value=FF4DB5F2>GE-048</align></margin></font></align></nowrap>'
+00:03:29.155 : <WARNING> [pml] Font stack is not empty, did you forgot to put </font>?
+00:03:29.155 : <WARNING> [pml] Source: '<nowrap><align hstyle=center vstyle=center><color value=FF430100><font face=/font/license_plate/texas.font><margin left=0><align hstyle=center vstyle=center><font xscale=1 yscale=1 ><color value=FF4DB5F2>GE-048</align></margin></font></align></nowrap>'
+00:03:29.155 : <WARNING> [pml] Font stack is not empty, did you forgot to put </font>?
+00:03:29.155 : <WARNING> [pml] Source: '<nowrap><align hstyle=center vstyle=center><color value=FF430100><font face=/font/license_plate/texas.font><margin left=0><align hstyle=center vstyle=center><font xscale=1 yscale=1 ><color value=FF4DB5F2>GE-048</align></margin></font></align></nowrap>'
+00:03:29.181 : <WARNING> [pml] Font stack is not empty, did you forgot to put </font>?
+00:03:29.181 : <WARNING> [pml] Source: '<nowrap><align hstyle=center vstyle=center><color value=FF430100><font face=/font/license_plate/texas.font><margin left=0><align hstyle=center vstyle=center><font xscale=1 yscale=1 ><color value=FF4DB5F2>GE-048</align></margin></font></align></nowrap>'
+00:03:29.181 : <WARNING> [pml] Font stack is not empty, did you forgot to put </font>?
+00:03:29.181 : <WARNING> [pml] Source: '<nowrap><align hstyle=center vstyle=center><color value=FF430100><font face=/font/license_plate/texas.font><margin left=0><align hstyle=center vstyle=center><font xscale=1 yscale=1 ><color value=FF4DB5F2>GE-048</align></margin></font></align></nowrap>'
+00:03:29.218 : <WARNING> [pml] Font stack is not empty, did you forgot to put </font>?
+00:03:29.218 : <WARNING> [pml] Source: '<nowrap><align hstyle=center vstyle=center><color value=FF430100><font face=/font/license_plate/texas.font><margin left=0><align hstyle=center vstyle=center><font xscale=1 yscale=1 ><color value=FF4DB5F2>GE-048</align></margin></font></align></nowrap>'
+00:03:30.089 : <ERROR> [semaphore_profile] Unable to find profile 'ca_sf1' for semaphore 2 (/prefab/cross_san_francisco_tram/ca_cross_san_francisco_tram_2.ppd)
+00:03:30.089 : <ERROR> [semaphore_profile] Unable to find profile 'ca_sf1' for semaphore 1 (/prefab/cross_san_francisco_tram/ca_cross_san_francisco_tram_2.ppd)
+00:03:30.089 : <ERROR> [semaphore_profile] Unable to find profile 'ca_sf1' for semaphore 0 (/prefab/cross_san_francisco_tram/ca_cross_san_francisco_tram_2.ppd)
+00:04:24.688 : [trigger] Handled action (Parking HUD activation (auto reset))
+00:04:24.729 : [trigger] Reset action (Parking HUD activation (auto reset))
+00:04:52.373 : [trigger] Handled action (trig_action.sv_unlock)
+00:05:12.904 : <ERROR> [semaphore_profile] Semaphore profile 'ca_sf1' is not available in country 'california'! Allowed countries: .
+ Please use a different profile or ensure you are placing prefab in the correct country. (/prefab/cross_san_francisco_tram/ca_cross_san_francisco_tram_2.pmd)
+00:05:12.904 : <ERROR> [semaphore_model] Model 'tr_sem_mdl.ca_sf1' for semaphore with id 2 not found! Please use semaphore profile and/or fix the model name (/prefab/cross_san_francisco_tram/ca_cross_san_francisco_tram_2.pmd)
+00:05:12.904 : <ERROR> [semaphore_model] Model 'tr_sem_mdl.ca_sf1' for semaphore with id 1 not found! Please use semaphore profile and/or fix the model name (/prefab/cross_san_francisco_tram/ca_cross_san_francisco_tram_2.pmd)
+00:05:12.904 : <ERROR> [semaphore_model] Model 'tr_sem_mdl.ca_sf1' for semaphore with id 0 not found! Please use semaphore profile and/or fix the model name (/prefab/cross_san_francisco_tram/ca_cross_san_francisco_tram_2.pmd)
+00:05:53.773 : Nothing to activate
+00:05:53.816 : Nothing to activate
+00:05:54.533 : Nothing to activate
+00:05:54.558 : Nothing to activate
+00:05:54.587 : Nothing to activate
+00:06:05.284 : Nothing to activate
+00:06:05.303 : Nothing to activate
+00:06:05.323 : Nothing to activate
+00:06:05.340 : Nothing to activate
+00:06:05.357 : Nothing to activate
+00:06:05.376 : Nothing to activate
+00:06:05.394 : Nothing to activate
+00:06:07.497 : Nothing to activate
+00:06:07.518 : Nothing to activate
+00:06:07.536 : Nothing to activate
+00:06:58.713 : [trigger] Handled action (trig_action.sv_unlock)
+00:09:00.403 : Creating save-game file (/steam/profiles/416C6578/save/autosave_drive_8/game.sii) ...
+00:09:36.103 : <ERROR> [semaphore_profile] Semaphore profile 'ca_sf1' is not available in country 'california'! Allowed countries: .
+ Please use a different profile or ensure you are placing prefab in the correct country. (/prefab/cross_san_francisco_tram/ca_cross_san_francisco_tram_2.pmd)
+00:09:36.103 : <ERROR> [semaphore_model] Model 'tr_sem_mdl.ca_sf1' for semaphore with id 2 not found! Please use semaphore profile and/or fix the model name (/prefab/cross_san_francisco_tram/ca_cross_san_francisco_tram_2.pmd)
+00:09:36.103 : <ERROR> [semaphore_model] Model 'tr_sem_mdl.ca_sf1' for semaphore with id 1 not found! Please use semaphore profile and/or fix the model name (/prefab/cross_san_francisco_tram/ca_cross_san_francisco_tram_2.pmd)
+00:09:36.103 : <ERROR> [semaphore_model] Model 'tr_sem_mdl.ca_sf1' for semaphore with id 0 not found! Please use semaphore profile and/or fix the model name (/prefab/cross_san_francisco_tram/ca_cross_san_francisco_tram_2.pmd)
+00:10:39.580 : <WARNING> [pml] Font stack is not empty, did you forgot to put </font>?
+00:10:39.580 : <WARNING> [pml] Source: '<nowrap><align hstyle=center vstyle=center><color value=FF430100><font face=/font/license_plate/california.font><color value=FF000000><margin left=-15><img src=/material/ui/white.mat xscale=stretch yscale=stretch><ret><margin left=0><align hstyle=center vstyle=center><font xscale=1.2 yscale=1.2><color value=FFFFFF27> ITVTC</font></align></nowrap>'
+00:10:39.580 : <WARNING> [pml] Align stack is not empty, did you forgot to put </align>?
+00:10:39.580 : <WARNING> [pml] Source: '<nowrap><align hstyle=center vstyle=center><color value=FF430100><font face=/font/license_plate/california.font><color value=FF000000><margin left=-15><img src=/material/ui/white.mat xscale=stretch yscale=stretch><ret><margin left=0><align hstyle=center vstyle=center><font xscale=1.2 yscale=1.2><color value=FFFFFF27> ITVTC</font></align></nowrap>'
+00:10:39.580 : <WARNING> [pml] Margin stack is not empty, did you forgot to put </margin>?
+00:10:39.580 : <WARNING> [pml] Source: '<nowrap><align hstyle=center vstyle=center><color value=FF430100><font face=/font/license_plate/california.font><color value=FF000000><margin left=-15><img src=/material/ui/white.mat xscale=stretch yscale=stretch><ret><margin left=0><align hstyle=center vstyle=center><font xscale=1.2 yscale=1.2><color value=FFFFFF27> ITVTC</font></align></nowrap>'
+00:10:39.789 : <WARNING> [pml] Font stack is not empty, did you forgot to put </font>?
+00:10:39.789 : <WARNING> [pml] Source: '<nowrap><align hstyle=center vstyle=center><color value=FF430100><font face=/font/license_plate/california.font><color value=FF000000><margin left=-15><img src=/material/ui/white.mat xscale=stretch yscale=stretch><ret><margin left=0><align hstyle=center vstyle=center><font xscale=1.2 yscale=1.2><color value=ff0eff00> AYUSH</font></align></nowrap>'
+00:10:39.789 : <WARNING> [pml] Align stack is not empty, did you forgot to put </align>?
+00:10:39.789 : <WARNING> [pml] Source: '<nowrap><align hstyle=center vstyle=center><color value=FF430100><font face=/font/license_plate/california.font><color value=FF000000><margin left=-15><img src=/material/ui/white.mat xscale=stretch yscale=stretch><ret><margin left=0><align hstyle=center vstyle=center><font xscale=1.2 yscale=1.2><color value=ff0eff00> AYUSH</font></align></nowrap>'
+00:10:39.789 : <WARNING> [pml] Margin stack is not empty, did you forgot to put </margin>?
+00:10:39.789 : <WARNING> [pml] Source: '<nowrap><align hstyle=center vstyle=center><color value=FF430100><font face=/font/license_plate/california.font><color value=FF000000><margin left=-15><img src=/material/ui/white.mat xscale=stretch yscale=stretch><ret><margin left=0><align hstyle=center vstyle=center><font xscale=1.2 yscale=1.2><color value=ff0eff00> AYUSH</font></align></nowrap>'
+00:10:57.812 : <ERROR> [traffic] Failed to register Sign item 0x5234BC89F9000001
+00:10:57.894 : <ERROR> [traffic] Failed to register Sign item 0x5234BC89F9000001
+00:11:04.415 : <ERROR> [traffic] Failed to register Sign item 0x5234BC89F9000001
+00:11:04.510 : <ERROR> [traffic] Failed to register Sign item 0x5234BC89F9000001
+00:11:09.274 : <ERROR> [traffic] Failed to register Sign item 0x5234BC89F9000001
+00:11:15.546 : <ERROR> Effect eut2.dif.spec does not support aux[1] input.
+00:11:15.546 : <WARNING> [material] unable to decode input_id from aux attribute (in /vehicle/truck/upgrade/leds/police_lights.mat)
+00:11:15.547 : <ERROR> Effect eut2.shadowonly does not support aux[1] input.
+00:11:15.547 : <WARNING> [material] unable to decode input_id from aux attribute (in /vehicle/truck/upgrade/leds/car_11_car.mat)
+00:11:22.550 : <ERROR> [traffic] Failed to register Sign item 0x5234BC89F9000001
+00:11:22.650 : <ERROR> [traffic] Failed to register Sign item 0x5234BC89F9000001
+00:11:29.495 : <ERROR> [traffic] Failed to register Sign item 0x5234BC89F9000001
+00:11:29.536 : <ERROR> [traffic] Failed to register Sign item 0x5234BC89F9000001
+00:11:31.385 : <WARNING> [pml] Font stack is not empty, did you forgot to put </font>?
+00:11:31.385 : <WARNING> [pml] Source: '<nowrap><align hstyle=center vstyle=center><color value=FF430100><font face=/font/license_plate/nevada.font><color value=FFAB1B0E><margin left=-15><img src=/material/ui/white.mat xscale=stretch yscale=stretch><ret><margin left=0><align hstyle=center vstyle=center><font xscale=1.2 yscale=1.2><color value=FF98F5FF>NIVARO</align></margin></font></align></nowrap>'
+00:11:31.385 : <WARNING> [pml] Margin stack is not empty, did you forgot to put </margin>?
+00:11:31.385 : <WARNING> [pml] Source: '<nowrap><align hstyle=center vstyle=center><color value=FF430100><font face=/font/license_plate/nevada.font><color value=FFAB1B0E><margin left=-15><img src=/material/ui/white.mat xscale=stretch yscale=stretch><ret><margin left=0><align hstyle=center vstyle=center><font xscale=1.2 yscale=1.2><color value=FF98F5FF>NIVARO</align></margin></font></align></nowrap>'
+00:11:34.643 : <ERROR> [traffic] Failed to register Sign item 0x5234BC89F9000001
+00:11:34.684 : <ERROR> [traffic] Failed to register Sign item 0x5234BC89F9000001
+00:11:56.178 : <ERROR> [traffic] Failed to register Sign item 0x5234BC89F9000001
+00:11:56.283 : <ERROR> [traffic] Failed to register Sign item 0x5234BC89F9000001
+00:12:04.541 : <ERROR> [traffic] Failed to register Sign item 0x5234BC89F9000001
+00:12:04.643 : <ERROR> [traffic] Failed to register Sign item 0x5234BC89F9000001
+00:12:16.815 : <ERROR> [traffic] Failed to register Sign item 0x5234BC89F9000001
+00:12:16.905 : <ERROR> [traffic] Failed to register Sign item 0x5234BC89F9000001
+00:12:22.995 : <ERROR> [traffic] Failed to register Sign item 0x5234BC89F9000001
+00:12:23.107 : <ERROR> [traffic] Failed to register Sign item 0x5234BC89F9000001
+00:12:43.587 : <ERROR> [traffic] Failed to register Sign item 0x5234BC89F9000001
+00:12:43.673 : <ERROR> [traffic] Failed to register Sign item 0x5234BC89F9000001
+00:13:12.642 : <ERROR> [traffic] Failed to register Sign item 0x5234BC89F9000001
+00:13:12.748 : <ERROR> [traffic] Failed to register Sign item 0x5234BC89F9000001
+00:14:11.910 : Creating save-game file (/steam/profiles/416C6578/save/autosave_drive_9/game.sii) ...
+00:14:27.239 : screenshot
+00:14:28.208 : Screenshot written: 'C:/Users/corvu/OneDrive/Documents/American Truck Simulator/screenshot/ats_20240622_114214_00.png'.
+00:15:05.378 : pause
+00:18:43.004 : pause
+00:18:43.907 : pause
+00:18:44.750 : pause
+00:18:54.821 : Nothing to activate
+00:18:54.847 : Nothing to activate
+00:18:54.870 : Nothing to activate
+00:18:54.896 : Nothing to activate
+00:18:54.919 : Nothing to activate
+00:18:54.947 : Nothing to activate
+00:22:52.606 : Creating save-game file (/steam/profiles/416C6578/save/autosave_drive/game.sii) ...
+00:24:14.012 : <ERROR> [fs] Failed to open file '/def/vehicle/truck/kenworth.t800_gtm/data.sii' in the read_only mode.
+00:24:14.012 : <ERROR> [fs] Failed to open file '/def/vehicle/truck/kenworth.t800_gtm/data.sii' in the read_only mode.
+00:24:14.012 : <ERROR> load_unit() - Failed to open file (/def/vehicle/truck/kenworth.t800_gtm/data.sii)
+00:24:14.013 : <ERROR> [fs] Failed to open file '/def/vehicle/truck/kenworth.t800_gtm/head_light/standard.sii' in the read_only mode.
+00:24:14.013 : <ERROR> [fs] Failed to open file '/def/vehicle/truck/kenworth.t800_gtm/head_light/standard.sii' in the read_only mode.
+00:24:14.013 : <ERROR> load_unit() - Failed to open file (/def/vehicle/truck/kenworth.t800_gtm/head_light/standard.sii)
+00:24:14.013 : <ERROR> [fs] Failed to open file '/def/vehicle/truck/kenworth.t800_gtm/accessory/exhaust/shape01.sii' in the read_only mode.
+00:24:14.013 : <ERROR> [fs] Failed to open file '/def/vehicle/truck/kenworth.t800_gtm/accessory/exhaust/shape01.sii' in the read_only mode.
+00:24:14.013 : <ERROR> load_unit() - Failed to open file (/def/vehicle/truck/kenworth.t800_gtm/accessory/exhaust/shape01.sii)
+00:24:14.013 : <ERROR> [fs] Failed to open file '/def/vehicle/truck/kenworth.t800_gtm/accessory/mirror/shape2.sii' in the read_only mode.
+00:24:14.013 : <ERROR> [fs] Failed to open file '/def/vehicle/truck/kenworth.t800_gtm/accessory/mirror/shape2.sii' in the read_only mode.
+00:24:14.013 : <ERROR> load_unit() - Failed to open file (/def/vehicle/truck/kenworth.t800_gtm/accessory/mirror/shape2.sii)
+00:24:14.013 : <ERROR> [fs] Failed to open file '/def/vehicle/truck/kenworth.t800_gtm/accessory/hood/shape02.sii' in the read_only mode.
+00:24:14.013 : <ERROR> [fs] Failed to open file '/def/vehicle/truck/kenworth.t800_gtm/accessory/hood/shape02.sii' in the read_only mode.
+00:24:14.013 : <ERROR> load_unit() - Failed to open file (/def/vehicle/truck/kenworth.t800_gtm/accessory/hood/shape02.sii)
+00:24:14.013 : <ERROR> [fs] Failed to open file '/def/vehicle/truck/kenworth.t800_gtm/accessory/cabflares/shape01.sii' in the read_only mode.
+00:24:14.013 : <ERROR> [fs] Failed to open file '/def/vehicle/truck/kenworth.t800_gtm/accessory/cabflares/shape01.sii' in the read_only mode.
+00:24:14.013 : <ERROR> load_unit() - Failed to open file (/def/vehicle/truck/kenworth.t800_gtm/accessory/cabflares/shape01.sii)
+00:24:14.014 : <ERROR> [fs] Failed to open file '/def/vehicle/truck/kenworth.t800_gtm/accessory/horns/shape01.sii' in the read_only mode.
+00:24:14.014 : <ERROR> [fs] Failed to open file '/def/vehicle/truck/kenworth.t800_gtm/accessory/horns/shape01.sii' in the read_only mode.
+00:24:14.014 : <ERROR> load_unit() - Failed to open file (/def/vehicle/truck/kenworth.t800_gtm/accessory/horns/shape01.sii)
+00:24:14.014 : <ERROR> [fs] Failed to open file '/def/vehicle/truck/kenworth.t800_gtm/accessory/steering_w/exclusive.sii' in the read_only mode.
+00:24:14.014 : <ERROR> [fs] Failed to open file '/def/vehicle/truck/kenworth.t800_gtm/accessory/steering_w/exclusive.sii' in the read_only mode.
+00:24:14.014 : <ERROR> load_unit() - Failed to open file (/def/vehicle/truck/kenworth.t800_gtm/accessory/steering_w/exclusive.sii)
+00:24:14.014 : <ERROR> [fs] Failed to open file '/def/vehicle/truck/kenworth.t800_gtm/accessory/trlr_cables/stock.sii' in the read_only mode.
+00:24:14.014 : <ERROR> [fs] Failed to open file '/def/vehicle/truck/kenworth.t800_gtm/accessory/trlr_cables/stock.sii' in the read_only mode.
+00:24:14.014 : <ERROR> load_unit() - Failed to open file (/def/vehicle/truck/kenworth.t800_gtm/accessory/trlr_cables/stock.sii)
+00:24:14.014 : <ERROR> [fs] Failed to open file '/def/vehicle/truck/kenworth.t800_gtm/cabin/standard.sii' in the read_only mode.
+00:24:14.014 : <ERROR> [fs] Failed to open file '/def/vehicle/truck/kenworth.t800_gtm/cabin/standard.sii' in the read_only mode.
+00:24:14.014 : <ERROR> load_unit() - Failed to open file (/def/vehicle/truck/kenworth.t800_gtm/cabin/standard.sii)
+00:24:14.014 : <ERROR> [fs] Failed to open file '/def/vehicle/truck/kenworth.t800_gtm/chassis/xlong1_st.sii' in the read_only mode.
+00:24:14.014 : <ERROR> [fs] Failed to open file '/def/vehicle/truck/kenworth.t800_gtm/chassis/xlong1_st.sii' in the read_only mode.
+00:24:14.014 : <ERROR> load_unit() - Failed to open file (/def/vehicle/truck/kenworth.t800_gtm/chassis/xlong1_st.sii)
+00:24:14.014 : <ERROR> [fs] Failed to open file '/def/vehicle/truck/kenworth.t800_gtm/engine/catc15.sii' in the read_only mode.
+00:24:14.014 : <ERROR> [fs] Failed to open file '/def/vehicle/truck/kenworth.t800_gtm/engine/catc15.sii' in the read_only mode.
+00:24:14.014 : <ERROR> load_unit() - Failed to open file (/def/vehicle/truck/kenworth.t800_gtm/engine/catc15.sii)
+00:24:14.015 : <ERROR> [fs] Failed to open file '/def/vehicle/truck/kenworth.t800_gtm/transmission/18_speed_retarder.sii' in the read_only mode.
+00:24:14.015 : <ERROR> [fs] Failed to open file '/def/vehicle/truck/kenworth.t800_gtm/transmission/18_speed_retarder.sii' in the read_only mode.
+00:24:14.015 : <ERROR> load_unit() - Failed to open file (/def/vehicle/truck/kenworth.t800_gtm/transmission/18_speed_retarder.sii)
+00:24:14.015 : <ERROR> [fs] Failed to open file '/def/vehicle/truck/kenworth.t800_gtm/interior/jb_standard.sii' in the read_only mode.
+00:24:14.015 : <ERROR> [fs] Failed to open file '/def/vehicle/truck/kenworth.t800_gtm/interior/jb_standard.sii' in the read_only mode.
+00:24:14.015 : <ERROR> load_unit() - Failed to open file (/def/vehicle/truck/kenworth.t800_gtm/interior/jb_standard.sii)
+00:24:14.015 : <ERROR> [fs] Failed to open file '/def/vehicle/truck/kenworth.t800_gtm/paint_job/color2.sii' in the read_only mode.
+00:24:14.015 : <ERROR> [fs] Failed to open file '/def/vehicle/truck/kenworth.t800_gtm/paint_job/color2.sii' in the read_only mode.
+00:24:14.015 : <ERROR> load_unit() - Failed to open file (/def/vehicle/truck/kenworth.t800_gtm/paint_job/color2.sii)
+00:24:14.015 : <ERROR> [fs] Failed to open file '/def/vehicle/truck/kenworth.t800_gtm/accessory/lghfender/shape02.sii' in the read_only mode.
+00:24:14.015 : <ERROR> [fs] Failed to open file '/def/vehicle/truck/kenworth.t800_gtm/accessory/lghfender/shape02.sii' in the read_only mode.
+00:24:14.015 : <ERROR> load_unit() - Failed to open file (/def/vehicle/truck/kenworth.t800_gtm/accessory/lghfender/shape02.sii)
+00:24:14.016 : <ERROR> [fs] Failed to open file '/def/vehicle/truck/kenworth.t800_gtm/accessory/fendertrim/shape04.sii' in the read_only mode.
+00:24:14.016 : <ERROR> [fs] Failed to open file '/def/vehicle/truck/kenworth.t800_gtm/accessory/fendertrim/shape04.sii' in the read_only mode.
+00:24:14.016 : <ERROR> load_unit() - Failed to open file (/def/vehicle/truck/kenworth.t800_gtm/accessory/fendertrim/shape04.sii)
+00:24:14.016 : <ERROR> [fs] Failed to open file '/def/vehicle/truck/kenworth.t800_gtm/accessory/fl_mirror/shape1.sii' in the read_only mode.
+00:24:14.016 : <ERROR> [fs] Failed to open file '/def/vehicle/truck/kenworth.t800_gtm/accessory/fl_mirror/shape1.sii' in the read_only mode.
+00:24:14.016 : <ERROR> load_unit() - Failed to open file (/def/vehicle/truck/kenworth.t800_gtm/accessory/fl_mirror/shape1.sii)
+00:24:14.016 : <ERROR> [fs] Failed to open file '/def/vehicle/truck/kenworth.t800_gtm/accessory/fr_mirror/shape3.sii' in the read_only mode.
+00:24:14.016 : <ERROR> [fs] Failed to open file '/def/vehicle/truck/kenworth.t800_gtm/accessory/fr_mirror/shape3.sii' in the read_only mode.
+00:24:14.016 : <ERROR> load_unit() - Failed to open file (/def/vehicle/truck/kenworth.t800_gtm/accessory/fr_mirror/shape3.sii)
+00:24:14.016 : <ERROR> [fs] Failed to open file '/def/vehicle/truck/kenworth.t800_gtm/accessory/bumper/shape06.sii' in the read_only mode.
+00:24:14.016 : <ERROR> [fs] Failed to open file '/def/vehicle/truck/kenworth.t800_gtm/accessory/bumper/shape06.sii' in the read_only mode.
+00:24:14.016 : <ERROR> load_unit() - Failed to open file (/def/vehicle/truck/kenworth.t800_gtm/accessory/bumper/shape06.sii)
+00:24:14.016 : <ERROR> [fs] Failed to open file '/def/vehicle/truck/kenworth.t800_gtm/accessory/filters/shape02.sii' in the read_only mode.
+00:24:14.016 : <ERROR> [fs] Failed to open file '/def/vehicle/truck/kenworth.t800_gtm/accessory/filters/shape02.sii' in the read_only mode.
+00:24:14.016 : <ERROR> load_unit() - Failed to open file (/def/vehicle/truck/kenworth.t800_gtm/accessory/filters/shape02.sii)
+00:24:14.017 : <ERROR> [fs] Failed to open file '/def/vehicle/truck/kenworth.t800_gtm/accessory/sunshield/shape03.sii' in the read_only mode.
+00:24:14.017 : <ERROR> [fs] Failed to open file '/def/vehicle/truck/kenworth.t800_gtm/accessory/sunshield/shape03.sii' in the read_only mode.
+00:24:14.017 : <ERROR> load_unit() - Failed to open file (/def/vehicle/truck/kenworth.t800_gtm/accessory/sunshield/shape03.sii)
+00:24:14.017 : <ERROR> [fs] Failed to open file '/def/vehicle/truck/kenworth.t800_gtm/accessory/topflares/shape01.sii' in the read_only mode.
+00:24:14.017 : <ERROR> [fs] Failed to open file '/def/vehicle/truck/kenworth.t800_gtm/accessory/topflares/shape01.sii' in the read_only mode.
+00:24:14.017 : <ERROR> load_unit() - Failed to open file (/def/vehicle/truck/kenworth.t800_gtm/accessory/topflares/shape01.sii)
+00:24:14.017 : <ERROR> [fs] Failed to open file '/def/vehicle/truck/kenworth.t800_gtm/accessory/sideflares/shape02.sii' in the read_only mode.
+00:24:14.017 : <ERROR> [fs] Failed to open file '/def/vehicle/truck/kenworth.t800_gtm/accessory/sideflares/shape02.sii' in the read_only mode.
+00:24:14.017 : <ERROR> load_unit() - Failed to open file (/def/vehicle/truck/kenworth.t800_gtm/accessory/sideflares/shape02.sii)
+00:24:14.017 : <ERROR> [fs] Failed to open file '/def/vehicle/truck/kenworth.t800_gtm/accessory/mudguard/shape01.sii' in the read_only mode.
+00:24:14.017 : <ERROR> [fs] Failed to open file '/def/vehicle/truck/kenworth.t800_gtm/accessory/mudguard/shape01.sii' in the read_only mode.
+00:24:14.017 : <ERROR> load_unit() - Failed to open file (/def/vehicle/truck/kenworth.t800_gtm/accessory/mudguard/shape01.sii)
+00:24:14.017 : <ERROR> [fs] Failed to open file '/def/vehicle/truck/kenworth.t800_gtm/accessory/mudflaps/shape04.sii' in the read_only mode.
+00:24:14.017 : <ERROR> [fs] Failed to open file '/def/vehicle/truck/kenworth.t800_gtm/accessory/mudflaps/shape04.sii' in the read_only mode.
+00:24:14.018 : <ERROR> load_unit() - Failed to open file (/def/vehicle/truck/kenworth.t800_gtm/accessory/mudflaps/shape04.sii)
+00:24:14.018 : <ERROR> [fs] Failed to open file '/def/vehicle/truck/kenworth.t800_gtm/accessory/mflaps/shape04n.sii' in the read_only mode.
+00:24:14.018 : <ERROR> [fs] Failed to open file '/def/vehicle/truck/kenworth.t800_gtm/accessory/mflaps/shape04n.sii' in the read_only mode.
+00:24:14.018 : <ERROR> load_unit() - Failed to open file (/def/vehicle/truck/kenworth.t800_gtm/accessory/mflaps/shape04n.sii)
+00:24:14.018 : <ERROR> [fs] Failed to open file '/def/vehicle/truck/kenworth.t800_gtm/accessory/beacon/shape3.sii' in the read_only mode.
+00:24:14.018 : <ERROR> [fs] Failed to open file '/def/vehicle/truck/kenworth.t800_gtm/accessory/beacon/shape3.sii' in the read_only mode.
+00:24:14.018 : <ERROR> load_unit() - Failed to open file (/def/vehicle/truck/kenworth.t800_gtm/accessory/beacon/shape3.sii)
+00:27:54.595 : Creating save-game file (/steam/profiles/416C6578/save/autosave_drive_1/game.sii) ...
+00:30:14.143 : <ERROR> [fs] Failed to open file '/def/vehicle/truck/kenworth.t680/accessory/beacon/bigt_03.sii' in the read_only mode.
+00:30:14.143 : <ERROR> [fs] Failed to open file '/def/vehicle/truck/kenworth.t680/accessory/beacon/bigt_03.sii' in the read_only mode.
+00:30:14.143 : <ERROR> load_unit() - Failed to open file (/def/vehicle/truck/kenworth.t680/accessory/beacon/bigt_03.sii)
+00:32:56.122 : Creating save-game file (/steam/profiles/416C6578/save/autosave_drive_2/game.sii) ...
+00:36:17.221 : pause
+00:36:32.386 : pause
+00:38:17.410 : Creating save-game file (/steam/profiles/416C6578/save/autosave_drive_3/game.sii) ...
+00:43:18.375 : Creating save-game file (/steam/profiles/416C6578/save/autosave_drive_4/game.sii) ...
+00:48:11.227 : <ERROR> [traffic] Failed to register Sign item 0x5234BC89F9000001
+00:48:11.286 : <ERROR> [traffic] Failed to register Sign item 0x5234BC89F9000001
+00:48:19.927 : Creating save-game file (/steam/profiles/416C6578/save/autosave_drive_5/game.sii) ...
+00:48:23.530 : <ERROR> [traffic] Failed to register Sign item 0x5234BC89F9000001
+00:48:30.834 : <ERROR> [traffic] Failed to register Sign item 0x5234BC89F9000001
+00:48:39.806 : <ERROR> [traffic] Failed to register Sign item 0x5234BC89F9000001
+00:48:39.898 : <ERROR> [traffic] Failed to register Sign item 0x5234BC89F9000001
+00:48:47.615 : <ERROR> [traffic] Failed to register Sign item 0x5234BC89F9000001
+00:48:47.711 : <ERROR> [traffic] Failed to register Sign item 0x5234BC89F9000001
+00:49:08.237 : <ERROR> [traffic] Failed to register Sign item 0x5234BC89F9000001
+00:49:24.586 : <ERROR> [traffic] Failed to register Sign item 0x5234BC89F9000001
+00:49:24.681 : <ERROR> [traffic] Failed to register Sign item 0x5234BC89F9000001
+00:49:32.920 : <ERROR> [traffic] Failed to register Sign item 0x5234BC89F9000001
+00:49:40.466 : <ERROR> [traffic] Failed to register Sign item 0x5234BC89F9000001
+00:49:49.017 : <ERROR> [traffic] Failed to register Sign item 0x5234BC89F9000001
+00:49:49.017 : <ERROR> [semaphore_profile] Unable to find profile 'ca_sf1' for semaphore 2 (/prefab/cross_san_francisco_tram/ca_cross_san_francisco_tram_2.ppd)
+00:49:49.017 : <ERROR> [semaphore_profile] Unable to find profile 'ca_sf1' for semaphore 1 (/prefab/cross_san_francisco_tram/ca_cross_san_francisco_tram_2.ppd)
+00:49:49.017 : <ERROR> [semaphore_profile] Unable to find profile 'ca_sf1' for semaphore 0 (/prefab/cross_san_francisco_tram/ca_cross_san_francisco_tram_2.ppd)
+00:49:55.659 : <ERROR> [traffic] Failed to register Sign item 0x5234BC89F9000001
+00:50:02.762 : <ERROR> [traffic] Failed to register Sign item 0x5234BC89F9000001
+00:50:02.926 : <ERROR> [traffic] Failed to register Sign item 0x5234BC89F9000001
+00:50:10.235 : <ERROR> [semaphore_profile] Semaphore profile 'ca_sf1' is not available in country 'california'! Allowed countries: .
+ Please use a different profile or ensure you are placing prefab in the correct country. (/prefab/cross_san_francisco_tram/ca_cross_san_francisco_tram_2.pmd)
+00:50:10.235 : <ERROR> [semaphore_model] Model 'tr_sem_mdl.ca_sf1' for semaphore with id 2 not found! Please use semaphore profile and/or fix the model name (/prefab/cross_san_francisco_tram/ca_cross_san_francisco_tram_2.pmd)
+00:50:10.235 : <ERROR> [semaphore_model] Model 'tr_sem_mdl.ca_sf1' for semaphore with id 1 not found! Please use semaphore profile and/or fix the model name (/prefab/cross_san_francisco_tram/ca_cross_san_francisco_tram_2.pmd)
+00:50:10.235 : <ERROR> [semaphore_model] Model 'tr_sem_mdl.ca_sf1' for semaphore with id 0 not found! Please use semaphore profile and/or fix the model name (/prefab/cross_san_francisco_tram/ca_cross_san_francisco_tram_2.pmd)
+00:50:35.032 : <ERROR> Effect eut2.dif.spec does not support aux[1] input.
+00:50:35.032 : <WARNING> [material] unable to decode input_id from aux attribute (in /vehicle/truck/upgrade/leds/police_lights.mat)
+00:50:35.032 : <ERROR> Effect eut2.shadowonly does not support aux[1] input.
+00:50:35.033 : <WARNING> [material] unable to decode input_id from aux attribute (in /vehicle/truck/upgrade/leds/car_11_car.mat)
+00:50:35.122 : <ERROR> Effect eut2.dif.spec does not support aux[1] input.
+00:50:35.122 : <WARNING> [material] unable to decode input_id from aux attribute (in /vehicle/truck/upgrade/leds/police_lights.mat)
+00:50:35.122 : <ERROR> Effect eut2.shadowonly does not support aux[1] input.
+00:50:35.122 : <WARNING> [material] unable to decode input_id from aux attribute (in /vehicle/truck/upgrade/leds/car_11_car.mat)
+00:52:48.843 : <ERROR> Effect eut2.dif.spec does not support aux[1] input.
+00:52:48.843 : <WARNING> [material] unable to decode input_id from aux attribute (in /vehicle/truck/upgrade/leds/police_lights.mat)
+00:52:48.844 : <ERROR> Effect eut2.shadowonly does not support aux[1] input.
+00:52:48.844 : <WARNING> [material] unable to decode input_id from aux attribute (in /vehicle/truck/upgrade/leds/car_11_car.mat)
+00:52:48.911 : <ERROR> Effect eut2.dif.spec does not support aux[1] input.
+00:52:48.911 : <WARNING> [material] unable to decode input_id from aux attribute (in /vehicle/truck/upgrade/leds/police_lights.mat)
+00:52:48.912 : <ERROR> Effect eut2.shadowonly does not support aux[1] input.
+00:52:48.912 : <WARNING> [material] unable to decode input_id from aux attribute (in /vehicle/truck/upgrade/leds/car_11_car.mat)
+00:53:10.976 : <ERROR> Effect eut2.dif.spec does not support aux[1] input.
+00:53:10.976 : <WARNING> [material] unable to decode input_id from aux attribute (in /vehicle/truck/upgrade/leds/police_lights.mat)
+00:53:10.976 : <ERROR> Effect eut2.shadowonly does not support aux[1] input.
+00:53:10.976 : <WARNING> [material] unable to decode input_id from aux attribute (in /vehicle/truck/upgrade/leds/car_11_car.mat)
+00:53:11.084 : <ERROR> Effect eut2.dif.spec does not support aux[1] input.
+00:53:11.084 : <WARNING> [material] unable to decode input_id from aux attribute (in /vehicle/truck/upgrade/leds/police_lights.mat)
+00:53:11.085 : <ERROR> Effect eut2.shadowonly does not support aux[1] input.
+00:53:11.085 : <WARNING> [material] unable to decode input_id from aux attribute (in /vehicle/truck/upgrade/leds/car_11_car.mat)
+00:53:23.164 : Creating save-game file (/steam/profiles/416C6578/save/autosave_drive_6/game.sii) ...
+00:54:42.485 : <ERROR> Effect eut2.dif.spec does not support aux[1] input.
+00:54:42.485 : <WARNING> [material] unable to decode input_id from aux attribute (in /vehicle/truck/upgrade/leds/police_lights.mat)
+00:54:42.486 : <ERROR> Effect eut2.shadowonly does not support aux[1] input.
+00:54:42.486 : <WARNING> [material] unable to decode input_id from aux attribute (in /vehicle/truck/upgrade/leds/car_11_car.mat)
+00:54:42.560 : <ERROR> Effect eut2.dif.spec does not support aux[1] input.
+00:54:42.560 : <WARNING> [material] unable to decode input_id from aux attribute (in /vehicle/truck/upgrade/leds/police_lights.mat)
+00:54:42.561 : <ERROR> Effect eut2.shadowonly does not support aux[1] input.
+00:54:42.561 : <WARNING> [material] unable to decode input_id from aux attribute (in /vehicle/truck/upgrade/leds/car_11_car.mat)
+00:55:34.839 : Nothing to activate
+00:55:34.860 : Nothing to activate
+00:57:22.558 : <ERROR> Effect eut2.dif.spec does not support aux[1] input.
+00:57:22.558 : <WARNING> [material] unable to decode input_id from aux attribute (in /vehicle/truck/upgrade/leds/police_lights.mat)
+00:57:22.559 : <ERROR> Effect eut2.shadowonly does not support aux[1] input.
+00:57:22.559 : <WARNING> [material] unable to decode input_id from aux attribute (in /vehicle/truck/upgrade/leds/car_11_car.mat)
+00:57:22.654 : <ERROR> Effect eut2.dif.spec does not support aux[1] input.
+00:57:22.654 : <WARNING> [material] unable to decode input_id from aux attribute (in /vehicle/truck/upgrade/leds/police_lights.mat)
+00:57:22.654 : <ERROR> Effect eut2.shadowonly does not support aux[1] input.
+00:57:22.654 : <WARNING> [material] unable to decode input_id from aux attribute (in /vehicle/truck/upgrade/leds/car_11_car.mat)
+00:57:43.106 : <ERROR> Effect eut2.dif.spec does not support aux[1] input.
+00:57:43.106 : <WARNING> [material] unable to decode input_id from aux attribute (in /vehicle/truck/upgrade/leds/police_lights.mat)
+00:57:43.106 : <ERROR> Effect eut2.shadowonly does not support aux[1] input.
+00:57:43.106 : <WARNING> [material] unable to decode input_id from aux attribute (in /vehicle/truck/upgrade/leds/car_11_car.mat)
+00:57:43.174 : <ERROR> Effect eut2.dif.spec does not support aux[1] input.
+00:57:43.174 : <WARNING> [material] unable to decode input_id from aux attribute (in /vehicle/truck/upgrade/leds/police_lights.mat)
+00:57:43.175 : <ERROR> Effect eut2.shadowonly does not support aux[1] input.
+00:57:43.175 : <WARNING> [material] unable to decode input_id from aux attribute (in /vehicle/truck/upgrade/leds/car_11_car.mat)
+00:58:09.217 : <ERROR> Effect eut2.dif.spec does not support aux[1] input.
+00:58:09.217 : <WARNING> [material] unable to decode input_id from aux attribute (in /vehicle/truck/upgrade/leds/police_lights.mat)
+00:58:09.217 : <ERROR> Effect eut2.shadowonly does not support aux[1] input.
+00:58:09.217 : <WARNING> [material] unable to decode input_id from aux attribute (in /vehicle/truck/upgrade/leds/car_11_car.mat)
+00:58:09.319 : <ERROR> Effect eut2.dif.spec does not support aux[1] input.
+00:58:09.319 : <WARNING> [material] unable to decode input_id from aux attribute (in /vehicle/truck/upgrade/leds/police_lights.mat)
+00:58:09.319 : <ERROR> Effect eut2.shadowonly does not support aux[1] input.
+00:58:09.319 : <WARNING> [material] unable to decode input_id from aux attribute (in /vehicle/truck/upgrade/leds/car_11_car.mat)
+00:58:28.619 : Creating save-game file (/steam/profiles/416C6578/save/autosave_drive_7/game.sii) ...
+00:58:30.783 : <ERROR> Effect eut2.dif.spec does not support aux[1] input.
+00:58:30.783 : <WARNING> [material] unable to decode input_id from aux attribute (in /vehicle/truck/upgrade/leds/police_lights.mat)
+00:58:30.784 : <ERROR> Effect eut2.shadowonly does not support aux[1] input.
+00:58:30.784 : <WARNING> [material] unable to decode input_id from aux attribute (in /vehicle/truck/upgrade/leds/car_11_car.mat)
+00:58:30.866 : <ERROR> Effect eut2.dif.spec does not support aux[1] input.
+00:58:30.866 : <WARNING> [material] unable to decode input_id from aux attribute (in /vehicle/truck/upgrade/leds/police_lights.mat)
+00:58:30.867 : <ERROR> Effect eut2.shadowonly does not support aux[1] input.
+00:58:30.867 : <WARNING> [material] unable to decode input_id from aux attribute (in /vehicle/truck/upgrade/leds/car_11_car.mat)
+00:59:04.169 : <ERROR> Effect eut2.dif.spec does not support aux[1] input.
+00:59:04.169 : <WARNING> [material] unable to decode input_id from aux attribute (in /vehicle/truck/upgrade/leds/police_lights.mat)
+00:59:04.169 : <ERROR> Effect eut2.shadowonly does not support aux[1] input.
+00:59:04.169 : <WARNING> [material] unable to decode input_id from aux attribute (in /vehicle/truck/upgrade/leds/car_11_car.mat)
+00:59:04.243 : <ERROR> Effect eut2.dif.spec does not support aux[1] input.
+00:59:04.243 : <WARNING> [material] unable to decode input_id from aux attribute (in /vehicle/truck/upgrade/leds/police_lights.mat)
+00:59:04.244 : <ERROR> Effect eut2.shadowonly does not support aux[1] input.
+00:59:04.244 : <WARNING> [material] unable to decode input_id from aux attribute (in /vehicle/truck/upgrade/leds/car_11_car.mat)
+00:59:10.940 : <ERROR> Effect eut2.dif.spec does not support aux[1] input.
+00:59:10.940 : <WARNING> [material] unable to decode input_id from aux attribute (in /vehicle/truck/upgrade/leds/police_lights.mat)
+00:59:10.940 : <ERROR> Effect eut2.shadowonly does not support aux[1] input.
+00:59:10.940 : <WARNING> [material] unable to decode input_id from aux attribute (in /vehicle/truck/upgrade/leds/car_11_car.mat)
+00:59:11.049 : <ERROR> Effect eut2.dif.spec does not support aux[1] input.
+00:59:11.049 : <WARNING> [material] unable to decode input_id from aux attribute (in /vehicle/truck/upgrade/leds/police_lights.mat)
+00:59:11.050 : <ERROR> Effect eut2.shadowonly does not support aux[1] input.
+00:59:11.050 : <WARNING> [material] unable to decode input_id from aux attribute (in /vehicle/truck/upgrade/leds/car_11_car.mat)
+00:59:14.230 : <ERROR> Effect eut2.dif.spec does not support aux[1] input.
+00:59:14.230 : <WARNING> [material] unable to decode input_id from aux attribute (in /vehicle/truck/upgrade/leds/police_lights.mat)
+00:59:14.230 : <ERROR> Effect eut2.shadowonly does not support aux[1] input.
+00:59:14.230 : <WARNING> [material] unable to decode input_id from aux attribute (in /vehicle/truck/upgrade/leds/car_11_car.mat)
+00:59:14.324 : <ERROR> Effect eut2.dif.spec does not support aux[1] input.
+00:59:14.324 : <WARNING> [material] unable to decode input_id from aux attribute (in /vehicle/truck/upgrade/leds/police_lights.mat)
+00:59:14.325 : <ERROR> Effect eut2.shadowonly does not support aux[1] input.
+00:59:14.325 : <WARNING> [material] unable to decode input_id from aux attribute (in /vehicle/truck/upgrade/leds/car_11_car.mat)
+01:00:24.184 : <ERROR> Maximum water level count (3) exceeded!
+01:00:24.184 : <ERROR> Current levels: -2.000000 0.000000 10.000000 vs 23.812500
+01:00:24.184 : Failed to register water level for item: 0x432c1fe8e4070a88
+01:00:24.471 : <ERROR> Maximum water level count (3) exceeded!
+01:00:24.471 : <ERROR> Current levels: -2.000000 0.000000 10.000000 vs 23.812500
+01:00:24.471 : Failed to register water level for item: 0x432c1fe837070a89
+01:01:05.948 : <ERROR> Maximum water level count (3) exceeded!
+01:01:05.948 : <ERROR> Current levels: -2.000000 0.000000 10.000000 vs 23.812500
+01:01:05.949 : Failed to register water level for item: 0x432c1fe86dc70a6a
+01:01:36.600 : <ERROR> Maximum water level count (3) exceeded!
+01:01:36.600 : <ERROR> Current levels: -2.000000 0.000000 10.000000 vs 3.628906
+01:01:36.600 : Failed to register water level for item: 0x432c0bc4ff070582
+01:03:01.792 : <ERROR> Effect eut2.dif.spec does not support aux[1] input.
+01:03:01.792 : <WARNING> [material] unable to decode input_id from aux attribute (in /vehicle/truck/upgrade/leds/police_lights.mat)
+01:03:01.869 : <ERROR> Effect eut2.dif.spec does not support aux[1] input.
+01:03:01.869 : <WARNING> [material] unable to decode input_id from aux attribute (in /vehicle/truck/upgrade/leds/police_lights.mat)
+01:03:09.020 : <ERROR> Effect eut2.shadowonly does not support aux[1] input.
+01:03:09.020 : <WARNING> [material] unable to decode input_id from aux attribute (in /vehicle/truck/upgrade/leds/car_11_car.mat)
+01:03:09.131 : <ERROR> Effect eut2.shadowonly does not support aux[1] input.
+01:03:09.131 : <WARNING> [material] unable to decode input_id from aux attribute (in /vehicle/truck/upgrade/leds/car_11_car.mat)
+01:03:28.359 : <ERROR> Effect eut2.shadowonly does not support aux[1] input.
+01:03:28.359 : <WARNING> [material] unable to decode input_id from aux attribute (in /vehicle/truck/upgrade/leds/car_11_car.mat)
+01:03:28.461 : <ERROR> Effect eut2.shadowonly does not support aux[1] input.
+01:03:28.461 : <WARNING> [material] unable to decode input_id from aux attribute (in /vehicle/truck/upgrade/leds/car_11_car.mat)
+01:03:31.382 : Creating save-game file (/steam/profiles/416C6578/save/autosave_drive_8/game.sii) ...
+01:04:12.116 : <ERROR> Effect eut2.shadowonly does not support aux[1] input.
+01:04:12.116 : <WARNING> [material] unable to decode input_id from aux attribute (in /vehicle/truck/upgrade/leds/car_11_car.mat)
+01:04:12.253 : <ERROR> Effect eut2.shadowonly does not support aux[1] input.
+01:04:12.254 : <WARNING> [material] unable to decode input_id from aux attribute (in /vehicle/truck/upgrade/leds/car_11_car.mat)
+01:05:18.211 : screenshot
+01:05:19.132 : Screenshot written: 'C:/Users/corvu/OneDrive/Documents/American Truck Simulator/screenshot/ats_20240622_123305_00.png'.
+01:05:59.964 : Creating save-game file (/steam/profiles/416C6578/save/12/game.sii) ...
+01:06:03.084 : quit
+01:06:03.155 : Creating save-game file (/steam/profiles/416C6578/save/autosave/game.sii) ...
+01:06:03.261 : [zipfs] data1.mp: Unmounted
+01:06:03.263 : [zipfs] data2.mp: Unmounted
+01:06:03.264 : [hashfs] data_bus.mp: Unmounted.
+01:06:03.265 : [hashfs] sh_skoda_car.mp: Unmounted.
+01:06:03.267 : [hashfs] skoda_car.mp: Unmounted.
+01:06:03.267 : [hashfs] sh_accessory_pack.mp: Unmounted.
+01:06:03.268 : [hashfs] accessory_pack.mp: Unmounted.
+01:06:03.269 : [hashfs] cargo_truckersmp.mp: Unmounted.
+01:06:03.270 : [zipfs] dos_leds.mp: Unmounted
+01:06:03.272 : [zipfs] sh_event.mp: Unmounted
+01:06:03.273 : [hashfs] ai_asset.mp: Unmounted.
+01:06:03.274 : [hashfs] ai_patron.mp: Unmounted.
+01:06:03.275 : [hashfs] ai_public.mp: Unmounted.
+01:06:03.275 : [hashfs] aipol.mp: Unmounted.
+01:06:03.275 : [hashfs] patreon_skin.mp: Unmounted.
+01:06:04.318 : [sound] Sound library - shutdown.
+01:06:04.318 : [sound] Sound system - shutdown.
+01:06:04.726 : [sound] FMOD libraries released.
+01:06:05.329 : [net]  LOG INFO: Stopped
+01:06:05.372 : [hashfs] dlc_wy.scs: Unmounted.
+01:06:05.373 : [hashfs] dlc_westernstar_57x.scs: Unmounted.
+01:06:05.373 : [hashfs] dlc_westernstar_5700xe.scs: Unmounted.
+01:06:05.373 : [hashfs] dlc_westernstar_49x.scs: Unmounted.
+01:06:05.373 : [hashfs] dlc_western.scs: Unmounted.
+01:06:05.374 : [hashfs] dlc_wa.scs: Unmounted.
+01:06:05.374 : [hashfs] dlc_w900_tuning.scs: Unmounted.
+01:06:05.374 : [hashfs] dlc_volvo_vnl2018.scs: Unmounted.
+01:06:05.374 : [hashfs] dlc_volvo_vnl.scs: Unmounted.
+01:06:05.375 : [hashfs] dlc_volvo_construction.scs: Unmounted.
+01:06:05.375 : [hashfs] dlc_valentine.scs: Unmounted.
+01:06:05.375 : [hashfs] dlc_ut.scs: Unmounted.
+01:06:05.376 : [hashfs] dlc_tx.scs: Unmounted.
+01:06:05.376 : [hashfs] dlc_toys.scs: Unmounted.
+01:06:05.376 : [hashfs] dlc_stripes.scs: Unmounted.
+01:06:05.377 : [hashfs] dlc_steampunk.scs: Unmounted.
+01:06:05.377 : [hashfs] dlc_sports.scs: Unmounted.
+01:06:05.377 : [hashfs] dlc_space.scs: Unmounted.
+01:06:05.378 : [hashfs] dlc_sci_st_wheels.scs: Unmounted.
+01:06:05.378 : [hashfs] dlc_rims.scs: Unmounted.
+01:06:05.378 : [hashfs] dlc_pink_ribbon.scs: Unmounted.
+01:06:05.379 : [hashfs] dlc_peterbilt_579.scs: Unmounted.
+01:06:05.379 : [hashfs] dlc_peterbilt_389.scs: Unmounted.
+01:06:05.379 : [hashfs] dlc_oversize.scs: Unmounted.
+01:06:05.379 : [hashfs] dlc_or.scs: Unmounted.
+01:06:05.379 : [hashfs] dlc_ok.scs: Unmounted.
+01:06:05.380 : [hashfs] dlc_nm.scs: Unmounted.
+01:06:05.380 : [hashfs] dlc_nevada.scs: Unmounted.
+01:06:05.380 : [hashfs] dlc_neon.scs: Unmounted.
+01:06:05.381 : [hashfs] dlc_mt.scs: Unmounted.
+01:06:05.381 : [hashfs] dlc_michelin.scs: Unmounted.
+01:06:05.381 : [hashfs] dlc_mack_anthem.scs: Unmounted.
+01:06:05.381 : [hashfs] dlc_lodeking.scs: Unmounted.
+01:06:05.381 : [hashfs] dlc_ks.scs: Unmounted.
+01:06:05.382 : [hashfs] dlc_kenworth_w900.scs: Unmounted.
+01:06:05.382 : [hashfs] dlc_kenworth_t680_2022.scs: Unmounted.
+01:06:05.382 : [hashfs] dlc_kenworth_t680.scs: Unmounted.
+01:06:05.383 : [hashfs] dlc_jcb.scs: Unmounted.
+01:06:05.383 : [hashfs] dlc_international_lt.scs: Unmounted.
+01:06:05.383 : [hashfs] dlc_international_lonestar.scs: Unmounted.
+01:06:05.383 : [hashfs] dlc_international_9900i.scs: Unmounted.
+01:06:05.384 : [hashfs] dlc_id.scs: Unmounted.
+01:06:05.384 : [hashfs] dlc_heavy_cargo.scs: Unmounted.
+01:06:05.384 : [hashfs] dlc_halloween.scs: Unmounted.
+01:06:05.385 : [hashfs] dlc_goodyear.scs: Unmounted.
+01:06:05.385 : [hashfs] dlc_freightliner_cascadia2019.scs: Unmounted.
+01:06:05.385 : [hashfs] dlc_forest_harvesting.scs: Unmounted.
+01:06:05.385 : [hashfs] dlc_farm_machinery.scs: Unmounted.
+01:06:05.386 : [hashfs] dlc_dragon.scs: Unmounted.
+01:06:05.386 : [hashfs] dlc_co.scs: Unmounted.
+01:06:05.386 : [hashfs] dlc_christmas.scs: Unmounted.
+01:06:05.386 : [hashfs] dlc_arizona.scs: Unmounted.
+01:06:05.399 : [TRUCKY] Unloaded
+01:06:05.400 : unloaded 'TruckyTelemetry'
+01:06:05.507 : unloaded 'telemetry'
+01:06:05.583 : [dx11] Backbuffer released
+01:06:06.024 : [nvapi] NVAPI unloaded
+01:06:06.141 : [hashfs] base_cfg.scs: Unmounted.
+01:06:06.141 : [hashfs] locale.scs: Unmounted.
+01:06:06.141 : [hashfs] core.scs: Unmounted.
+01:06:06.141 : [hashfs] def.scs: Unmounted.
+01:06:06.141 : [hashfs] base_share.scs: Unmounted.
+01:06:06.142 : [hashfs] base_vehicle.scs: Unmounted.
+01:06:06.142 : [hashfs] base_map.scs: Unmounted.
+01:06:06.142 : [hashfs] base.scs: Unmounted.
+01:06:06.143 : [hashfs] effect.scs: Unmounted.
+01:06:06.710 : [sys] Process manager shutdown.

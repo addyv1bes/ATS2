@@ -1,0 +1,136 @@
+SiiNunit
+{
+direct_gearbox_config : _nameless.211.6b7e.5cd0 {
+ name: "Eaton Fuller 10 @@speeds@@"
+ clutch_mode: analog
+ selector_mode: range_split
+ gears: 14
+ gears[0]: _nameless.211.6eee.8660
+ gears[1]: _nameless.211.6eee.8420
+ gears[2]: _nameless.211.6eee.8520
+ gears[3]: _nameless.211.6eee.8760
+ gears[4]: _nameless.211.6eee.8160
+ gears[5]: _nameless.211.6eee.85e0
+ gears[6]: _nameless.211.6eee.8720
+ gears[7]: _nameless.211.6eee.87e0
+ gears[8]: _nameless.211.6eee.8620
+ gears[9]: _nameless.211.6eee.8820
+ gears[10]: _nameless.211.6eee.80e0
+ gears[11]: _nameless.211.7034.f6a0
+ gears[12]: _nameless.211.7034.f720
+ gears[13]: _nameless.211.7034.f8a0
+}
+
+direct_gearbox_gear : _nameless.211.6eee.8660 {
+ gear_impulse_index: 0
+ selector_1: -1
+ selector_2: -1
+ gear: 0
+ name: N
+}
+
+direct_gearbox_gear : _nameless.211.6eee.8420 {
+ gear_impulse_index: 2
+ selector_1: 0
+ selector_2: -1
+ gear: -1
+ name: RL
+}
+
+direct_gearbox_gear : _nameless.211.6eee.8520 {
+ gear_impulse_index: 2
+ selector_1: 1
+ selector_2: -1
+ gear: -2
+ name: RH
+}
+
+direct_gearbox_gear : _nameless.211.6eee.8760 {
+ gear_impulse_index: 3
+ selector_1: 0
+ selector_2: -1
+ gear: 1
+ name: 1
+}
+
+direct_gearbox_gear : _nameless.211.6eee.8160 {
+ gear_impulse_index: 4
+ selector_1: 0
+ selector_2: -1
+ gear: 2
+ name: 2
+}
+
+direct_gearbox_gear : _nameless.211.6eee.85e0 {
+ gear_impulse_index: 5
+ selector_1: 0
+ selector_2: -1
+ gear: 3
+ name: 3
+}
+
+direct_gearbox_gear : _nameless.211.6eee.8720 {
+ gear_impulse_index: 6
+ selector_1: 0
+ selector_2: -1
+ gear: 4
+ name: 4
+}
+
+direct_gearbox_gear : _nameless.211.6eee.87e0 {
+ gear_impulse_index: 7
+ selector_1: 0
+ selector_2: -1
+ gear: 5
+ name: 5
+}
+
+direct_gearbox_gear : _nameless.211.6eee.8620 {
+ gear_impulse_index: 3
+ selector_1: 1
+ selector_2: -1
+ gear: 6
+ name: 6
+}
+
+direct_gearbox_gear : _nameless.211.6eee.8820 {
+ gear_impulse_index: 4
+ selector_1: 1
+ selector_2: -1
+ gear: 7
+ name: 7
+}
+
+direct_gearbox_gear : _nameless.211.6eee.80e0 {
+ gear_impulse_index: 5
+ selector_1: 1
+ selector_2: -1
+ gear: 8
+ name: 8
+}
+
+direct_gearbox_gear : _nameless.211.7034.f6a0 {
+ gear_impulse_index: 6
+ selector_1: 1
+ selector_2: -1
+ gear: 9
+ name: 9
+}
+
+direct_gearbox_gear : _nameless.211.7034.f720 {
+ gear_impulse_index: 7
+ selector_1: 1
+ selector_2: -1
+ gear: 10
+ name: 10
+}
+
+direct_gearbox_gear : _nameless.211.7034.f8a0 {
+ gear_impulse_index: 1
+ selector_1: -1
+ selector_2: -1
+ gear: 0
+ name: ""
+}
+
+}

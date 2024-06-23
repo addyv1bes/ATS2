@@ -1,0 +1,113 @@
+SiiNunit
+{
+patch_notes_info : _nameless.234.0994.74f0 {
+ lang_id: en_gb
+ content_id: "Thu, 16 May 2024 17:18:02 GMT"
+ messages: 13
+ messages[0]: _nameless.230.94a9.b660
+ messages[1]: _nameless.230.94a9.c0e0
+ messages[2]: _nameless.230.94a9.a9e0
+ messages[3]: _nameless.230.94a9.bee0
+ messages[4]: _nameless.230.94a9.a7e0
+ messages[5]: _nameless.230.94a9.b8e0
+ messages[6]: _nameless.230.94a9.ba60
+ messages[7]: _nameless.230.94a9.a660
+ messages[8]: _nameless.230.94a9.b7e0
+ messages[9]: _nameless.230.94a9.c160
+ messages[10]: _nameless.230.94a9.a760
+ messages[11]: _nameless.230.94a9.b860
+ messages[12]: _nameless.230.94a9.b5e0
+}
+
+patch_notes_data : _nameless.230.94a9.b660 {
+ game_version: "1.43"
+ title: "1.43"
+ url: "https://blog.scssoft.com/2021/12/american-truck-simulator-143-update.html?utm_source=ingame_ats&utm_medium=update_log"
+ text_pml: "<color value=@@clr_sel@@>Map<br><br><color value=@@clr_txt@@>- General Bugfixes<color value=@@clr_sel@@><br><br>Vehicles<br><br><color value=@@clr_txt@@>- Ownable Dump Trailers<br>- 2022 Freightliner Cascadia<color value=@@clr_sel@@><br><br>UI<br><br><color value=@@clr_txt@@>- New Loading Screen Images<br>- World Map Legend Filters<color value=@@clr_sel@@><br><br>Other<br><br><color value=@@clr_txt@@>- Improved Controller Support<br>- Implemented Sound Attenuation<br>- MSDF Font Implementation"
+}
+
+patch_notes_data : _nameless.230.94a9.c0e0 {
+ game_version: "1.44"
+ title: "1.44"
+ url: "https://blog.scssoft.com/2022/05/american-truck-simulator-144-update.html?utm_source=ingame_ats&utm_medium=update_log"
+ text_pml: "<color value=@@clr_sel@@>Map<br><br><color value=@@clr_txt@@>- 2nd Phase of California Rework<br>- Border connections for several cities in New - Mexico refreshed<br>- Some New Mexico cities received road network reworks<br>- Unmarked Road Exploration<br>- General Map Bug Fixes<color value=@@clr_sel@@><br><br>Gameplay<br><br><color value=@@clr_txt@@>- Mod Refund Feature<br>- Licensed vs Aftermarket UI in browsers<br>- Force Feedback Upgrade<br>- Adjustable Suspension Height<br>- Interior Camera Horizontal Lock<br>- Smart Sequential Shifting<br>- New Special Transport Routes<br>- Vehicles<br>- New Freightliner Cascadia 2022 Interior Options<br>Ownable Drop Deck Trailers"
+}
+
+patch_notes_data : _nameless.230.94a9.a9e0 {
+ game_version: "1.45"
+ title: "1.45"
+ url: "https://blog.scssoft.com/2022/07/american-truck-simulator-145-update.html?utm_source=ingame_ats&utm_medium=update_log"
+ text_pml: "<color value=@@clr_sel@@>Map<br><br><color value=@@clr_txt@@>- Cody + US-14 Addition to Wyoming DLC<br>- Gas & Truck Stops Rebranding<color value=@@clr_sel@@><br><br>Gameplay<br><br><color value=@@clr_txt@@>- Optional MOD Support for Convoys<br>- Rain Sensor Option<br>- Option to hide inaccessible road markers<color value=@@clr_sel@@><br><br>Vehicles<br><br><color value=@@clr_txt@@>- Ownable Cistern Trailers (Dry Bulk and Fuel Tank)"
+}
+
+patch_notes_data : _nameless.230.94a9.bee0 {
+ game_version: "1.46"
+ title: Montana
+ url: "https://blog.scssoft.com/2022/08/montana-release.html?utm_source=ingame_ats&utm_medium=update_log"
+ text_pml: "Montana is home to extraordinary experiences and moments that will leave you in awe. This northern US state is untamed, wild and natural. Montana is a gateway to Glacier and Yellowstone\xe2\x80\x94two crown jewels of the national park system\xe2\x80\x94and is home to glistening glacial lakes, snow-capped mountain peaks, blue-ribbon trout streams, and mighty Missouri, Yellowstone, and Flathead Rivers. This is just the beginning; the stunning mountain scenery of Montana only accentuates the rustic charm of the small towns beneath it. And backcountry trails lead to wild, secluded spaces where it is still possible to be utterly alone.<br><br>So what exactly does our Montana DLC have to offer for truckers? These are just a few of the things we think you will love:<br><br>-<margin left=8>Deliver to and from 15 cities and discover 17 settlements</margin><br>-<margin left=8>Discover and deliver to Montana's important industries like Sugar Plants, Talc Factory, Silane Gas, Electric Network Service, and more!</margin><br>-<margin left=8>Drive on the Going-to-the-sun road.</margin><br>-<margin left=8>See landmarks unique to Montana</margin><br>-<margin left=8>Visit Glacier National Park and part of the Yellowstone National Park and get bird's-eye views with many new viewpoints.</margin><br>-<margin left=8>Admire accurate representations of cities like Helena, Bozeman, Missoula, Kalispell, and more!</margin><br>-<margin left=8>Visit and take a rest at famous Montana rest stops & gas stations.</margin><br>-<margin left=8>Unlock Montana-specific Steam Achievements<br>Vast, unspoiled, and wild, \xe2\x80\x9cBig Sky State\xe2\x80\x9d represents the very best of the American West. Rugged cowboys still saddle up to ride at ranches and wow crowds at rodeos. Ghost towns, state parks, and a one-of-a-kind Dinosaur Trail preserve a dazzling array of historical treasures.</margin>"
+}
+
+patch_notes_data : _nameless.230.94a9.a7e0 {
+ game_version: "1.46"
+ title: "1.46"
+ url: "https://blog.scssoft.com/2022/11/american-truck-simulator-146-update.html?utm_source=ingame_ats&utm_medium=update_log"
+ text_pml: "<color value=@@clr_sel@@>Map<br><br><color value=@@clr_txt@@>- US-20 road between Idaho and Montana<br>- Idaho Viewpoints Redesign<color value=@@clr_sel@@><br><br>Vehicles<br><br><color value=@@clr_txt@@>- Ownable Cisterns - Chemical Trailers<br>-<margin left=8>Cascadia and Western Star 57X got custom infotainment implementation</margin><br>-<margin left=8>Infotainment/GPS screens on all trucks have switched off state separated from map zoom</margin><br>-<margin left=8>Cellphones and navigational devices got a custom implementation</margin><color value=@@clr_sel@@><br><br>Gameplay<br><br><color value=@@clr_txt@@>- New Gallery Feature<br>- Company Browser<br>- Custom City Intros<br>- Driveshaft Torque"
+}
+
+patch_notes_data : _nameless.230.94a9.b8e0 {
+ game_version: "1.46"
+ title: Texas
+ url: "https://blog.scssoft.com/2022/11/texas-dlc-release.html?utm_source=ingame_ats&utm_medium=update_log"
+ text_pml: "Texas has a lot to offer, as our biggest map DLC for American Truck Simulator, it'll take you a while to see it all. In fact, we recommend you take your time to explore the lone star state which features:<br><br>-<margin left=8>Discover 29 explorable cities including Dallas, Fort Worth, Houston, Austin, San Antonio, El Paso & Galveston.</margin><br>-<margin left=8>Enjoy trucking through 50 scenic towns (settlements)</margin><br>-<margin left=8>Drive across 20,000 miles of the states road network</margin><br>-<margin left=8>Deliver to over 200 realistic industry depots including industries unique to Texas state (Offshore Shipyard, Cotton Ginning Plant, Glass Plant & Space Industries)</margin><br>-<margin left=8>Visit and see famous Landmarks including Starbay, El Capitan, Route 66, USS Lexington, Corpus Christi bridge, and the Salt Flats.</margin><br>-<margin left=8>Fuel up & rest in 60 unique truck stops and 30 dedicated rest areas</margin><br><br>Get your lasso ready and embark on your Texas-sized adventure. This probably ain\xe2\x80\x99t your first rodeo, right, partner?"
+}
+
+patch_notes_data : _nameless.230.94a9.ba60 {
+ game_version: "1.47"
+ title: "1.47"
+ url: "https://blog.scssoft.com/2023/04/american-truck-simulator-147-update.html?utm_source=ingame_ats&utm_medium=update_log"
+ text_pml: "<color value=@@clr_sel@@>Map<br><br><color value=@@clr_txt@@>- Addition of World Ambient Sounds<br>- Uneven Surface Simulation<color value=@@clr_sel@@><br><br>Vehicles<br><br><color value=@@clr_txt@@>- Ownable Gas Cisterns<br>-<margin left=8>Adaptive Cruise Control & Emergency Brake System</margin><color value=@@clr_sel@@><br><br>Kenworth W900<br><br><color value=@@clr_txt@@>-<margin left=8>DEF-Less fuel tank options returned for certain engine types (150, 220 & 300 gal)</margin><br>-<margin left=8>Reinstated Cruise Control speed display on dashboard</margin><color value=@@clr_sel@@><br><br>Gameplay<br><br><color value=@@clr_txt@@>- Custom City Intros for Utah and Idaho<br>- Addition of Sound Direction Filter<br>-<margin left=8>Performance Improvements (night, bad weather, dense traffic)</margin><color value=@@clr_sel@@><br><br>UI<br><br><color value=@@clr_txt@@>- Career History UI Redesign <br>- In Game Update Log<br>- Economy Reset Teleport"
+}
+
+patch_notes_data : _nameless.230.94a9.a660 {
+ game_version: "1.48"
+ title: "1.48"
+ url: "https://blog.scssoft.com/2023/07/american-truck-simulator-148-release.html?utm_source=ingame_ats&utm_medium=update_log"
+ text_pml: "<color value=@@clr_sel@@>Map<color value=@@clr_txt@@><br><br>- New Texas DLC Content<br><br><color value=@@clr_sel@@>Vehicles<color value=@@clr_txt@@><br><br>-<margin left=8>Electronic Stability Controls (Anti-Lock Braking System + Traction Control)</margin><br>- Reworked Vehicle Transport Trailers<br><br><color value=@@clr_sel@@>Gameplay<color value=@@clr_txt@@><br><br>- Custom City Intros (Washington DLC)<br>- Special Transport New Routes (Montana & Texas DLC)<br><br><color value=@@clr_sel@@>UI<color value=@@clr_txt@@><br><br>- Per-State Map Exploration<br>- Cities in the Gallery<br>- Options Sliders now feature numbers<br>- Input Wizard Control Selection UI Overhaul<br><br><color value=@@clr_sel@@>Other<color value=@@clr_txt@@><br><br>- Third-Party Mod Structure Change"
+}
+
+patch_notes_data : _nameless.230.94a9.b7e0 {
+ game_version: "1.48"
+ title: Oklahoma
+ url: "https://blog.scssoft.com/2023/08/oklahoma-release.html?utm_source=ingame_ats&utm_medium=update_log"
+ text_pml: "From the grand American highways running through the hills of dusk-red rock to leading cities bustling with culture, landmarks, and businesses, Oklahoma is a diverse state shaped by its history and industries.<br><br>Located in the south of the country, 'The Sooner State' generally tends to have a reputation of being a rather arid place, however, it\xe2\x80\x99s much better to avoid judging this book by its cover. The state is home to wonderful state parks, natural marvels, and historical places full of mysteries and legends. But those looking for something more practical instead will find their purpose as well since the local road network and a strong economy driven by natural gas and oil production will keep every trucker properly busy.<br><br>We suggest you take your time to savor every moment as you encounter the following features:<br><br>-<margin left=8>Discover 10 explorable cities including Tulsa and Oklahoma City</margin><br>-<margin left=8>Enjoy trucking through several scenic towns (settlements)</margin><br>-<margin left=8>Discover and deliver to Oklahoma's important industries like Bus Factory, Tire Factory, River Port, and more</margin><br>-<margin left=8>See several landmarks unique to Oklahoma including Skydance Bridge, University of Tulsa, and Route 66 Museum.</margin><br>-<margin left=8>Admire and explore Gloss Mountain and Beavers Bend State Parks</margin><br>-<margin left=8>Fuel up & rest in 30 unique truck stops</margin><br>-<margin left=8>Unlock Oklahoma-specific Steam achievements</margin><br><br>There's always more to the Sooner State than it might seem at first glance and the next awesome adventure might just be around the corner. We\xe2\x80\x99ll see you on the road!"
+}
+
+patch_notes_data : _nameless.230.94a9.c160 {
+ game_version: "1.49"
+ title: "1.49"
+ url: "https://blog.scssoft.com/2023/11/american-truck-simulator-149-update.html?utm_source=ingame_ats&utm_medium=update_log"
+ text_pml: "<color value=@@clr_sel@@>Map<color value=@@clr_txt@@><br><br>- PACCAR Technical Centre added to Washington State<br>- Mountains reworked around Salt Lake City (Utah DLC)<br><br><color value=@@clr_sel@@>Visual<color value=@@clr_txt@@><br><br>-<margin left=8>HDR Skyboxes, Moon and New Weather Effects</margin><br><br><color value=@@clr_sel@@>Vehicle<color value=@@clr_txt@@><br><br>- New Special Transport DLC Cargoes & Kansas Routes<br>- Automatic Headlights and High Beam<br><br><color value=@@clr_sel@@>Other<color value=@@clr_txt@@><br><br>- Used Truck Dealers<br>- Keybind Modifiers"
+}
+
+patch_notes_data : _nameless.230.94a9.a760 {
+ game_version: "1.49"
+ title: Kansas
+ url: "https://blog.scssoft.com/2023/11/kansas-dlc-release.html?utm_source=ingame_ats&utm_medium=update_log"
+ text_pml: "Introducing Kansas! A U.S State that is home to a truly authentic cowboy culture and miles of land littered with wildflowers. Located in the Midwest of the USA, Kansas is known for its native grasslands, streams, abundant blue skies, and green grassland vistas.<br><br>Once considered to be the country\xe2\x80\x99s agricultural heartland, 'The Sunflower State' has managed to attract many large businesses and develop in other industrial areas due to its central location and convenient infrastructure for logistics operations. But, as the nickname suggests, nature is certainly doing very well to keep up with technological progress, as the state parks and vast prairies offer unique views with a marvelous atmosphere that will leave every trucker passing by with something to remember.<br><br>Start a big adventure with the Kansas map expansion. Take your time and enjoy every moment as you discover these features:<br><br>-<margin left=8>Deliver to 14 explorable cities including Kansas City, Wichita, or Topeka</margin><br>-<margin left=8>See several landmarks unique to Kansas such as the historic Dodge City, Monument Rocks, and Mount Sunflower</margin><br>-<margin left=8>Become a trucker transporting goods for Kansas' key industries - Salt Mine, Food Factory, Car Factory, Building Material Factory, and Battery Factory</margin><br>-<margin left=8>Deliver cargo to Aerosystem, playing a key role in Wichita's aerospace industry</margin><br>-<margin left=8>Visit Hutchinson and admire the world's largest silos</margin><br>-<margin left=8>Play a crucial role in one of America's largest agricultural states. Transport goods that sustain Kansas' farming legacy</margin><br>-<margin left=8>Enjoy trucking through several scenic towns (settlements)</margin><br>-<margin left=8>Drive through expansive prairies, providing unforgettable views</margin>"
+}
+
+patch_notes_data : _nameless.230.94a9.b860 {
+ game_version: "1.50"
+ title: "1.50"
+ url: "https://blog.scssoft.com/2024/05/american-truck-simulator-150-update.html?utm_source=ingame_ats&utm_medium=update_log"
+ text_pml: "<color value=@@clr_sel@@>Map<br><br><color value=@@clr_txt@@>- California Rework - Phase 3<br><color value=@@clr_sel@@><br><br>Vehicles<br><br><color value=@@clr_txt@@>- <margin left=8>International LT S13</margin><br>- International LoneStar (interior) and LT (exterior & interior) rework<br>- Lane assistant feature added<br>- New exhausts added for Western Star 49X<br><color value=@@clr_sel@@><br><br>UI<br><br><color value=@@clr_txt@@>- <margin left=8>Substantial UI design update (Home screen redesign, persistent Status Bar, Quick Menu, new fonts, icons and more)</margin><br>- Settings options show information about what they do<br><color value=@@clr_sel@@><br><br>Visual<br><br><color value=@@clr_txt@@>- Improvements in the rendering system<br><color value=@@clr_txt@@>- Temporal Anti-Aliasing feature added<br><color value=@@clr_txt@@>- Cascaded shadow updates<br><color value=@@clr_txt@@>- Soft particles<br><color value=@@clr_txt@@>- Lit/shadowed smoke<br><color value=@@clr_txt@@>- Far shadows<br><color value=@@clr_txt@@>- Optimized light computation<br><color value=@@clr_txt@@>- Frame rate limiter added<color value=@@clr_sel@@><br><br>Sound<br><br><color value=@@clr_txt@@>- Brake squeaking sounds added"
+}
+
+patch_notes_data : _nameless.230.94a9.b5e0 {
+ game_version: "1.50"
+ title: Nebraska
+ url: "https://blog.scssoft.com/2024/05/nebraska-dlc-release-sports-paint-jobs.html?utm_source=ingame_ats&utm_medium=update_log"
+ text_pml: "Located in the heart of the Great Plains, Nebraska\xe2\x80\x99s vast and diverse landscape consists of prairies, rolling hills, and the crucial Platte River. While hauling cargo through the Cornhusker State along historic routes, you will have many opportunities to witness iconic landmarks and truly immerse yourself in the state's spirit, from its pioneer history to the modern energy of cities full of ever-growing industries.<br><br> Take your time and enjoy every moment as you discover these features:<br><br>-<margin left=8>Deliver to 12 explorable cities including Lincoln, Omaha, North Platte, or Grand Island</margin><br>-<margin left=8>See several landmarks unique to Nebraska such as Carhenge, Scott Bluff National Monument, Archway Monument, McConaughy Lake, and many other memorials and iconic murals</margin><br>-<margin left=8>Become a trucker transporting goods to Nebraska's key industries \xe2\x80\x93 RV dealers, Utility Vehicle Factory, Soybean factories and various custom made farms</margin><br>-<margin left=8>Deliver cargo to the Sugar Beet Factory located in Scottsbluff, with its iconic tall storage silos</margin><br>-<margin left=8>Experience the brand new dynamic loading & unloading feature while delivering to selected agricultural depots</margin><br>-<margin left=8>Play a crucial role in one of America's major agricultural states. Transport corn, soybeans, sugar beat, grain and other produce that sustain Nebraska's farming legacy</margin><br>-<margin left=8>Pick up cargo at the world\xe2\x80\x99s largest train yard, the Baily Yard in North Platte and become a direct link to the state\xe2\x80\x99s expansive railroad network</margin><br>-<margin left=8>Enjoy trucking through 20 scenic towns (settlements)</margin><br>-<margin left=8>Drive through expansive prairies, providing unforgettable views</margin><br>-<margin left=8>Discover hidden treasures of Nebraska\xe2\x80\x99s countryside, viewpoints, easter eggs, and follow the historic Oregon Trail</margin>"
+}
+
+}

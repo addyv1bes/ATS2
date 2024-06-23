@@ -1,0 +1,613 @@
+SiiNunit
+{
+news_messages : _nameless.233.1b0b.2c20 {
+ update_timestamp: 1719073297
+ for_version: "1.50.1.14s"
+ content_id: ""
+ lang_id: en_us
+ latest_version: "1.50.1.14s"
+ latest_version_url: "https://eurotrucksimulator2.com/update.php"
+ messages: 60
+ messages[0]: _nameless.233.2ca5.c7e0
+ messages[1]: _nameless.233.2ca5.e370
+ messages[2]: _nameless.233.2ca5.d5f0
+ messages[3]: _nameless.233.2ca5.ddd0
+ messages[4]: _nameless.233.2ca5.db90
+ messages[5]: _nameless.233.2ca5.cf30
+ messages[6]: _nameless.233.2ca5.e1c0
+ messages[7]: _nameless.233.2ca5.d680
+ messages[8]: _nameless.233.2ca5.cab0
+ messages[9]: _nameless.233.2ca5.c480
+ messages[10]: _nameless.233.2ca5.d8c0
+ messages[11]: _nameless.233.2ca5.c120
+ messages[12]: _nameless.233.2ca5.d7a0
+ messages[13]: _nameless.233.2ca5.c1b0
+ messages[14]: _nameless.233.2ca5.d170
+ messages[15]: _nameless.233.2ca5.cbd0
+ messages[16]: _nameless.233.2ca5.c900
+ messages[17]: _nameless.233.2ca5.ccf0
+ messages[18]: _nameless.233.2ca5.d9e0
+ messages[19]: _nameless.233.2ca5.de60
+ messages[20]: _nameless.233.2ca5.e7f0
+ messages[21]: _nameless.233.2ca5.f3c0
+ messages[22]: _nameless.233.2ca5.ed90
+ messages[23]: _nameless.233.2ca5.e9a0
+ messages[24]: _nameless.233.2ca5.ef40
+ messages[25]: _nameless.233.2ca5.f210
+ messages[26]: _nameless.233.2ca5.f2a0
+ messages[27]: _nameless.233.2ca5.f330
+ messages[28]: _nameless.233.2ca5.f4e0
+ messages[29]: _nameless.233.2ca5.f690
+ messages[30]: _nameless.233.2ca5.e490
+ messages[31]: _nameless.233.2ca5.8cd0
+ messages[32]: _nameless.233.2ca5.9420
+ messages[33]: _nameless.233.2ca5.8190
+ messages[34]: _nameless.233.2ca5.7890
+ messages[35]: _nameless.233.2ca5.8580
+ messages[36]: _nameless.233.2ca5.8b20
+ messages[37]: _nameless.233.2ca5.84f0
+ messages[38]: _nameless.233.2ca5.8220
+ messages[39]: _nameless.233.2ca5.83d0
+ messages[40]: _nameless.233.2ca5.94b0
+ messages[41]: _nameless.233.2ca5.8460
+ messages[42]: _nameless.233.2ca5.86a0
+ messages[43]: _nameless.233.2ca5.96f0
+ messages[44]: _nameless.233.2ca5.8340
+ messages[45]: _nameless.233.2ca5.9540
+ messages[46]: _nameless.233.2ca5.9780
+ messages[47]: _nameless.233.2ca5.8bb0
+ messages[48]: _nameless.233.2ca5.7fe0
+ messages[49]: _nameless.233.2ca5.9b70
+ messages[50]: _nameless.233.2ca5.8c40
+ messages[51]: _nameless.233.2ca5.9660
+ messages[52]: _nameless.233.2ca5.9930
+ messages[53]: _nameless.233.2ca5.87c0
+ messages[54]: _nameless.233.2ca5.79b0
+ messages[55]: _nameless.233.2ca5.8d60
+ messages[56]: _nameless.233.2ca5.7da0
+ messages[57]: _nameless.233.2ca5.88e0
+ messages[58]: _nameless.233.2ca5.8df0
+ messages[59]: _nameless.233.2ca5.8e80
+}
+
+news_message : _nameless.233.2ca5.c7e0 {
+ timestamp: 1718949600
+ type: news
+ title: "Arkansas - Water Bodies"
+ image_hash: 964FFA628382C8AF50286DD7882A1B440B8ADFD54CFB1DAF74A7070297EAF1E9
+ url: "https://blog.scssoft.com/2024/06/arkansas-water-bodies.html?utm_source=ingame_ats&utm_medium=news"
+ text: "Who doesn't love stumbling upon a serene lake or a rushing river while hauling cargo? Water bodies are nature's perfect pit stops, offering a refreshing break and stunning views!"
+}
+
+news_message : _nameless.233.2ca5.e370 {
+ timestamp: 1718704800
+ type: dlc
+ title: Iowa
+ image_hash: BAD53EF575EA0280C84BFB1D08E18A7C27F17BB55E2A1DD195BACD3F11660868
+ url: "https://store.steampowered.com/app/3025440/?utm_source=ingame_ats&utm_medium=dlc"
+ text: "Located in the upper Midwestern region of the United States, Iowa forms a bridge between the forests of the east and the grasslands of the prairie plains to the west."
+}
+
+news_message : _nameless.233.2ca5.d5f0 {
+ timestamp: 1718690400
+ type: news
+ title: "Introducing Iowa!"
+ image_hash: 09BA420409EDED21ACABB56CFF61DDB33680939DE6FC5FE2BDF401888EB85748
+ url: "https://blog.scssoft.com/2024/06/introducing-iowa.html?utm_source=ingame_ats&utm_medium=news"
+ text: "Without further ado, it's time we reveal our next U.S. State for American Truck Simulator! From bustling cities to the Mississippi River, today we are excited to announce that our team are hard at work creating..."
+}
+
+news_message : _nameless.233.2ca5.ddd0 {
+ timestamp: 1718258400
+ type: news
+ title: "Farm Machinery Booklet"
+ image_hash: EB37253AD3029B1DAD659ADBE8468F70FAAF91C2F0F6D33D5FE161FB68B39825
+ url: "https://blog.scssoft.com/2024/06/american-truck-simulator-farm-machinery.html?utm_source=ingame_ats&utm_medium=news"
+ text: "At the end of last year, we released the Farm Machinery DLC along with the Kansas map expansion. And now for the first time in our history, our colleagues have put together a booklet for you with an in-depth look at how the Farm Machinery DLC was made!"
+}
+
+news_message : _nameless.233.2ca5.db90 {
+ timestamp: 1718258400
+ type: news
+ title: "Under The Hood JCB Equipment Pack"
+ image_hash: 79B7E613DB3B837A79F863CE5E344FD5D8BA071EC8BB3F211266353BAC59C74F
+ url: "https://blog.scssoft.com/2024/06/under-hood-jcb-equipment-pack.html?utm_source=ingame_ats&utm_medium=news"
+ text: "With the recent release of the JCB Equipment Pack for Euro Truck Simulator 2 & American Truck Simulator we wanted to take the opportunity to talk with one of the driving forces behind the new and unique addition."
+}
+
+news_message : _nameless.233.2ca5.cf30 {
+ timestamp: 1717653600
+ type: news
+ title: "Guess Where We're Heading Next"
+ image_hash: C6F7C444AB029A9D0604F5B43EAF5E8E4BACD80018422263C9217068CAC15615
+ url: "https://blog.scssoft.com/2024/06/ats-guess-where-were-heading-next.html?utm_source=ingame_ats&utm_medium=news"
+ text: "We're not slowing down on our journey across the United States, and today we are excited to share with you a very very early work-in-progress image from a yet-to-be-announced map expansion for ATS. Can you guess where we're headed next?"
+}
+
+news_message : _nameless.233.2ca5.e1c0 {
+ timestamp: 1717480800
+ type: news
+ title: "Arkansas - Road Network"
+ image_hash: 5238A9F8D698D8DDA6CC0267FF47CC1A360621609160314FCE39F92783E4CD60
+ url: "https://blog.scssoft.com/2024/06/arkansas-road-network.html?utm_source=ingame_ats&utm_medium=news"
+ text: "Arkansas's extensive road network, a web of highways, interstates, and local roads, plays a crucial role for truckers. These routes traverse the state's diverse landscapes, connecting rural areas with larger towns and cities."
+}
+
+news_message : _nameless.233.2ca5.d680 {
+ timestamp: 1717308000
+ type: news
+ title: "Nebraska - Community Spotlight"
+ image_hash: B31DF9984B2A547466D845AE2B9705D47093FBDBA97B62D6A9EC4373EE24023F
+ url: "https://blog.scssoft.com/2024/06/nebraska-community-spotlight.html?utm_source=ingame_ats&utm_medium=news"
+ text: "After the recent release of the Nebraska DLC for American Truck Simulator, we've been inundated with feedback, photos, videos and more across our various social media channels."
+}
+
+news_message : _nameless.233.2ca5.cab0 {
+ timestamp: 1716876000
+ type: news
+ title: "Missouri - Truck Stops"
+ image_hash: F5094FE15DF774BA796709CA4540CE351C341ADF0389311BEE1856ADE39D3021
+ url: "https://blog.scssoft.com/2024/05/missouri-truck-stops.html?utm_source=ingame_ats&utm_medium=news"
+ text: "Missouri\xe2\x80\x99s truck stops are steeped in a rich history, much like the state itself. They have evolved alongside the trucking industry, providing essential services and modern conveniences."
+}
+
+news_message : _nameless.233.2ca5.c480 {
+ timestamp: 1716530400
+ type: news
+ title: "Arkansas - Scenic Towns"
+ image_hash: 602FEA14FF64732C0019C8754EC22CADA708B4CD98086F6E866624B19D848E22
+ url: "https://blog.scssoft.com/2024/05/arkansas-scenic-towns.html?utm_source=ingame_ats&utm_medium=news"
+ text: "Journey through the heart of the Natural State with the upcoming Arkansas DLC, where every bend in the road unveils a new story waiting to be discovered."
+}
+
+news_message : _nameless.233.2ca5.d8c0 {
+ timestamp: 1716451200
+ type: dlc
+ title: "JCB Equipment Pack"
+ image_hash: 20ED076C3FA6AD77FE18D56D46E5A658F932A0C06670DA08CCD8DEF79EAA384C
+ url: "https://store.steampowered.com/app/2926440/?utm_source=ingame_ats&utm_medium=dlc"
+ text: "Expand your virtual construction empire with this exciting new addition to your fleet. Experience the power and versatility of JCB machinery as you tackle challenging construction projects across the USA."
+}
+
+news_message : _nameless.233.2ca5.c120 {
+ timestamp: 1716444000
+ type: news
+ title: "JCB Equipment Pack Release"
+ image_hash: 20ED076C3FA6AD77FE18D56D46E5A658F932A0C06670DA08CCD8DEF79EAA384C
+ url: "https://blog.scssoft.com/2024/05/ats-ets2-jcb-equipment-pack-release.html?utm_source=ingame_ats&utm_medium=news"
+ text: "Today we are excited to announce the arrival of this premium brand which is now available on Steam! The JCB Equipment Pack includes 10 different branded construction machinery from JCB's machinery."
+}
+
+news_message : _nameless.233.2ca5.d7a0 {
+ timestamp: 1715857200
+ type: dlc
+ title: Nebraska
+ image_hash: F748909FA897A68110B6F3B1CAB68C56BFD92A4B86604C9689F334B31BAA6B3C
+ url: "https://store.steampowered.com/app/2543810/?utm_source=ingame_ats&utm_medium=dlc"
+ text: "Located in the heart of the Great Plains, Nebraska\xe2\x80\x99s vast and diverse landscape consists of prairies, rolling hills, and the crucial Platte River. While hauling cargo through the Cornhusker State along historic routes, you will have many opportunities to witness iconic landmarks."
+}
+
+news_message : _nameless.233.2ca5.c1b0 {
+ timestamp: 1715853600
+ type: dlc
+ title: "Sports Paint Jobs Pack"
+ image_hash: 88A01A5C6491EB048AA1776FBCC2D7EA23F995D6BE361ACF1B7567C4532613DE
+ url: "https://store.steampowered.com/app/2910160/?utm_source=ingame_ats&utm_medium=dlc"
+ text: "We are introducing the Sports Paint Job Pack for American Truck Simulator. Decorate your truck with these beautiful American sports-themed paint jobs. From the court to the rink, they will have your truck looking like a heavyweight champion in no time!"
+}
+
+news_message : _nameless.233.2ca5.d170 {
+ timestamp: 1715839200
+ type: news
+ title: "Nebraska DLC Release + Sports Paint Jobs Pack Release"
+ image_hash: F748909FA897A68110B6F3B1CAB68C56BFD92A4B86604C9689F334B31BAA6B3C
+ url: "https://blog.scssoft.com/2024/05/nebraska-dlc-release-sports-paint-jobs.html?utm_source=ingame_ats&utm_medium=news"
+ text: "Today is the day, engines at the ready! The Nebraska DLC for American Truck Simulator releases today and we can't wait for you to get haulin'. Are you ready to explore Cornhusker State and that it has to offer? Let's get get cruising!"
+}
+
+news_message : _nameless.233.2ca5.cbd0 {
+ timestamp: 1715752800
+ type: news
+ title: "Cruising Nebraska Event"
+ image_hash: 0A3AE076F69BE8CE65B6AF720C782B8742E0C45E4614391B72A433D6AF205A1E
+ url: "https://blog.scssoft.com/2024/05/cruising-nebraska-world-of-trucks-event.html?utm_source=ingame_ats&utm_medium=news"
+ text: "Join the #CruisingNebraska event. Explore the state's timeless beauty of diverse landscapes while contributing to its thriving economy of agriculture and manufacturing."
+}
+
+news_message : _nameless.233.2ca5.c900 {
+ timestamp: 1715666400
+ type: news
+ title: "American Truck Simulator - 1.50 Update Release"
+ image_hash: 2F22AAD22E2F6E3CD00572ABE98FCCF0B7134F5EB97DF237580C1D211C0CCB38
+ url: "https://blog.scssoft.com/2024/05/american-truck-simulator-150-update.html?utm_source=ingame_ats&utm_medium=news"
+ text: "Exciting news! The 1.50 update for American Truck Simulator has officially rolled out and is ready for download on Steam. Packed with bug fixes, adjustments, and fresh content, this update promises an enhanced experience for all players."
+}
+
+news_message : _nameless.233.2ca5.ccf0 {
+ timestamp: 1715234400
+ type: news
+ title: "Nebraska - Release Date Announcement"
+ image_hash: A4097B6AEE21F56E76E44D3F29F8646F8A3BF3B4A5F1DF3FE2AA1CF6F77FAC1F
+ url: "https://blog.scssoft.com/2024/05/nebraska-release-date-announcement.html?utm_source=ingame_ats&utm_medium=news"
+ text: "Are you ready to ride through the Cornhusker State? Mark your calendars and get ready to hit the road, because we're excited to announce that Nebraska DLC for American Truck Simulator will be released on May 16th, 2024!"
+}
+
+news_message : _nameless.233.2ca5.d9e0 {
+ timestamp: 1715061600
+ type: news
+ title: "Arkansas - Hot Springs"
+ image_hash: 98B02F05413B5D6CFE63EE87A4ABB73927D884C52255B09869AF7759FC80BD13
+ url: "https://blog.scssoft.com/2024/05/arkansas-hot-springs.html?utm_source=ingame_ats&utm_medium=news"
+ text: "Are you ready for another preview of the upcoming Arkansas DLC? Today, we want to show you some glimpses of the beautiful city of Hot Springs that truckers will be able to explore in this map expansion coming to American Truck Simulator!"
+}
+
+news_message : _nameless.233.2ca5.de60 {
+ timestamp: 1714456800
+ type: news
+ title: "Nebraska - Lincoln & Omaha"
+ image_hash: E7C755A9096CB02FC3D2E5D9B62A7B3200AFC940D30E1DB99CFC49FCE7BC95EA
+ url: "https://blog.scssoft.com/2024/05/nebraska-lincoln-omaha.html?utm_source=ingame_ats&utm_medium=news"
+ text: "Today, we are happy to share with you a look at two of the biggest cities (by population) that will be featured in our upcoming Nebraska DLC for American Truck Simulator. While both of them share some similarities, each are unique in their own way. Let's take a closer look, shall we?"
+}
+
+news_message : _nameless.233.2ca5.e7f0 {
+ timestamp: 1714456800
+ type: news
+ title: "Missouri - Columbia"
+ image_hash: F8CF5FEE0027E5688DCAA298AD7D45C966F4FAC62BEBF709515BC5AD6777F1D0
+ url: "https://blog.scssoft.com/2024/04/missouri-columbia.html?utm_source=ingame_ats&utm_medium=news"
+ text: "Step into Columbia, Missouri, where history meets natural beauty in a charming fusion. We're excited to offer you a sneak peek into the efforts of our team as we recreate this vibrant city in our upcoming Missouri DLC for American Truck Simulator."
+}
+
+news_message : _nameless.233.2ca5.f3c0 {
+ timestamp: 1713938400
+ type: news
+ title: "Nebraska - Agriculture"
+ image_hash: 975CC2829BB2840B1EF1163DAE1D971255385E5E88591FDE3CFF9C203C2F8103
+ url: "https://blog.scssoft.com/2024/04/nebraska-agriculture.html?utm_source=ingame_ats&utm_medium=news"
+ text: "Nicknamed the \xe2\x80\x9cCornhusker State\xe2\x80\x9d, Nebraska is renowned for agriculture. Today we're happy to share with you some of the Depots you'll be able to visit, as well as some of the crops and produce you'll be able to deliver in our upcoming DLC for American Truck Simulator."
+}
+
+news_message : _nameless.233.2ca5.ed90 {
+ timestamp: 1713506400
+ type: news
+ title: "International LT & International LoneStar Update"
+ image_hash: 0B914CBEA0F5D181EF98EC66F59814A5B58C79A52CA844D4FD3FCB9BD9DC2B18
+ url: "https://blog.scssoft.com/2024/04/international-lt-international-lonestar.html?utm_source=ingame_ats&utm_medium=news"
+ text: "Today, we bring you another preview of what is to come in the 1.50 update for American Truck Simulator. We are excited to reveal that we will bring new interior and exterior options for the International LT and a refreshed interior for the LoneStar!"
+}
+
+news_message : _nameless.233.2ca5.e9a0 {
+ timestamp: 1713247200
+ type: news
+ title: "Nebraska - Gameplay Preview"
+ image_hash: 2F37D90A384981FB513E7E981825F9332179F2E1F8A0E876C7784CA46F6F2C36
+ url: "https://blog.scssoft.com/2024/04/nebraska-gameplay-preview.html?utm_source=ingame_ats&utm_medium=news"
+ text: "Buckle up, it's time to hit the road! Today, we're excited to share with you the very first gameplay preview from our upcoming Nebraska DLC for American Truck Simulator."
+}
+
+news_message : _nameless.233.2ca5.ef40 {
+ timestamp: 1713074400
+ type: news
+ title: "Arkansas - Vegetation"
+ image_hash: EF825620A438F2D01E95A399FF80C880CF2B8290488464A424B395C859118E67
+ url: "https://blog.scssoft.com/2024/04/arkansas-vegetation.html?utm_source=ingame_ats&utm_medium=news"
+ text: "Known for its scenic beauty, clear lakes, and abundant wildlife, it's easy to see why Arkansas has earned the title of the 'Natural State'."
+}
+
+news_message : _nameless.233.2ca5.f210 {
+ timestamp: 1712901600
+ type: news
+ title: "Nebraska - Road Network"
+ image_hash: 13B6294EBDF7360D39B77A10AAA88882BBBD0A8EC2C568EDD405B19F2E516925
+ url: "https://blog.scssoft.com/2024/04/nebraska-road-network.html?utm_source=ingame_ats&utm_medium=news"
+ text: "The intricate network of roads and highways in Nebraska plays a pivotal role in connecting its communities, industries, and travellers alike. Today we are happy to share with you a preview into some of the Road Networks you'll find in our upcoming Nebraska DLC."
+}
+
+news_message : _nameless.233.2ca5.f2a0 {
+ timestamp: 1712642400
+ type: news
+ title: "1.50 Update Experimental Beta"
+ image_hash: BB93BD8611DB8C6362BB1DDCCE63F9A10B6CF01B377F3FC87A67AAB528DA1F81
+ url: "https://blog.scssoft.com/2024/04/american-truck-simulator-150-update.html?utm_source=ingame_ats&utm_medium=news"
+ text: "Today, we're rolling out something a little different: the Experimental Beta for American Truck Simulator's upcoming 1.50 update. Why call our upcoming beta experimental? We need to manage expectations right from the start."
+}
+
+news_message : _nameless.233.2ca5.f330 {
+ timestamp: 1712296800
+ type: news
+ title: "Nebraska - Industry"
+ image_hash: B29018C38AE6F4B9F24A5D76366085EA164AA370BAB978A031E2085688917F16
+ url: "https://blog.scssoft.com/2024/04/nebraska-industry.html?utm_source=ingame_ats&utm_medium=news"
+ text: "Hey there, truckers! We've got some updates to share about the upcoming Nebraska DLC for American Truck Simulator. Get ready to explore fresh industries as we venture into the Cornhusker State."
+}
+
+news_message : _nameless.233.2ca5.f4e0 {
+ timestamp: 1712210400
+ type: news
+ title: "Missouri - Jefferson City"
+ image_hash: AA43F417BA77D111651A73C5995DE76D903B6BC373363EF623100F287FF769D8
+ url: "https://blog.scssoft.com/2024/04/missouri-jefferson-city.html?utm_source=ingame_ats&utm_medium=news"
+ text: "Welcome to Jefferson City, Missouri, a charming destination renowned for its blend of historical significance and picturesque landscape. Today, we are happy to share with you a look into the work our team has undertaken in recreating this city."
+}
+
+news_message : _nameless.233.2ca5.f690 {
+ timestamp: 1711864800
+ type: news
+ title: "Nebraska - BIG in Nebraska"
+ image_hash: 7F63D8C852B1304550862222B7065EDB6EA0532B2C8C5B0053405E20C9E0D912
+ url: "https://blog.scssoft.com/2024/03/nebraska-big-in-nebraska.html?utm_source=ingame_ats&utm_medium=news"
+ text: "Special Transport operations are expanding! Drivers looking for speciality work in our upcoming Nebraska DLC for American Truck Simulator will be pleased to know that oversized loads will be on offer in the Job Market."
+}
+
+news_message : _nameless.233.2ca5.e490 {
+ timestamp: 1711346400
+ type: news
+ title: "Nebraska - Memorials"
+ image_hash: ECDEC7FDB151A6086CEC5FD11736C68857908CF824F54332F6130650714A2AB9
+ url: "https://blog.scssoft.com/2024/03/nebraska-memorials.html?utm_source=ingame_ats&utm_medium=news"
+ text: "As we prepare to embark on another journey through the heartlands of America with the upcoming Nebraska DLC for American Truck Simulator, we are reminded of the rich history and profound significance of the landscapes we traverse."
+}
+
+news_message : _nameless.233.2ca5.8cd0 {
+ timestamp: 1710741600
+ type: news
+ title: "Arkansas - Cities #2"
+ image_hash: 776371C42B1CD03DF42FFF97746344230113385C8352CD53DE05C874EEDCB355
+ url: "https://blog.scssoft.com/2024/03/arkansas-cities-2.html?utm_source=ingame_ats&utm_medium=news"
+ text: "We're happy to bring you another sneak peek into our upcoming Arkansas DLC for American Truck Simulator. In this blog, we want to showcase another batch of charming Arkansas cities that truckers will be able to explore, following our previous blog about cities in Arkansas."
+}
+
+news_message : _nameless.233.2ca5.9420 {
+ timestamp: 1710482400
+ type: news
+ title: "Nebraska: Art of Nebraska"
+ image_hash: 1019DDF6FB6B2FD8B85DF862AB75FF7D891982EFC915B5803990DCDC94EE74D7
+ url: "https://blog.scssoft.com/2024/03/nebraska-art-of-nebraska.html?utm_source=ingame_ats&utm_medium=news"
+ text: "On your travels throughout the U.S State of Nebraska, a variety of hidden gems await drivers in the form of captivating art murals and street art, transforming ordinary stretches of road into dynamic galleries."
+}
+
+news_message : _nameless.233.2ca5.8190 {
+ timestamp: 1709618400
+ type: news
+ title: "Missouri - St. Joseph"
+ image_hash: 74497079666B367CB2075082A17E0CBBF2E22236D8C754C39CF4C00FF392FC23
+ url: "https://blog.scssoft.com/2024/03/missouri-st-joseph.html?utm_source=ingame_ats&utm_medium=news"
+ text: "Welcome to St. Joseph, Missouri! Located just a stone's throw away from the state of Kansas, this charming city has a history dating back to the 19th century."
+}
+
+news_message : _nameless.233.2ca5.7890 {
+ timestamp: 1703844000
+ type: dlc
+ title: Missouri
+ image_hash: FB52501F43CE8BA204D1C70641390AEFEAB2F2F3007FCC66A6A231450062E1C2
+ url: "https://store.steampowered.com/app/2730870/?utm_source=ingame_ats&utm_medium=dlc"
+ text: "Get ready for an epic trucking journey to Missouri in American Truck Simulator! Explore vibrant cities, including the iconic Saint Louis with its stunning Gateway Arch. Missouri's landscapes are diverse and beautiful, from the rolling Ozark hills to charming small towns and vast farmlands."
+}
+
+news_message : _nameless.233.2ca5.8580 {
+ timestamp: 1701943200
+ type: dlc
+ title: "Michelin Fan Pack DLC"
+ image_hash: 5DB87FDE47B17AB2B6CD6B09F569D1583370B0A83105252DD080B22BC2D3DEE8
+ url: "https://store.steampowered.com/app/2675870/?utm_source=ingame_ats&utm_medium=dlc"
+ text: "We are proud to introduce a new set of truck tyres and truck accessories, officially licensed from Michelin to American Truck Simulator."
+}
+
+news_message : _nameless.233.2ca5.8b20 {
+ timestamp: 1701338400
+ type: dlc
+ title: Kansas
+ image_hash: 886248FF1453C02C60366B881AA477FCEC640502924DE707505D6506C6039907
+ url: "https://store.steampowered.com/app/2298430/?utm_source=ingame_ats&utm_medium=dlc"
+ text: "Introducing Kansas! A U.S State that is home to a truly authentic cowboy culture and miles of land littered with wildflowers. Located in the Midwest of the USA, Kansas is known for its native grasslands, streams, abundant blue skies, and green grassland vistas."
+}
+
+news_message : _nameless.233.2ca5.84f0 {
+ timestamp: 1701252000
+ type: dlc
+ title: "Farm Machinery DLC"
+ image_hash: 3A9409A20C58C36FC512DCC56027E3B61BD3277B1239781FCF1866FBF0683221
+ url: "https://store.steampowered.com/app/2638630/?utm_source=ingame_ats&utm_medium=dlc"
+ text: "Navigate virtual landscapes while hauling everything from tractors to spreaders. With two in-game brands, Owl & Greenler, transport unique cargos and a range of trailers to agriculture industries across the states. And don't hit the road without decking out your cabin with themed accessories!"
+}
+
+news_message : _nameless.233.2ca5.8220 {
+ timestamp: 1699437600
+ type: dlc
+ title: Arkansas
+ image_hash: C9F4506BFEA518C89D8449FC2C1C67268BDD4FF145C6597AC2ABAB70AAC49431
+ url: "https://store.steampowered.com/app/2585150/?utm_source=ingame_ats&utm_medium=dlc"
+ text: "Located in the south-central of the United States, the state is a nature wonderland with three national forests, many State Parks, nearly 9,000 miles of pristine streams and rivers like the Arkansas and Mississippi."
+}
+
+news_message : _nameless.233.2ca5.83d0 {
+ timestamp: 1691056800
+ type: dlc
+ title: "W900 Tuning Pack"
+ image_hash: 2174C283216ED42165D114C14B812D75A939BB20512FF2EE958CE307A4C62652
+ url: "https://store.steampowered.com/app/2386530/?utm_source=ingame_ats&utm_medium=dlc"
+ text: "The W900 Tuning Pack features over 500 individual tuning parts, of which most are aftermarket, for both the interior and exterior of the truck cab, giving you a massive range of options to personalize your Kenworth W900 just the way you like it."
+}
+
+news_message : _nameless.233.2ca5.94b0 {
+ timestamp: 1690884000
+ type: dlc
+ title: Oklahoma
+ image_hash: 7E9CCA4D8CD80ECE1B14542E320FDDD2CB26119D9C35F6660F7808B05DEFD6A2
+ url: "https://store.steampowered.com/app/2209650/?utm_source=ingame_ats&utm_medium=dlc"
+ text: "From the grand American highways running through the hills of dusk-red rock to leading cities bustling with culture, landmarks, and businesses. Oklahoma is a diverse state shaped by its history and industries."
+}
+
+news_message : _nameless.233.2ca5.8460 {
+ timestamp: 1681801200
+ type: dlc
+ title: "Steampunk Paint Jobs Pack"
+ image_hash: 3399501702C3E3CD3D7FD78ADB00317CD3FBC71449FBFBC5C2320ABA655AFE3A
+ url: "https://store.steampowered.com/app/432710/?utm_source=ingame_ats&utm_medium=dlc"
+ text: "This pack is the perfect way to add some personality and style to your rig, with a single unique paint job for every truck, three common paints for all trucks, and two corresponding variants for ownable trailers."
+}
+
+news_message : _nameless.233.2ca5.86a0 {
+ timestamp: 1668506400
+ type: dlc
+ title: Texas
+ image_hash: 9C00CF5B6F7D83689D2985B235EC849C872E15F2AAD995AFE477C7A142B0B601
+ url: "https://store.steampowered.com/app/1465750/?utm_source=ingame_ats&utm_medium=dlc"
+ text: "Howdy, partners! Hope y'all will like your visit in the Lone Star State. This place ain't full of cowboys anymore but the spirit lives on, especially in ranches you can find all 'round. We also got a lot of cattle and other livestock so your truckin' adventures will be lively."
+}
+
+news_message : _nameless.233.2ca5.96f0 {
+ timestamp: 1668441600
+ type: dlc
+ title: "Wild West Paint Jobs Pack"
+ image_hash: 7FD7F2AECDC449BCA249D99F33F4EE515DD329F450A236BF76BBF45D0E87FAD4
+ url: "https://store.steampowered.com/app/2187930/?utm_source=ingame_ats&utm_medium=dlc"
+ text: "These new additions are inspired by the legends, mythical figures, and the unique atmosphere of the genre, which means it will be a perfect fit while driving across the latest map expansion and vast prairies of the US."
+}
+
+news_message : _nameless.233.2ca5.8340 {
+ timestamp: 1659632400
+ type: dlc
+ title: Montana
+ image_hash: 8950DE45C86515F9F56AD8E46CDC34A922DE5F8F35B21E1CAA74C25CC73C130D
+ url: "https://store.steampowered.com/app/1811080/?utm_source=ingame_ats&utm_medium=dlc"
+ text: "Montana is untamed, wild, and natural. No matter where you look, you will find unspoiled nature, charming small towns, spectacular views and National Parks."
+}
+
+news_message : _nameless.233.2ca5.9540 {
+ timestamp: 1654012800
+ type: dlc
+ title: "Lode King & Prestige Trailers Pack"
+ image_hash: D222B9DC8B65D7C7A1B5C50935498A97ED330603C0A0E02A6188B84EBA7B0354
+ url: "https://store.steampowered.com/app/1967690/?utm_source=ingame_ats&utm_medium=dlc"
+ text: "Lode King Industries is an extremely popular and reliable Canada-based trailer manufacturer. Since its founding in 1980, the company became one of the most important manufacturers of commercial highway transport trailers."
+}
+
+news_message : _nameless.233.2ca5.9780 {
+ timestamp: 1630688400
+ type: dlc
+ title: "Retrowave Paint Jobs"
+ image_hash: E9BE0902EA94E85595B8B184463911582A56F8F8312C3F26AA72B963A85FF6F4
+ url: "https://store.steampowered.com/app/1784890/?utm_source=ingame_ats&utm_medium=dlc"
+ text: "Celebrate the '80s aesthetic with bold, vibrant, and colorful paint themes. Whether you're a fan of synthwave music/games/movies, cyberpunk, everything retro or if you just like pretty colors, you will certainly find your favorite in this pack."
+}
+
+news_message : _nameless.233.2ca5.8bb0 {
+ timestamp: 1630688400
+ type: dlc
+ title: "Volvo Construction Equipment"
+ image_hash: B571043643AC62F744EA750326CF708913E07F2BF2BE9217253DE73390FBB91D
+ url: "https://store.steampowered.com/app/1662380/?utm_source=ingame_ats&utm_medium=dlc"
+ text: "Volvo Construction Equipment is among the world\xe2\x80\x99s leading manufacturers of articulated haulers and wheel loaders, and one of the world\xe2\x80\x99s foremost manufacturers of excavation equipment, road development machines, and compact construction equipment."
+}
+
+news_message : _nameless.233.2ca5.7fe0 {
+ timestamp: 1630688400
+ type: dlc
+ title: Wyoming
+ image_hash: BE2B33AB7762549077D6CC5325632ACFBDC841EACF5C712C7B88339DF9F089EE
+ url: "https://store.steampowered.com/app/1415692/?utm_source=ingame_ats&utm_medium=dlc"
+ text: "Home to some of the country's most breathtaking national parks, Wyoming is best known for its red-walled gorges, hot springs, historic prairie towns, pioneer history, and historical attractions. Keep an eye on our blog to be up to date with everything new revealed for this DLC!"
+}
+
+news_message : _nameless.233.2ca5.9b70 {
+ timestamp: 1607018400
+ type: dlc
+ title: "Cabin Accessories"
+ image_hash: C3E34D054F980BE89041785CE92719EAF209CA9639944D132AB61AC0B031C4DE
+ url: "https://store.steampowered.com/app/1477840/?utm_source=ingame_ats&utm_medium=dlc"
+ text: "There is no place like home and for many drivers on the road, their truck cab is their second home. From power inverters to coffee cups, the possibilities for cab customizations are (almost) endless!"
+}
+
+news_message : _nameless.233.2ca5.8c40 {
+ timestamp: 1605204000
+ type: dlc
+ title: Colorado
+ image_hash: 3B54831CD28B0859DC80E4F584DF362E7C378DF346909F728EF14FCB3198529A
+ url: "https://store.steampowered.com/app/1209471/?utm_source=ingame_ats&utm_medium=dlc"
+ text: "See the vastness of the Great Plains with your own eyes. Roam through the Rocky Mountains. Haul cargo on the Million Dollar Highway. Do all this in Colorful Colorado."
+}
+
+news_message : _nameless.233.2ca5.9660 {
+ timestamp: 1594915200
+ type: dlc
+ title: Idaho
+ image_hash: 163F738F2660F24D1199D996A8652B08DE5EAF006AB39F1AD8668B9572132DEF
+ url: "https://store.steampowered.com/app/1209470/?utm_source=ingame_ats&utm_medium=dlc"
+ text: "Welcome to Idaho, a land of rugged beauty that is home to millions of acres of wilderness and a landscape that ranges from desert to fertile farms."
+}
+
+news_message : _nameless.233.2ca5.9930 {
+ timestamp: 1573149600
+ type: dlc
+ title: Utah
+ image_hash: 0208B1CC2CAA8FED51C526F31202D34074366F7B7228D4529C7DCAD53F17FD2A
+ url: "https://store.steampowered.com/app/1104880/?utm_source=ingame_ats&utm_medium=dlc"
+ text: "Welcome to Beehive State Utah. Visit the great Salt Lake City, tourist-favorite Moab or historic St. George cities and see how rich the local architecture and lifestyle are."
+}
+
+news_message : _nameless.233.2ca5.87c0 {
+ timestamp: 1569920400
+ type: dlc
+ title: "Pink Ribbon Charity Pack"
+ image_hash: D5EF88ED0ABC9B9F2D724DAC525179ACC5E89AE235CEBBD11F037E64C1BA986A
+ url: "https://store.steampowered.com/app/1162160/?utm_source=ingame_ats&utm_medium=dlc"
+ text: "We will donate 100% of our proceeds of this DLC to reputable Breast Cancer charities. Join in for a good cause!"
+}
+
+news_message : _nameless.233.2ca5.79b0 {
+ timestamp: 1563202800
+ type: dlc
+ title: "Space Paint Jobs Pack"
+ image_hash: 7D2EB6E1E14486B5E0360E047AA698F8480E7D56DA38C3D5C037D6942DDF7272
+ url: "https://store.steampowered.com/app/1116310/American_Truck_Simulator__Space_Paint_Jobs_Pack/?utm_source=ingame_ats&utm_medium=dlc"
+ text: "To celebrate the 50th anniversary of the Moon Landing, we are releasing a very special Space Paint Jobs Pack for American Truck Simulator, including a few unique accessory items for your truck cab."
+}
+
+news_message : _nameless.233.2ca5.8d60 {
+ timestamp: 1560272400
+ type: dlc
+ title: Washington
+ image_hash: 86477F87F6BBE553FF5C449F083BB3840A411BCAEEE908C6AA9AD73F6D09C0EA
+ url: "https://store.steampowered.com/app/1015160/American_Truck_Simulator__Washington/?utm_source=ingame_ats&utm_medium=dlc"
+ text: "Experience the natural beauty of the \"Evergreen State\" Washington, from its Pacific Coast beaches to snowcapped mountain ranges and bustling cities such as Seattle and Spokane."
+}
+
+news_message : _nameless.233.2ca5.7da0 {
+ timestamp: 1560272400
+ type: dlc
+ title: "Forest Machinery"
+ image_hash: F7BB69D637A1798D1EE1F9E2EC9ECCD6E33378D9502DFC983D85F653E7FA7E88
+ url: "https://store.steampowered.com/app/1076080/American_Truck_Simulator__Forest_Machinery/?utm_source=ingame_ats&utm_medium=dlc"
+ text: "Forest Machinery DLC is the next step in our series of heavy cargo expansions, which introduces machinery and equipment designed and designated for the hard-working people of the wood industry in American Truck Simulator."
+}
+
+news_message : _nameless.233.2ca5.88e0 {
+ timestamp: 1538656560
+ type: dlc
+ title: "Special Transport"
+ image_hash: EE7276A5ED80355891252FBDC241887A5BF9B0EFE94C629B840A9F4F7D2AAAA9
+ url: "https://store.steampowered.com/app/962750/?utm_source=ingame_ats&utm_medium=dlc"
+ text: "We are calling on American top truck drivers to haul heavy cargo across the country! Do you have what it takes to drive these over-sized cargoes through busy cities and winding country roads?"
+}
+
+news_message : _nameless.233.2ca5.8df0 {
+ timestamp: 1538656560
+ type: dlc
+ title: Oregon
+ image_hash: 233289F706D59A24957D0A11BB04D9DC6630656538FA359E21C4CF9FB6BA50E1
+ url: "https://store.steampowered.com/app/800370/?utm_source=ingame_ats&utm_medium=dlc"
+ text: "Experience the wild beauty of \"Beaver State\" Oregon. Over 5,000 miles of new in-game roads; 14 major cities, including Portland, Salem, and Eugene; 700+ completely new 3D assets; 17 new local company docks and industries."
+}
+
+news_message : _nameless.233.2ca5.8e80 {
+ timestamp: 1538656560
+ type: dlc
+ title: "Classic Stripes Paint Jobs Pack"
+ image_hash: 1A5F309AF6A8AA93865AC82D652A350CE32AFC45A4225AE4795398C92CCC9933
+ url: "https://store.steampowered.com/app/951650/?utm_source=ingame_ats&utm_medium=dlc"
+ text: "Customize your truck and trailer with a choice of eight matching classic paint jobs! Achieve millions of color combinations to suit your taste with fully customizable color palette."
+}
+
+}

@@ -1,0 +1,10 @@
+SiiNunit
+{
+ui::history_storage : _nameless.234.a8cf.9c60 {
+ item: 3
+ item[0]: g_start_in_truck
+ item[1]: "g_start_in_truck 1"
+ item[2]: game
+}
+
+}

@@ -1,0 +1,235 @@
+SiiNunit
+{
+direct_gearbox_config : _nameless.1e4.e36c.6340 {
+ name: "Eaton Fuller 18 @@speeds@@"
+ clutch_mode: analog
+ selector_mode: range_split
+ gears: 25
+ gears[0]: _nameless.1e4.e24b.1680
+ gears[1]: _nameless.1e4.e24b.1800
+ gears[2]: _nameless.1e4.e2ce.fbf0
+ gears[3]: _nameless.1e4.e2ce.f9b0
+ gears[4]: _nameless.1e4.e2ce.ff70
+ gears[5]: _nameless.1e4.e2ce.fc70
+ gears[6]: _nameless.1e4.e2ce.ffb0
+ gears[7]: _nameless.1e4.e2ce.f9f0
+ gears[8]: _nameless.1e4.e2ce.fcf0
+ gears[9]: _nameless.1e4.e2ce.fa30
+ gears[10]: _nameless.1e4.e2ce.f970
+ gears[11]: _nameless.1e4.e2ce.fff0
+ gears[12]: _nameless.1e4.e2cf.0030
+ gears[13]: _nameless.1e4.e2ce.fe70
+ gears[14]: _nameless.1e4.e2ce.f930
+ gears[15]: _nameless.1e4.e2ce.fa70
+ gears[16]: _nameless.1e4.e2ce.fef0
+ gears[17]: _nameless.1e4.e2ce.ff30
+ gears[18]: _nameless.1e4.e2ce.fab0
+ gears[19]: _nameless.1e4.e2ce.faf0
+ gears[20]: _nameless.1e4.e2ce.fb30
+ gears[21]: _nameless.1e4.e2ce.fc30
+ gears[22]: _nameless.1e4.e2ce.fdf0
+ gears[23]: _nameless.1e4.e2ce.fb70
+ gears[24]: _nameless.1e4.e2cf.0070
+}
+
+direct_gearbox_gear : _nameless.1e4.e24b.1680 {
+ gear_impulse_index: 0
+ selector_1: -1
+ selector_2: -1
+ gear: 0
+ name: N
+}
+
+direct_gearbox_gear : _nameless.1e4.e24b.1800 {
+ gear_impulse_index: 2
+ selector_1: 0
+ selector_2: 0
+ gear: -1
+ name: R1L
+}
+
+direct_gearbox_gear : _nameless.1e4.e2ce.fbf0 {
+ gear_impulse_index: 2
+ selector_1: 0
+ selector_2: 1
+ gear: -2
+ name: R1H
+}
+
+direct_gearbox_gear : _nameless.1e4.e2ce.f9b0 {
+ gear_impulse_index: 2
+ selector_1: 1
+ selector_2: 0
+ gear: -3
+ name: R2L
+}
+
+direct_gearbox_gear : _nameless.1e4.e2ce.ff70 {
+ gear_impulse_index: 2
+ selector_1: 1
+ selector_2: 1
+ gear: -4
+ name: R2H
+}
+
+direct_gearbox_gear : _nameless.1e4.e2ce.fc70 {
+ gear_impulse_index: 3
+ selector_1: 0
+ selector_2: 0
+ gear: 1
+ name: LL
+}
+
+direct_gearbox_gear : _nameless.1e4.e2ce.ffb0 {
+ gear_impulse_index: 3
+ selector_1: 0
+ selector_2: 1
+ gear: 2
+ name: LH
+}
+
+direct_gearbox_gear : _nameless.1e4.e2ce.f9f0 {
+ gear_impulse_index: 3
+ selector_1: 1
+ selector_2: -1
+ gear: 0
+ name: ""
+}
+
+direct_gearbox_gear : _nameless.1e4.e2ce.fcf0 {
+ gear_impulse_index: 4
+ selector_1: 0
+ selector_2: 0
+ gear: 3
+ name: 1L
+}
+
+direct_gearbox_gear : _nameless.1e4.e2ce.fa30 {
+ gear_impulse_index: 4
+ selector_1: 0
+ selector_2: 1
+ gear: 4
+ name: 1H
+}
+
+direct_gearbox_gear : _nameless.1e4.e2ce.f970 {
+ gear_impulse_index: 5
+ selector_1: 0
+ selector_2: 0
+ gear: 5
+ name: 2L
+}
+
+direct_gearbox_gear : _nameless.1e4.e2ce.fff0 {
+ gear_impulse_index: 5
+ selector_1: 0
+ selector_2: 1
+ gear: 6
+ name: 2H
+}
+
+direct_gearbox_gear : _nameless.1e4.e2cf.0030 {
+ gear_impulse_index: 6
+ selector_1: 0
+ selector_2: 0
+ gear: 7
+ name: 3L
+}
+
+direct_gearbox_gear : _nameless.1e4.e2ce.fe70 {
+ gear_impulse_index: 6
+ selector_1: 0
+ selector_2: 1
+ gear: 8
+ name: 3H
+}
+
+direct_gearbox_gear : _nameless.1e4.e2ce.f930 {
+ gear_impulse_index: 7
+ selector_1: 0
+ selector_2: 0
+ gear: 9
+ name: 4L
+}
+
+direct_gearbox_gear : _nameless.1e4.e2ce.fa70 {
+ gear_impulse_index: 7
+ selector_1: 0
+ selector_2: 1
+ gear: 10
+ name: 4H
+}
+
+direct_gearbox_gear : _nameless.1e4.e2ce.fef0 {
+ gear_impulse_index: 4
+ selector_1: 1
+ selector_2: 0
+ gear: 11
+ name: 5L
+}
+
+direct_gearbox_gear : _nameless.1e4.e2ce.ff30 {
+ gear_impulse_index: 4
+ selector_1: 1
+ selector_2: 1
+ gear: 12
+ name: 5H
+}
+
+direct_gearbox_gear : _nameless.1e4.e2ce.fab0 {
+ gear_impulse_index: 5
+ selector_1: 1
+ selector_2: 0
+ gear: 13
+ name: 6L
+}
+
+direct_gearbox_gear : _nameless.1e4.e2ce.faf0 {
+ gear_impulse_index: 5
+ selector_1: 1
+ selector_2: 1
+ gear: 14
+ name: 6H
+}
+
+direct_gearbox_gear : _nameless.1e4.e2ce.fb30 {
+ gear_impulse_index: 6
+ selector_1: 1
+ selector_2: 0
+ gear: 15
+ name: 7L
+}
+
+direct_gearbox_gear : _nameless.1e4.e2ce.fc30 {
+ gear_impulse_index: 6
+ selector_1: 1
+ selector_2: 1
+ gear: 16
+ name: 7H
+}
+
+direct_gearbox_gear : _nameless.1e4.e2ce.fdf0 {
+ gear_impulse_index: 7
+ selector_1: 1
+ selector_2: 0
+ gear: 17
+ name: 8L
+}
+
+direct_gearbox_gear : _nameless.1e4.e2ce.fb70 {
+ gear_impulse_index: 7
+ selector_1: 1
+ selector_2: 1
+ gear: 18
+ name: 8H
+}
+
+direct_gearbox_gear : _nameless.1e4.e2cf.0070 {
+ gear_impulse_index: 1
+ selector_1: -1
+ selector_2: -1
+ gear: 0
+ name: ""
+}
+
+}

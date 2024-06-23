@@ -1,0 +1,172 @@
+SiiNunit
+{
+direct_gearbox_config : _nameless.211.6b7e.5af0 {
+ name: "Eaton Fuller 13 @@speeds@@"
+ clutch_mode: analog
+ selector_mode: range_split
+ gears: 18
+ gears[0]: _nameless.211.7034.fba0
+ gears[1]: _nameless.211.6f7a.49c0
+ gears[2]: _nameless.211.6f7a.4bc0
+ gears[3]: _nameless.211.6f7a.48c0
+ gears[4]: _nameless.211.6a52.8350
+ gears[5]: _nameless.211.6a52.8250
+ gears[6]: _nameless.211.6a52.8510
+ gears[7]: _nameless.211.6a52.8290
+ gears[8]: _nameless.211.6a52.8610
+ gears[9]: _nameless.211.6a52.85d0
+ gears[10]: _nameless.211.6a52.8590
+ gears[11]: _nameless.211.6a52.84d0
+ gears[12]: _nameless.211.6a52.81d0
+ gears[13]: _nameless.211.6a52.8550
+ gears[14]: _nameless.211.6a52.86d0
+ gears[15]: _nameless.211.6a52.8090
+ gears[16]: _nameless.211.6a52.8410
+ gears[17]: _nameless.211.6a52.8650
+}
+
+direct_gearbox_gear : _nameless.211.7034.fba0 {
+ gear_impulse_index: 0
+ selector_1: -1
+ selector_2: -1
+ gear: 0
+ name: N
+}
+
+direct_gearbox_gear : _nameless.211.6f7a.49c0 {
+ gear_impulse_index: 2
+ selector_1: 0
+ selector_2: -1
+ gear: -1
+ name: RL
+}
+
+direct_gearbox_gear : _nameless.211.6f7a.4bc0 {
+ gear_impulse_index: 2
+ selector_1: 1
+ selector_2: -1
+ gear: -2
+ name: RH
+}
+
+direct_gearbox_gear : _nameless.211.6f7a.48c0 {
+ gear_impulse_index: 3
+ selector_1: 0
+ selector_2: -1
+ gear: 1
+ name: L
+}
+
+direct_gearbox_gear : _nameless.211.6a52.8350 {
+ gear_impulse_index: 3
+ selector_1: 1
+ selector_2: -1
+ gear: 0
+ name: ""
+}
+
+direct_gearbox_gear : _nameless.211.6a52.8250 {
+ gear_impulse_index: 4
+ selector_1: 0
+ selector_2: -1
+ gear: 2
+ name: 1
+}
+
+direct_gearbox_gear : _nameless.211.6a52.8510 {
+ gear_impulse_index: 5
+ selector_1: 0
+ selector_2: -1
+ gear: 3
+ name: 2
+}
+
+direct_gearbox_gear : _nameless.211.6a52.8290 {
+ gear_impulse_index: 6
+ selector_1: 0
+ selector_2: -1
+ gear: 4
+ name: 3
+}
+
+direct_gearbox_gear : _nameless.211.6a52.8610 {
+ gear_impulse_index: 7
+ selector_1: 0
+ selector_2: -1
+ gear: 5
+ name: 4
+}
+
+direct_gearbox_gear : _nameless.211.6a52.85d0 {
+ gear_impulse_index: 4
+ selector_1: 1
+ selector_2: 0
+ gear: 6
+ name: 5L
+}
+
+direct_gearbox_gear : _nameless.211.6a52.8590 {
+ gear_impulse_index: 4
+ selector_1: 1
+ selector_2: 1
+ gear: 7
+ name: 5H
+}
+
+direct_gearbox_gear : _nameless.211.6a52.84d0 {
+ gear_impulse_index: 5
+ selector_1: 1
+ selector_2: 0
+ gear: 8
+ name: 6L
+}
+
+direct_gearbox_gear : _nameless.211.6a52.81d0 {
+ gear_impulse_index: 5
+ selector_1: 1
+ selector_2: 1
+ gear: 9
+ name: 6H
+}
+
+direct_gearbox_gear : _nameless.211.6a52.8550 {
+ gear_impulse_index: 6
+ selector_1: 1
+ selector_2: 0
+ gear: 10
+ name: 7L
+}
+
+direct_gearbox_gear : _nameless.211.6a52.86d0 {
+ gear_impulse_index: 6
+ selector_1: 1
+ selector_2: 1
+ gear: 11
+ name: 7H
+}
+
+direct_gearbox_gear : _nameless.211.6a52.8090 {
+ gear_impulse_index: 7
+ selector_1: 1
+ selector_2: 0
+ gear: 12
+ name: 8L
+}
+
+direct_gearbox_gear : _nameless.211.6a52.8410 {
+ gear_impulse_index: 7
+ selector_1: 1
+ selector_2: 1
+ gear: 13
+ name: 8H
+}
+
+direct_gearbox_gear : _nameless.211.6a52.8650 {
+ gear_impulse_index: 1
+ selector_1: -1
+ selector_2: -1
+ gear: 0
+ name: ""
+}
+
+}
